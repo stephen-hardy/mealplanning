@@ -1,0 +1,78 @@
+[
+  {
+    "name": "broiled or grilled salmon teriyaki",
+    "course": "Main Dish",
+    "categories": [
+      "Fish"
+    ],
+    "source": "mad hungry men and boys",
+    "rating": 4
+  },
+  {
+    "name": "Coconut-Curry Rice with Salmon and Cilantro",
+    "course": "Main Dish",
+    "categories": [
+      "Fish",
+      "Rice"
+    ],
+    "source": "cookish",
+    "rating": 4
+  },
+  {
+    "name": "Garlic Butter Oven Baked Tilapia",
+    "course": "Main Dish",
+    "categories": [
+      "Fish"
+    ],
+    "source": "https://diethood.com/garlic-butter-oven-baked-tilapia/",
+    "source_url": "https://diethood.com/garlic-butter-oven-baked-tilapia/",
+    "rating": 4
+  },
+  {
+    "name": "Make-it-mine Baked Fish",
+    "course": "Main Dish",
+    "categories": [
+      "Fish"
+    ],
+    "source": "better homes",
+    "rating": 0
+  },
+  {
+    "name": "Steamed Fish with Miso and Scallions",
+    "course": "Main Dish",
+    "categories": [
+      "Fish"
+    ],
+    "source": "cookish",
+    "rating": 4
+  },
+  {
+    "name": "Trout with almonds",
+    "course": "Main Dish",
+    "categories": [
+      "Fish"
+    ],
+    "source": "mad hungry family",
+    "rating": 4
+  },
+  {
+    "name": "Tuna Salad Sandwich",
+    "course": "Lunch",
+    "categories": [
+      "Fish",
+      "Sandwich"
+    ],
+    "source": "mad hungry men & boys",
+    "rating": 3
+  },
+  {
+    "name": "Tuna Tomato Pasta",
+    "course": "Main Dish",
+    "categories": [
+      "Fish",
+      "Pasta"
+    ],
+    "source": "Mad Hungry Men & boys",
+    "rating": 3
+  }
+]

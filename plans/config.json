@@ -1,0 +1,50 @@
+{
+  "rotation": [
+    "bean_vegetarian",
+    "chicken",
+    "fish",
+    "bean_beef",
+    "vegetarian",
+    "chicken",
+    "bean_vegetarian",
+    "pork",
+    "fish",
+    "bean_chicken",
+    "vegetarian",
+    "beef",
+    "bean_vegetarian",
+    "chicken",
+    "fish",
+    "bean_pork",
+    "vegetarian",
+    "chicken",
+    "bean_vegetarian",
+    "beef",
+    "fish",
+    "bean_chicken",
+    "vegetarian",
+    "pork"
+  ],
+  "constraints": {
+    "no_repeats": true,
+    "main_dish_only": true,
+    "no_adjacent_pasta": true,
+    "no_adjacent_soup": true,
+    "no_bean_chicken_soup": true,
+    "rated_only": true,
+    "seasonal": {
+      "squash_sweet_potato": [
+        "September",
+        "October",
+        "November",
+        "December",
+        "January",
+        "February"
+      ]
+    }
+  },
+  "metadata": {
+    "version": "1.1",
+    "description": "Updated category rotation and constraints based on original-prompt.md"
+  }
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "name": "caramelized orange pork roast",
+    "course": "Main Dish",
+    "categories": [
+      "Pork"
+    ],
+    "source": "mad hungry family",
+    "rating": 3
+  },
+  {
+    "name": "Cheesy Pork Chops with Mushrooms and Wilted Spinach",
+    "course": "Main Dish",
+    "categories": [
+      "Pork"
+    ],
+    "source": "one and done",
+    "rating": 3
+  },
+  {
+    "name": "Gnocchi with Sausage and Garlicky Broccoli Rabe",
+    "course": "Main Dish",
+    "categories": [
+      "Pork",
+      "Potato",
+      "Sausage",
+      "Vegetable"
+    ],
+    "source": "one and done",
+    "rating": 4
+  },
+  {
+    "name": "Grilled Pork Tenderloin with CHIMICHURRI",
+    "course": "Main Dish",
+    "categories": [
+      "Pork",
+      "Sauce"
+    ],
+    "source": "meal prep magic",
+    "rating": 5
+  },
+  {
+    "name": "Herbed Zucchini",
+    "course": "Side Dish",
+    "categories": [
+      "Pork",
+      "Vegetable",
+      "Vegetarian"
+    ],
+    "source": "taste of home 1997",
+    "rating": 5
+  },
+  {
+    "name": "Kimchi and Bacon Fried Rice",
+    "course": "Main Dish",
+    "categories": [
+      "Pork",
+      "Rice",
+      "Vegetable"
+    ],
+    "source": "cookish",
+    "rating": 4
+  },
+  {
+    "name": "Pork Chops Pizzaiola",
+    "course": "Main Dish",
+    "categories": [
+      "Pork"
+    ],
+    "source": "one and done",
+    "rating": 4
+  },
+  {
+    "name": "pork chops with apples and onions",
+    "course": "Main Dish",
+    "categories": [
+      "Pork"
+    ],
+    "source": "mad hungry men and boys",
+    "rating": 3
+  },
+  {
+    "name": "Seasoned Pork Loin Roast",
+    "course": "Main Dish",
+    "categories": [
+      "Pork"
+    ],
+    "source": "taste of home 2008",
+    "rating": 0
+  },
+  {
+    "name": "Shredded Pork Instant Pot",
+    "course": "Main Dish",
+    "categories": [
+      "Pork",
+      "Sandwich"
+    ],
+    "source": "cookish",
+    "rating": 5
+  }
+]

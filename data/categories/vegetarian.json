@@ -1,0 +1,129 @@
+[
+  {
+    "name": "Blistered Cherry Tomato and Gooey Mozzarella Spaghetti",
+    "course": "Main Dish",
+    "categories": [
+      "Pasta",
+      "Sauce",
+      "Vegetable",
+      "Vegetarian"
+    ],
+    "source": "meal prep magic",
+    "rating": 5
+  },
+  {
+    "name": "Creamy Vegan Lemon Asparagus Pasta",
+    "course": "Main Dish",
+    "categories": [
+      "Pasta",
+      "Vegetable",
+      "Vegetarian"
+    ],
+    "source": "personal collection & minimalist baker",
+    "rating": 0
+  },
+  {
+    "name": "Creamy Vegan White Pasta with Summer Vegetables",
+    "course": "Main Dish",
+    "categories": [
+      "Pasta",
+      "Squash",
+      "Vegetarian"
+    ],
+    "source": "personal collection & minimalist baker",
+    "rating": 0
+  },
+  {
+    "name": "Deli-Style Pasta Salad",
+    "course": "Side Dish",
+    "categories": [
+      "Pasta",
+      "Pork",
+      "Salad",
+      "Vegetable"
+    ],
+    "source": "taste of home 1998",
+    "rating": 4
+  },
+  {
+    "name": "GARLIC PASTA",
+    "course": "Side Dish",
+    "categories": [
+      "Pasta",
+      "Vegetarian"
+    ],
+    "source": "taste of home 1997",
+    "rating": 3
+  },
+  {
+    "name": "Lazy Veggie Lasagna",
+    "course": "Main Dish",
+    "categories": [
+      "Pasta",
+      "Vegetable",
+      "Vegetarian"
+    ],
+    "source": "one and done",
+    "rating": 4
+  },
+  {
+    "name": "Parmesan Noodles",
+    "course": "Side Dish",
+    "categories": [
+      "Pasta",
+      "Vegetarian"
+    ],
+    "source": "Gooseberry Patch Quick & Easy",
+    "rating": 4
+  },
+  {
+    "name": "Pasta Puttanesca",
+    "course": "Main Dish",
+    "categories": [
+      "Pasta"
+    ],
+    "source": "Recipe Keeper",
+    "rating": 0
+  },
+  {
+    "name": "Summer Veggie Zucchini Noodles with Burrata",
+    "course": "Main Dish",
+    "categories": [
+      "Pasta",
+      "Vegetable",
+      "Vegetarian"
+    ],
+    "source": "one and done",
+    "rating": 3
+  },
+  {
+    "name": "Waffles/pancakes",
+    "course": "Breakfast",
+    "categories": [
+      "Vegetarian"
+    ],
+    "source": "",
+    "rating": 0
+  },
+  {
+    "name": "Walnut Ham Linguine",
+    "course": "Main Dish",
+    "categories": [
+      "Pasta",
+      "Pork"
+    ],
+    "source": "taste of home 2001",
+    "rating": 4
+  },
+  {
+    "name": "Zucchini Lemon Pasta",
+    "course": "Main Dish",
+    "categories": [
+      "Pasta",
+      "Squash",
+      "Vegetarian"
+    ],
+    "source": "feel good food",
+    "rating": 3
+  }
+]

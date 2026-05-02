@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <title>May 2026 Meal Plan</title>
+    <link rel="preload" href="mealplan.json" as="fetch" crossorigin>
+    <link rel="preload" href="style.css" as="style">
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#2c3e50">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link rel="apple-touch-icon" href="assets/apple-icon-180.png">
+    <link rel="mask-icon" href="icon.svg" color="#2c3e50">
+
+    <!-- Splash Screens for iOS -->
+    <link rel="apple-touch-startup-image" href="assets/apple-splash-2048-2732.jpg" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="assets/apple-splash-2732-2048.jpg" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
+    <link rel="apple-touch-startup-image" href="assets/apple-splash-1170-2532.jpg" media="(device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+    <link rel="apple-touch-startup-image" href="assets/apple-splash-2532-1170.jpg" media="(device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)">
+    
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Meal Plan">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+    <meta name="format-detection" content="telephone=no">
+    
+    <style>
+        /* Immediate Fix for white flash in Dark Mode */
+        :root { color-scheme: light dark; }
+        body { background-color: canvas; color: canvastext; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1 id="app-title">May 2026 Meal Plan</h1>
+        <h2 id="view-title"></h2>
+    </header>
+    
+    <main id="app-content">
+        <div id="loading">Loading your meal plan...</div>
+    </main>
+
+    <nav id="app-nav" class="hidden">
+        <a href="#overview" id="btn-overview">Home</a>
+        <div class="day-nav">
+            <a href="#" id="btn-prev">← Prev</a>
+            <a href="#" id="btn-next">Next →</a>
+        </div>
+    </nav>
+
+    <script src="app.js"></script>
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('sw.js')
+                    .then(reg => console.log('SW registered'))
+                    .catch(err => console.log('SW failed', err));
+            });
+        }
+    </script>
+</body>
+</html>

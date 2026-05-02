@@ -1,0 +1,715 @@
+[
+  {
+    "day": 1,
+    "category": "Bean & vegetarian",
+    "primary": "Couscous with Chickpeas, Dates and Scallions",
+    "fallback": "Baked Lentils With Cheese",
+    "dessert": "mommom's chocolate bourbon-spiked banana bread",
+    "notes": "Culinary Research: Chickpeas and dates are a classic Moroccan synergy. The sweetness of the dates balances the earthy chickpeas. Tip: For better texture, fluff the couscous with a fork and add a splash of high-quality olive oil before serving.",
+    "primary_info": {
+      "name": "Couscous with Chickpeas, Dates and Scallions",
+      "source_url": null,
+      "source": null
+    },
+    "fallback_info": {
+      "name": "Baked Lentils With Cheese",
+      "source_url": null,
+      "source": null
+    },
+    "dessert_info": {
+      "name": "mommom's chocolate bourbon-spiked banana bread",
+      "source_url": null,
+      "source": "joy the baker"
+    }
+  },
+  {
+    "day": 2,
+    "category": "chicken",
+    "primary": "Flat Roast Chicken",
+    "fallback": "Lemon Herb Chicken",
+    "dessert": "Perfectly Pillowy Cinnamon Rolls",
+    "notes": "Culinary Research: Spatchcocking (flattening) the chicken ensures even cooking and crispier skin. Leftover roast chicken is ideal for sandwiches or salads later in the week. Synergy: Use the lemon and herb aromatics from the chicken to inspire the flavor profile of tomorrow's salmon.",
+    "primary_info": {
+      "name": "Flat Roast Chicken",
+      "source_url": null,
+      "source": "mad hungry men & boys"
+    },
+    "fallback_info": {
+      "name": "Lemon Herb Chicken",
+      "source_url": "https://myfamilydinner.com/lemon-herb-chicken-freezer-meal-recipe/",
+      "source": "https://myfamilydinner.com/lemon-herb-chicken-freezer-meal-recipe/"
+    },
+    "dessert_info": {
+      "name": "Perfectly Pillowy Cinnamon Rolls",
+      "source_url": "https://www.kingarthurbaking.com/recipes/perfectly-pillowy-cinnamon-rolls-recipe",
+      "source": "https://www.kingarthurbaking.com/recipes/perfectly-pillowy-cinnamon-rolls-recipe"
+    }
+  },
+  {
+    "day": 3,
+    "category": "fish",
+    "primary": "broiled or grilled salmon teriyaki",
+    "fallback": "Coconut-Curry Rice with Salmon and Cilantro",
+    "dessert": "Snowball Cookies Recipe",
+    "notes": "Culinary Research: Salmon teriyaki pairs well with the ginger and soy notes. Synergy: If you have leftover rice from Day 1, it can be repurposed here. Technique: Remove salmon from heat 2-3 minutes early to let carryover cooking finish it for a moister result.",
+    "primary_info": {
+      "name": "broiled or grilled salmon teriyaki",
+      "source_url": null,
+      "source": "mad hungry men and boys"
+    },
+    "fallback_info": {
+      "name": "Coconut-Curry Rice with Salmon and Cilantro",
+      "source_url": null,
+      "source": "cookish"
+    },
+    "dessert_info": {
+      "name": "Snowball Cookies Recipe",
+      "source_url": "https://sallysbakingaddiction.com/snowball-cookies-recipe/",
+      "source": "https://sallysbakingaddiction.com/snowball-cookies-recipe/"
+    }
+  },
+  {
+    "day": 4,
+    "category": "bean & beef",
+    "primary": "Ground Beef and Black Bean Taco Soup",
+    "fallback": "Pasta e Fagioli",
+    "dessert": "The Best Pecan Pie",
+    "notes": "Culinary Research: Using black beans in taco soup provides a creamy texture that complements the ground beef. Tip: Sauté the onions and beef together until deeply browned to build a rich base for the soup.",
+    "primary_info": {
+      "name": "Ground Beef and Black Bean Taco Soup",
+      "source_url": null,
+      "source": null
+    },
+    "fallback_info": {
+      "name": "Pasta e Fagioli",
+      "source_url": null,
+      "source": null
+    },
+    "dessert_info": {
+      "name": "The Best Pecan Pie",
+      "source_url": null,
+      "source": null
+    }
+  },
+  {
+    "day": 5,
+    "category": "vegetarian",
+    "primary": "Blistered Cherry Tomato and Gooey Mozzarella Spaghetti",
+    "fallback": "Lazy Veggie Lasagna",
+    "dessert": "Blueberry Crumble with Oats and Tahini",
+    "notes": "Culinary Research: Blistering cherry tomatoes in olive oil creates a natural, sweet sauce that perfectly coats spaghetti. Technique: Salt the pasta water generously—it's the only chance to season the pasta itself.",
+    "primary_info": {
+      "name": "Blistered Cherry Tomato and Gooey Mozzarella Spaghetti",
+      "source_url": null,
+      "source": "meal prep magic"
+    },
+    "fallback_info": {
+      "name": "Lazy Veggie Lasagna",
+      "source_url": null,
+      "source": "one and done"
+    },
+    "dessert_info": {
+      "name": "Blueberry Crumble with Oats and Tahini",
+      "source_url": null,
+      "source": "cookish"
+    }
+  },
+  {
+    "day": 6,
+    "category": "chicken",
+    "primary": "Honey-Mustard Chicken Bake",
+    "fallback": "Tuscan Chicken Pasta",
+    "dessert": "60-Second Chocolate Chip Mug Cookie",
+    "notes": "Culinary Research: Honey-mustard glaze acts as both a flavor enhancer and a moisture barrier for the chicken. Synergy: Serve with a side of simple roasted vegetables to utilize the oven space.",
+    "primary_info": {
+      "name": "Honey-Mustard Chicken Bake",
+      "source_url": null,
+      "source": "one and done"
+    },
+    "fallback_info": {
+      "name": "Tuscan Chicken Pasta",
+      "source_url": "https://www.sixsistersstuff.com/recipe/instant-pot-tuscan-chicken-pasta-freezer-meal/",
+      "source": "https://www.sixsistersstuff.com/recipe/instant-pot-tuscan-chicken-pasta-freezer-meal/"
+    },
+    "dessert_info": {
+      "name": "60-Second Chocolate Chip Mug Cookie",
+      "source_url": "https://www.melskitchencafe.com/60-second-chocolate-chip-mug-cookie/",
+      "source": "https://www.melskitchencafe.com/60-second-chocolate-chip-mug-cookie/"
+    }
+  },
+  {
+    "day": 7,
+    "category": "bean & vegetarian",
+    "primary": "Spanish Chickpeas and Rice",
+    "fallback": "black beans and rice",
+    "dessert": "Banana Oat Cookies",
+    "notes": "Culinary Research: Spanish-style chickpeas benefit from smoked paprika and cumin. Synergy: This dish uses similar aromatics to the Taco Soup from Day 4, allowing for efficient ingredient use.",
+    "primary_info": {
+      "name": "Spanish Chickpeas and Rice",
+      "source_url": null,
+      "source": null
+    },
+    "fallback_info": {
+      "name": "black beans and rice",
+      "source_url": null,
+      "source": null
+    },
+    "dessert_info": {
+      "name": "Banana Oat Cookies",
+      "source_url": null,
+      "source": "little bites guide"
+    }
+  },
+  {
+    "day": 8,
+    "category": "pork",
+    "primary": "Shredded Pork Instant Pot",
+    "fallback": "Grilled Pork Tenderloin with CHIMICHURRI",
+    "dessert": "Black Bean Brownies",
+    "notes": "Culinary Research: Instant Pot shredded pork is versatile; ensure you use a natural release for 10 minutes to keep the meat tender. Synergy: Leftover pork can be used in grain bowls or salads.",
+    "primary_info": {
+      "name": "Shredded Pork Instant Pot",
+      "source_url": null,
+      "source": "cookish"
+    },
+    "fallback_info": {
+      "name": "Grilled Pork Tenderloin with CHIMICHURRI",
+      "source_url": null,
+      "source": "meal prep magic"
+    },
+    "dessert_info": {
+      "name": "Black Bean Brownies",
+      "source_url": "https://chocolatecoveredkatie.com/no-flour-black-bean-brownies/comment-page-173/",
+      "source": "https://chocolatecoveredkatie.com/no-flour-black-bean-brownies/comment-page-173/"
+    }
+  },
+  {
+    "day": 9,
+    "category": "fish",
+    "primary": "Steamed Fish with Miso and Scallions",
+    "fallback": "Garlic Butter Oven Baked Tilapia",
+    "dessert": "golden granola",
+    "notes": "Culinary Research: Miso provides a savory umami depth to steamed fish. Technique: Keep the fish in a tight parchment packet to steam in its own juices for maximum flavor.",
+    "primary_info": {
+      "name": "Steamed Fish with Miso and Scallions",
+      "source_url": null,
+      "source": "cookish"
+    },
+    "fallback_info": {
+      "name": "Garlic Butter Oven Baked Tilapia",
+      "source_url": "https://diethood.com/garlic-butter-oven-baked-tilapia/",
+      "source": "https://diethood.com/garlic-butter-oven-baked-tilapia/"
+    },
+    "dessert_info": {
+      "name": "golden granola",
+      "source_url": null,
+      "source": "mad hungry men and boys"
+    }
+  },
+  {
+    "day": 10,
+    "category": "bean & chicken",
+    "primary": "Chicken Enchiladas",
+    "fallback": "Cheesy Turkey Taco Chili Mac",
+    "dessert": "Decadent Chocolate Cherry Fruitcake",
+    "notes": "Culinary Research: Softening corn tortillas in the microwave before rolling prevents cracking. Synergy: Enchiladas can be prepped a day in advance for an easy weeknight meal.",
+    "primary_info": {
+      "name": "Chicken Enchiladas",
+      "source_url": null,
+      "source": null
+    },
+    "fallback_info": {
+      "name": "Cheesy Turkey Taco Chili Mac",
+      "source_url": null,
+      "source": null
+    },
+    "dessert_info": {
+      "name": "Decadent Chocolate Cherry Fruitcake",
+      "source_url": null,
+      "source": "Mom"
+    }
+  },
+  {
+    "day": 11,
+    "category": "vegetarian",
+    "primary": "Summer Veggie Zucchini Noodles with Burrata",
+    "fallback": "Zucchini Lemon Pasta",
+    "dessert": "rich rice pudding",
+    "notes": "Culinary Research: Zucchini noodles should be salted and drained to avoid a watery dish. Burrata adds a creamy contrast to the fresh summer vegetables.",
+    "primary_info": {
+      "name": "Summer Veggie Zucchini Noodles with Burrata",
+      "source_url": null,
+      "source": "one and done"
+    },
+    "fallback_info": {
+      "name": "Zucchini Lemon Pasta",
+      "source_url": null,
+      "source": "feel good food"
+    },
+    "dessert_info": {
+      "name": "rich rice pudding",
+      "source_url": null,
+      "source": "mad hungry men and boys"
+    }
+  },
+  {
+    "day": 12,
+    "category": "beef",
+    "primary": "Little Cheddar Meat Loaves",
+    "fallback": "Pizza Rice Casserole",
+    "dessert": "German Apple Cake",
+    "notes": "Culinary Research: Mini meatloaves cook faster and stay juicier than a single large loaf. Adding grated zucchini to the meat mixture (technique found in research) adds moisture without affecting flavor.",
+    "primary_info": {
+      "name": "Little Cheddar Meat Loaves",
+      "source_url": null,
+      "source": "taste of home"
+    },
+    "fallback_info": {
+      "name": "Pizza Rice Casserole",
+      "source_url": null,
+      "source": "More with Less"
+    },
+    "dessert_info": {
+      "name": "German Apple Cake",
+      "source_url": null,
+      "source": "mad hungry men & boys"
+    }
+  },
+  {
+    "day": 13,
+    "category": "bean & vegetarian",
+    "primary": "Pot-in-Pot Puerto Rican Rice and Beans",
+    "fallback": "Baked Lentils With Cheese",
+    "dessert": "Apple Crisp",
+    "notes": "Culinary Research: Pot-in-pot cooking in the Instant Pot allows you to cook rice and beans simultaneously without them mixing. Technique: Use sofrito for an authentic flavor profile.",
+    "primary_info": {
+      "name": "Pot-in-Pot Puerto Rican Rice and Beans",
+      "source_url": null,
+      "source": null
+    },
+    "fallback_info": {
+      "name": "Baked Lentils With Cheese",
+      "source_url": null,
+      "source": null
+    },
+    "dessert_info": {
+      "name": "Apple Crisp",
+      "source_url": null,
+      "source": "More with Less"
+    }
+  },
+  {
+    "day": 14,
+    "category": "chicken",
+    "primary": "Tuscan Chicken Pasta",
+    "fallback": "Thai Chicken Fettuccine",
+    "dessert": "Chewy Chocolate Chip Cookie Bars",
+    "notes": "Culinary Research: Tuscan chicken pasta benefits from sun-dried tomatoes and spinach. Synergy: Use any leftover spinach from the Zucchini Noodles on Day 11.",
+    "primary_info": {
+      "name": "Tuscan Chicken Pasta",
+      "source_url": "https://www.sixsistersstuff.com/recipe/instant-pot-tuscan-chicken-pasta-freezer-meal/",
+      "source": "https://www.sixsistersstuff.com/recipe/instant-pot-tuscan-chicken-pasta-freezer-meal/"
+    },
+    "fallback_info": {
+      "name": "Thai Chicken Fettuccine",
+      "source_url": null,
+      "source": "personal collection"
+    },
+    "dessert_info": {
+      "name": "Chewy Chocolate Chip Cookie Bars",
+      "source_url": "https://www.kingarthurbaking.com/recipes/chewy-chocolate-chip-cookie-bars-recipe",
+      "source": "https://www.kingarthurbaking.com/recipes/chewy-chocolate-chip-cookie-bars-recipe"
+    }
+  },
+  {
+    "day": 15,
+    "category": "fish",
+    "primary": "Trout with almonds",
+    "fallback": "Tuna Tomato Pasta",
+    "dessert": "Chocolate Chip Oatmeal Cookies",
+    "notes": "Culinary Research: Toasted almonds provide a necessary crunch to the delicate trout. Synergy: The lemon juice used for the trout can also be used to zest the dessert.",
+    "primary_info": {
+      "name": "Trout with almonds",
+      "source_url": null,
+      "source": "mad hungry family"
+    },
+    "fallback_info": {
+      "name": "Tuna Tomato Pasta",
+      "source_url": null,
+      "source": "Mad Hungry Men & boys"
+    },
+    "dessert_info": {
+      "name": "Chocolate Chip Oatmeal Cookies",
+      "source_url": null,
+      "source": "More with Less"
+    }
+  },
+  {
+    "day": 16,
+    "category": "bean & pork",
+    "primary": "Honey Baked Lentils",
+    "fallback": "Ham and White Bean Soup",
+    "dessert": "Magic Bars",
+    "notes": "Culinary Research: Bacon in lentils provides a smoky depth that balances the sweetness of honey. Technique: Simmer lentils slowly to ensure they don't burst and become mushy.",
+    "primary_info": {
+      "name": "Honey Baked Lentils",
+      "source_url": null,
+      "source": null
+    },
+    "fallback_info": {
+      "name": "Ham and White Bean Soup",
+      "source_url": null,
+      "source": null
+    },
+    "dessert_info": {
+      "name": "Magic Bars",
+      "source_url": null,
+      "source": "gooseberry patch"
+    }
+  },
+  {
+    "day": 17,
+    "category": "vegetarian",
+    "primary": "Lazy Veggie Lasagna",
+    "fallback": "Walnut Ham Linguine",
+    "dessert": "Roman Apple Cake",
+    "notes": "Culinary Research: No-boil lasagna noodles can be used in \"lazy\" lasagna to save time, but ensure there is enough sauce to hydrate them. Synergy: Leftover apples from the German Apple Cake (Day 12) can be used in the Roman Apple Cake today.",
+    "primary_info": {
+      "name": "Lazy Veggie Lasagna",
+      "source_url": null,
+      "source": "one and done"
+    },
+    "fallback_info": {
+      "name": "Walnut Ham Linguine",
+      "source_url": null,
+      "source": "taste of home 2001"
+    },
+    "dessert_info": {
+      "name": "Roman Apple Cake",
+      "source_url": null,
+      "source": "More with Less"
+    }
+  },
+  {
+    "day": 18,
+    "category": "chicken",
+    "primary": "Lemon Herb Chicken",
+    "fallback": "Shepherd's Pie Stew",
+    "dessert": "whole wheat chocolate oat cookies",
+    "notes": "Culinary Research: Fresh herbs under the skin of the chicken provide a direct flavor infusion. Synergy: If you made extra roast chicken on Day 2, you can use the carcass to make broth for future soups.",
+    "primary_info": {
+      "name": "Lemon Herb Chicken",
+      "source_url": "https://myfamilydinner.com/lemon-herb-chicken-freezer-meal-recipe/",
+      "source": "https://myfamilydinner.com/lemon-herb-chicken-freezer-meal-recipe/"
+    },
+    "fallback_info": {
+      "name": "Shepherd's Pie Stew",
+      "source_url": null,
+      "source": "one and done"
+    },
+    "dessert_info": {
+      "name": "whole wheat chocolate oat cookies",
+      "source_url": "https://smittenkitchen.com/2020/09/whole-wheat-chocolate-oat-cookies/",
+      "source": "https://smittenkitchen.com/2020/09/whole-wheat-chocolate-oat-cookies/"
+    }
+  },
+  {
+    "day": 19,
+    "category": "bean & vegetarian",
+    "primary": "black beans and rice",
+    "fallback": "Spanish Chickpeas and Rice",
+    "dessert": "60-Second Chocolate Chip Mug Cookie",
+    "notes": "Culinary Research: Adding a splash of lime at the end of cooking black beans brightens the earthy flavor. Synergy: Reuse any leftover rice from Day 13.",
+    "primary_info": {
+      "name": "black beans and rice",
+      "source_url": null,
+      "source": null
+    },
+    "fallback_info": {
+      "name": "Spanish Chickpeas and Rice",
+      "source_url": null,
+      "source": null
+    },
+    "dessert_info": {
+      "name": "60-Second Chocolate Chip Mug Cookie",
+      "source_url": "https://www.melskitchencafe.com/60-second-chocolate-chip-mug-cookie/",
+      "source": "https://www.melskitchencafe.com/60-second-chocolate-chip-mug-cookie/"
+    }
+  },
+  {
+    "day": 20,
+    "category": "beef",
+    "primary": "Gochujang Skirt Steak and Noodles with Kimchi",
+    "fallback": "Spaghetti",
+    "dessert": "New Hampshire Maple-Walnut Scones",
+    "notes": "Culinary Research: Kimchi provides a fermented tang that balances the rich skirt steak. Technique: Slice steak against the grain for maximum tenderness.",
+    "primary_info": {
+      "name": "Gochujang Skirt Steak and Noodles with Kimchi",
+      "source_url": null,
+      "source": "cookish"
+    },
+    "fallback_info": {
+      "name": "Spaghetti",
+      "source_url": "https://kristineskitchenblog.com/instant-pot-spaghetti/",
+      "source": "https://kristineskitchenblog.com/instant-pot-spaghetti/"
+    },
+    "dessert_info": {
+      "name": "New Hampshire Maple-Walnut Scones",
+      "source_url": "https://www.kingarthurbaking.com/recipes/new-hampshire-maple-walnut-scones-recipe",
+      "source": "https://www.kingarthurbaking.com/recipes/new-hampshire-maple-walnut-scones-recipe"
+    }
+  },
+  {
+    "day": 21,
+    "category": "fish",
+    "primary": "Garlic Butter Oven Baked Tilapia",
+    "fallback": "Tuna Salad Sandwich",
+    "dessert": "Perfectly Pillowy Cinnamon Rolls",
+    "notes": "Culinary Research: Tilapia is a neutral fish that carries the garlic butter well. Synergy: Use the garlic butter technique from Day 15's trout for consistency.",
+    "primary_info": {
+      "name": "Garlic Butter Oven Baked Tilapia",
+      "source_url": "https://diethood.com/garlic-butter-oven-baked-tilapia/",
+      "source": "https://diethood.com/garlic-butter-oven-baked-tilapia/"
+    },
+    "fallback_info": {
+      "name": "Tuna Salad Sandwich",
+      "source_url": null,
+      "source": "mad hungry men & boys"
+    },
+    "dessert_info": {
+      "name": "Perfectly Pillowy Cinnamon Rolls",
+      "source_url": "https://www.kingarthurbaking.com/recipes/perfectly-pillowy-cinnamon-rolls-recipe",
+      "source": "https://www.kingarthurbaking.com/recipes/perfectly-pillowy-cinnamon-rolls-recipe"
+    }
+  },
+  {
+    "day": 22,
+    "category": "bean & chicken",
+    "primary": "Cheesy Turkey Taco Chili Mac",
+    "fallback": "Chicken and Green Beans Casserole",
+    "dessert": "mommom's chocolate bourbon-spiked banana bread",
+    "notes": "Culinary Research: Chili Mac is a great way to use up smaller amounts of various cheeses. Synergy: The taco spices align with the flavors from Day 4 and Day 7.",
+    "primary_info": {
+      "name": "Cheesy Turkey Taco Chili Mac",
+      "source_url": null,
+      "source": null
+    },
+    "fallback_info": {
+      "name": "Chicken and Green Beans Casserole",
+      "source_url": null,
+      "source": null
+    },
+    "dessert_info": {
+      "name": "mommom's chocolate bourbon-spiked banana bread",
+      "source_url": null,
+      "source": "joy the baker"
+    }
+  },
+  {
+    "day": 23,
+    "category": "vegetarian",
+    "primary": "Zucchini Lemon Pasta",
+    "fallback": "Blistered Cherry Tomato and Gooey Mozzarella Spaghetti",
+    "dessert": "Snowball Cookies Recipe",
+    "notes": "Culinary Research: Lemon zest adds a floral note to zucchini pasta. Technique: Cook pasta until just al dente, then finish it in the pan with the zucchini and sauce for better flavor absorption.",
+    "primary_info": {
+      "name": "Zucchini Lemon Pasta",
+      "source_url": null,
+      "source": "feel good food"
+    },
+    "fallback_info": {
+      "name": "Blistered Cherry Tomato and Gooey Mozzarella Spaghetti",
+      "source_url": null,
+      "source": "meal prep magic"
+    },
+    "dessert_info": {
+      "name": "Snowball Cookies Recipe",
+      "source_url": "https://sallysbakingaddiction.com/snowball-cookies-recipe/",
+      "source": "https://sallysbakingaddiction.com/snowball-cookies-recipe/"
+    }
+  },
+  {
+    "day": 24,
+    "category": "pork",
+    "primary": "Grilled Pork Tenderloin with CHIMICHURRI",
+    "fallback": "caramelized orange pork roast",
+    "dessert": "The Best Pecan Pie",
+    "notes": "Culinary Research: Chimichurri is a bright, herbaceous sauce that cuts through the richness of the pork. Technique: Allow the pork to rest for 10 minutes before slicing to retain juices.",
+    "primary_info": {
+      "name": "Grilled Pork Tenderloin with CHIMICHURRI",
+      "source_url": null,
+      "source": "meal prep magic"
+    },
+    "fallback_info": {
+      "name": "caramelized orange pork roast",
+      "source_url": null,
+      "source": "mad hungry family"
+    },
+    "dessert_info": {
+      "name": "The Best Pecan Pie",
+      "source_url": null,
+      "source": null
+    }
+  },
+  {
+    "day": 25,
+    "category": "bean & vegetarian",
+    "primary": "Pot-in-Pot Puerto Rican Rice and Beans",
+    "fallback": "Couscous with Chickpeas, Dates and Scallions",
+    "dessert": "Apple Crisp",
+    "notes": "Culinary Research: Reusing the Pot-in-Pot technique from Day 13. Synergy: This dish is pantry-friendly and efficient for the end of the month.",
+    "primary_info": {
+      "name": "Pot-in-Pot Puerto Rican Rice and Beans",
+      "source_url": null,
+      "source": null
+    },
+    "fallback_info": {
+      "name": "Couscous with Chickpeas, Dates and Scallions",
+      "source_url": null,
+      "source": null
+    },
+    "dessert_info": {
+      "name": "Apple Crisp",
+      "source_url": null,
+      "source": "More with Less"
+    }
+  },
+  {
+    "day": 26,
+    "category": "chicken",
+    "primary": "Thai Chicken Fettuccine",
+    "fallback": "Chicken-Tortellini Soup",
+    "dessert": "Banana Oat Cookies",
+    "notes": "Culinary Research: Thai flavors in a creamy fettuccine base provide a unique twist on pasta. Technique: Use peanut butter and coconut milk to build a rich, savory sauce.",
+    "primary_info": {
+      "name": "Thai Chicken Fettuccine",
+      "source_url": null,
+      "source": "personal collection"
+    },
+    "fallback_info": {
+      "name": "Chicken-Tortellini Soup",
+      "source_url": null,
+      "source": "gooseberry patch quick and easy"
+    },
+    "dessert_info": {
+      "name": "Banana Oat Cookies",
+      "source_url": null,
+      "source": "little bites guide"
+    }
+  },
+  {
+    "day": 27,
+    "category": "fish",
+    "primary": "Coconut-Curry Rice with Salmon and Cilantro",
+    "fallback": "Trout with almonds",
+    "dessert": "Black Bean Brownies",
+    "notes": "Culinary Research: Coconut milk and curry powder create a lush base for salmon. Synergy: Use any leftover cilantro from the Chimichurri on Day 24.",
+    "primary_info": {
+      "name": "Coconut-Curry Rice with Salmon and Cilantro",
+      "source_url": null,
+      "source": "cookish"
+    },
+    "fallback_info": {
+      "name": "Trout with almonds",
+      "source_url": null,
+      "source": "mad hungry family"
+    },
+    "dessert_info": {
+      "name": "Black Bean Brownies",
+      "source_url": "https://chocolatecoveredkatie.com/no-flour-black-bean-brownies/comment-page-173/",
+      "source": "https://chocolatecoveredkatie.com/no-flour-black-bean-brownies/comment-page-173/"
+    }
+  },
+  {
+    "day": 28,
+    "category": "bean & beef",
+    "primary": "Southwestern Beef and Black Bean Soup",
+    "fallback": "Ground Beef and Black Bean Taco Soup",
+    "dessert": "Decadent Chocolate Cherry Fruitcake",
+    "notes": "Culinary Research: Southwestern soup benefits from the inclusion of corn and bell peppers. Synergy: This utilizes beans and ground beef, maintaining the category rotation effectively.",
+    "primary_info": {
+      "name": "Southwestern Beef and Black Bean Soup",
+      "source_url": null,
+      "source": null
+    },
+    "fallback_info": {
+      "name": "Ground Beef and Black Bean Taco Soup",
+      "source_url": null,
+      "source": null
+    },
+    "dessert_info": {
+      "name": "Decadent Chocolate Cherry Fruitcake",
+      "source_url": null,
+      "source": "Mom"
+    }
+  },
+  {
+    "day": 29,
+    "category": "vegetarian",
+    "primary": "Walnut Ham Linguine",
+    "fallback": "Lazy Veggie Lasagna",
+    "dessert": "rich rice pudding",
+    "notes": "Culinary Research: Toasted walnuts add a nutty depth to the ham linguine. Synergy: This dish uses ham, which aligns with the pork rotation earlier in the week.",
+    "primary_info": {
+      "name": "Walnut Ham Linguine",
+      "source_url": null,
+      "source": "taste of home 2001"
+    },
+    "fallback_info": {
+      "name": "Lazy Veggie Lasagna",
+      "source_url": null,
+      "source": "one and done"
+    },
+    "dessert_info": {
+      "name": "rich rice pudding",
+      "source_url": null,
+      "source": "mad hungry men and boys"
+    }
+  },
+  {
+    "day": 30,
+    "category": "chicken",
+    "primary": "Shepherd's Pie Stew",
+    "fallback": "Honey-Mustard Chicken Bake",
+    "dessert": "German Apple Cake",
+    "notes": "Culinary Research: Shepherd's pie in stew form is a comforting way to end the month. Technique: Use instant potatoes as a thickener if the stew is too thin.",
+    "primary_info": {
+      "name": "Shepherd's Pie Stew",
+      "source_url": null,
+      "source": "one and done"
+    },
+    "fallback_info": {
+      "name": "Honey-Mustard Chicken Bake",
+      "source_url": null,
+      "source": "one and done"
+    },
+    "dessert_info": {
+      "name": "German Apple Cake",
+      "source_url": null,
+      "source": "mad hungry men & boys"
+    }
+  },
+  {
+    "day": 31,
+    "category": "bean & vegetarian",
+    "primary": "Baked Lentils With Cheese",
+    "fallback": "Spanish Chickpeas and Rice",
+    "dessert": "Magic Bars",
+    "notes": "Culinary Research: Baked lentils with cheese is a protein-packed vegetarian finale. Synergy: This dish uses staple ingredients (lentils, onions, cheese) that are likely already in the pantry.",
+    "primary_info": {
+      "name": "Baked Lentils With Cheese",
+      "source_url": null,
+      "source": null
+    },
+    "fallback_info": {
+      "name": "Spanish Chickpeas and Rice",
+      "source_url": null,
+      "source": null
+    },
+    "dessert_info": {
+      "name": "Magic Bars",
+      "source_url": null,
+      "source": "gooseberry patch"
+    }
+  }
+]

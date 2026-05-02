@@ -1,0 +1,69 @@
+[
+  {
+    "id": "8a962111-f48e-4014-aea2-d9d25b38f6fc",
+    "name": "Ground Beef and Black Bean Taco Soup",
+    "courses": [
+      "Main Dish"
+    ],
+    "categories": [
+      "Bean",
+      "Beef",
+      "Freezer",
+      "Soup"
+    ],
+    "rating": 3,
+    "ingredients": [
+      "1 pound ground beef",
+      "1 onion ((diced))",
+      "1 ounce taco seasoning ((1 store-bought packet or homemade))",
+      "15 ounces canned corn ((1 can; do not drain))",
+      "15 ounces black beans ((1 can; drained and rinsed))",
+      "28 ounces diced tomatoes ((do not drain))",
+      "8 ounces tomato sauce ((1 can))",
+      "4 ounces canned diced green chilies ((1 can))",
+      "1 bag tortilla chips ((optional topping))",
+      "\u00bd cup shredded Mexican cheese ((optional topping))"
+    ],
+    "directions": "\n                        1. Press the SAUTE button on the Instant Pot and let it heat up.\n                        \n                        2. Add in the ground beef and onion, cook until the meat is no longer pink.\n                        \n                        3. Drain meat if desired.\n                        \n                        4. Stir in taco seasoning, corn, black beans, tomatoes, tomato sauce, and green chilies.\n                        \n                        5. Place the lid on the top of the Instant Pot. Move the valve to SEALING (not venting).\n                        \n                        6. Press the MANUAL (or PRESSURE COOK) button and set timer for 5 minutes.\n                        \n                        7. When the timer is finished, move the valve to VENTING and do a QUICK RELEASE with the pressure.\n                        \n                        8. Remove the lid and portion into bowls. Top with your favorite taco toppings and serve.\n",
+    "notes": "\n",
+    "mapped_rotation_category": "Bean & beef"
+  },
+  {
+    "id": "428da6b6-777a-4771-9b10-3f926e71e7b6",
+    "name": "Pasta e Fagioli",
+    "courses": [
+      "Main Dish"
+    ],
+    "categories": [
+      "Bean",
+      "Beef",
+      "Freezer",
+      "Pork",
+      "Soup"
+    ],
+    "rating": 3,
+    "ingredients": [
+      "2 Tablespoons olive oil",
+      "1 pound lean ground beef",
+      "1 small onion (diced)",
+      "2 cloves garlic (minced)",
+      "1 cup tomato sauce ((can also use condensed tomato soup))",
+      "1 cup diced celery",
+      "1 cup diced red bell pepper",
+      "1 cup yellow or orange bell pepper",
+      "2 cups chopped carrots",
+      "15 ounces canned kidney beans (drained and rinsed)",
+      "15 ounces canned Northern Beans (drained and rinsed)",
+      "1 Tablespoon Italian Seasoning",
+      "1 teaspoon salt",
+      "\u00bd teaspoon ground black pepper",
+      "dash of red pepper flakes",
+      "1 cup ditalini pasta",
+      "6 cups beef broth (or stock)",
+      "fresh grated Parmesan cheese and fresh basil (optional topping)"
+    ],
+    "directions": "\n                        1. Press SAUTE on your Instant Pot.\n                        \n                        2. Once it heats up, add the olive oil.\n                        \n                        3. Place the ground beef and onion into the Instant Pot with the hot oil and brown until fully cooked.\n                        \n                        4. Add in the garlic and saute for a minute more.\n                        \n                        5. Dump in the rest of your ingredients, making sure that as much of the pasta as possible is covered by the beef broth.\n                        \n                        6. Place the lid on top, press the PRESSURE COOK and set timer for 5 minutes.\n                        \n                        7. When the timer is done, do a quick release of the pressure.\n                        \n                        8. Stir everything together and serve. If desired, top with fresh grated Parmesan cheese and fresh basil.\n",
+    "notes": "\n                        Leftover pork or ham is fine.\n",
+    "mapped_rotation_category": "Bean & beef"
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Boursin Orzo Bake with Chicken and Veggies",
+    "course": "Main Dish",
+    "categories": [
+      "Chicken",
+      "Pasta",
+      "Squash",
+      "Vegetable"
+    ],
+    "source": "https://flavorfulife.com/boursin-orzo-bake/",
+    "source_url": "https://flavorfulife.com/boursin-orzo-bake/",
+    "rating": 4
+  },
+  {
+    "name": "Chicken Cacciatore",
+    "course": "Main Dish",
+    "categories": [
+      "Chicken",
+      "Pasta",
+      "Rice",
+      "Sauce"
+    ],
+    "source": "mad hungry family",
+    "rating": 3
+  },
+  {
+    "name": "Chicken Salad with Apples",
+    "course": "Lunch",
+    "categories": [
+      "Chicken",
+      "Fruit",
+      "Sandwich"
+    ],
+    "source": "https://www.budgetbytes.com/chicken-n-apple-salad/",
+    "source_url": "https://www.budgetbytes.com/chicken-n-apple-salad/",
+    "rating": 3
+  },
+  {
+    "name": "Chicken-Pepper Pasta",
+    "course": "Main Dish",
+    "categories": [
+      "Chicken",
+      "Pasta"
+    ],
+    "source": "Gooseberry Patch Quick & Easy",
+    "rating": 0
+  },
+  {
+    "name": "Chicken-Tortellini Soup",
+    "course": "Main Dish",
+    "categories": [
+      "Chicken",
+      "Pasta",
+      "Soup"
+    ],
+    "source": "gooseberry patch quick and easy",
+    "rating": 4
+  },
+  {
+    "name": "Creamy Butternut Pasta with Spicy Sausage and Spinach",
+    "course": "Main Dish",
+    "categories": [
+      "Chicken",
+      "Pasta",
+      "Pork",
+      "Potato",
+      "Sausage",
+      "Squash"
+    ],
+    "source": "one and done",
+    "rating": 3
+  },
+  {
+    "name": "Dijon-Maple Chicken with Brussels and Butternut",
+    "course": "Main Dish",
+    "categories": [
+      "Chicken",
+      "Squash",
+      "Vegetable"
+    ],
+    "source": "one and done",
+    "rating": 5
+  },
+  {
+    "name": "Flat Roast Chicken",
+    "course": "Main Dish",
+    "categories": [
+      "Chicken"
+    ],
+    "source": "mad hungry men & boys",
+    "rating": 5
+  },
+  {
+    "name": "Herb-Rubbed Turkey",
+    "course": "Main Dish",
+    "categories": [
+      "Chicken"
+    ],
+    "source": "taste of home 1998",
+    "rating": 0
+  },
+  {
+    "name": "Honey Balsamic Grilled Chicken and Vegetables",
+    "course": "Main Dish",
+    "categories": [
+      "Chicken"
+    ],
+    "source": "one and done",
+    "rating": 0
+  },
+  {
+    "name": "Honey-Mustard Chicken Bake",
+    "course": "Main Dish",
+    "categories": [
+      "Chicken"
+    ],
+    "source": "one and done",
+    "rating": 3
+  },
+  {
+    "name": "Lemon Herb Chicken",
+    "course": "Main Dish",
+    "categories": [
+      "Chicken",
+      "Freezer"
+    ],
+    "source": "https://myfamilydinner.com/lemon-herb-chicken-freezer-meal-recipe/",
+    "source_url": "https://myfamilydinner.com/lemon-herb-chicken-freezer-meal-recipe/",
+    "rating": 5
+  },
+  {
+    "name": "MAKE-IT-MINE SKILLET CHICKEN",
+    "course": "Main Dish",
+    "categories": [
+      "Chicken",
+      "Pasta"
+    ],
+    "source": "better homes",
+    "rating": 0
+  },
+  {
+    "name": "Mexican Chicken Corn Chowder",
+    "course": "Main Dish",
+    "categories": [
+      "Chicken",
+      "Soup"
+    ],
+    "source": "taste of home 1997",
+    "rating": 0
+  },
+  {
+    "name": "Savory Chicken pocket pies",
+    "course": "Lunch",
+    "categories": [
+      "Chicken",
+      "Freezer",
+      "Pie",
+      "Sandwich"
+    ],
+    "source": "mad hungry men & boys",
+    "rating": 5
+  },
+  {
+    "name": "Shepherd's Pie Stew",
+    "course": "Main Dish",
+    "categories": [
+      "Chicken",
+      "Potato",
+      "Soup"
+    ],
+    "source": "one and done",
+    "rating": 4
+  },
+  {
+    "name": "Thai Chicken Fettuccine",
+    "course": "Main Dish",
+    "categories": [
+      "Chicken",
+      "Pasta",
+      "Vegetarian"
+    ],
+    "source": "personal collection",
+    "rating": 4
+  },
+  {
+    "name": "Tuscan Chicken Pasta",
+    "course": "Main Dish",
+    "categories": [
+      "Chicken",
+      "Freezer",
+      "Pasta"
+    ],
+    "source": "https://www.sixsistersstuff.com/recipe/instant-pot-tuscan-chicken-pasta-freezer-meal/",
+    "source_url": "https://www.sixsistersstuff.com/recipe/instant-pot-tuscan-chicken-pasta-freezer-meal/",
+    "rating": 4
+  }
+]

@@ -8,18 +8,118 @@
     "notes": "Culinary Research: Chickpeas and dates are a classic Moroccan synergy. The sweetness of the dates balances the earthy chickpeas. Tip: For better texture, fluff the couscous with a fork and add a splash of high-quality olive oil before serving.",
     "primary_info": {
       "name": "Couscous with Chickpeas, Dates and Scallions",
-      "source_url": null,
-      "source": null
+      "course": "Lunch",
+      "categories": [
+        "Bean",
+        "Other grain",
+        "Salad",
+        "Vegetarian"
+      ],
+      "source": "cookish",
+      "rating": 5,
+      "ingredients": [
+        "1 cup couscous or 1 cup quinoa",
+        "15-ounce can chickpeas, rinsed and drained",
+        "2 tablespoons harissa paste",
+        "1/2 cup pitted dates, chopped OR 1/2 cup dried apricots, chopped",
+        "Kosher salt and ground black pepper",
+        "1 cup boiling water (or 1.5 cup water for quinoa)",
+        "1/4 cup extra-virgin olive oil",
+        "1 tablespoon grated lemon zest",
+        "3 tablespoons lemon juice",
+        "1 bunch scallions, thinly sliced"
+      ],
+      "directions": [
+        "In a large bowl, combine the couscous, chickpeas, harissa, dates, 1 teaspoon salt and 1/2 teaspoon pepper.",
+        "Stir in the boiling water, cover and let stand until absorbed, about 10 minutes.",
+        "In a small bowl, whisk together the oil and lemon zest and juice.",
+        "Using a fork, fluff the couscous mixture.",
+        "Add the oil mixture and scallions, then toss.",
+        "Season with salt and pepper."
+      ],
+      "notes": "Assemble in instant pot and cook for 1 minute. Use natural release.",
+      "prepTime": "PT20M",
+      "cookTime": "PT0S",
+      "image": "6cad5cdd-aed1-43ea-a025-852d5894ee08_0.jpg"
     },
     "fallback_info": {
       "name": "Baked Lentils With Cheese",
-      "source_url": null,
-      "source": null
+      "course": "Main Dish",
+      "categories": [
+        "Bean",
+        "Casserole",
+        "Rice",
+        "Vegetarian"
+      ],
+      "source": "More with Less",
+      "rating": 4,
+      "ingredients": [
+        "1 3/4 c. lentils, rinsed",
+        "2 c. water",
+        "1 whole bay leaf",
+        "2 t. salt",
+        "1/4 t. pepper",
+        "1 1/2 t. each marjoram, sage, thyme",
+        "2 large onions, chopped",
+        "2 cloves garlic, minced",
+        "2 c. canned tomatoes",
+        "2 large carrots, sliced 1/8\" thick",
+        "1/2 c. thinly sliced celery",
+        "1 green pepper, chopped (optional)",
+        "2 T. finely chopped parsley",
+        "3 c. shredded cheddar cheese"
+      ],
+      "directions": [
+        "Preheat oven to 375°.",
+        "Combine in shallow 9x13\" baking dish: lentils, water, bay leaf, salt, pepper, marjoram, sage, thyme, onions, garlic, and canned tomatoes.",
+        "Cover tightly and bake for 30 minutes.",
+        "Uncover and stir in carrots and celery.",
+        "Bake covered for 40 minutes until vegetables are tender.",
+        "Stir in green pepper and parsley.",
+        "Sprinkle cheese on top.",
+        "Bake uncovered for 5 minutes until cheese melts."
+      ],
+      "notes": "Cook lentils in instant pot.",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H10M",
+      "image": "f8a45a48-145a-4a5f-b8ec-20e22624676d_0.jpg"
     },
     "dessert_info": {
       "name": "mommom's chocolate bourbon-spiked banana bread",
-      "source_url": null,
-      "source": "joy the baker"
+      "course": "Dessert",
+      "categories": [
+        "Bread",
+        "Fruit"
+      ],
+      "source": "joy the baker",
+      "rating": 5,
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "3 teaspoons baking powder",
+        "½ teaspoon salt",
+        "½ cup (1 stick) unsalted butter, softened",
+        "1 cup granulated sugar",
+        "2 large eggs",
+        "1½ cups mashed ripe bananas (about 3)",
+        "1 teaspoon lemon juice",
+        "3 tablespoons bourbon",
+        "1 cup coarsely chopped walnuts",
+        "1 cup (6 ounces) semisweet chocolate chips"
+      ],
+      "directions": [
+        "Place a rack in the center of the oven and preheat to 350 degrees F. Grease and flour an 8x4- or 9x5-inch loaf pan. Set aside.",
+        "In a medium bowl, sift together flour, baking powder, and salt.",
+        "In the bowl of an electric stand mixer fitted with a paddle attachment, beat butter and sugar until light and fluffy, 3 to 5 minutes.",
+        "Add eggs one at a time, beating for 1 minute between each addition. Stop the mixer, scrape down the sides of the bowl and add bananas, lemon juice, and bourbon. Beat until well incorporated.",
+        "Turn the mixer to low and add the flour mixture all at once. Beat until almost incorporated. Stop the mixer and remove the bowl from the mixer. Add the walnuts and chocolate chips and incorporate the rest of the ingredients with a spatula.",
+        "Spoon mixture into loaf pan. Bake for 45 minutes to 1 hour, or until a skewer inserted in the center of the loaf comes out clean.",
+        "Remove from the oven and allow loaf to cool in the pan for 20 minutes before inverting onto a wire rack to cool completely. Serve with milky coffee and enjoy.",
+        "Banana bread will keep for up to 5 days, well wrapped, at room temperature."
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT45M",
+      "image": "3079eb28-ac76-4c4e-bf04-49600bb3130e_0.jpg"
     }
   },
   {
@@ -31,18 +131,120 @@
     "notes": "Culinary Research: Spatchcocking (flattening) the chicken ensures even cooking and crispier skin. Leftover roast chicken is ideal for sandwiches or salads later in the week. Synergy: Use the lemon and herb aromatics from the chicken to inspire the flavor profile of tomorrow's salmon.",
     "primary_info": {
       "name": "Flat Roast Chicken",
-      "source_url": null,
-      "source": "mad hungry men & boys"
+      "course": "Main Dish",
+      "categories": [
+        "Chicken"
+      ],
+      "source": "mad hungry men & boys",
+      "rating": 5,
+      "ingredients": [
+        "1 whole chicken, 3 to 4 pounds, backbone removed",
+        "Coarse salt and freshly ground black pepper",
+        "1/4 cup extra-virgin olive oil",
+        "2 tablespoons unsalted butter",
+        "3 tablespoons fresh lemon juice",
+        "1/4 teaspoon crushed red pepper flakes (optional)",
+        "2 garlic cloves, smashed and peeled (optional)"
+      ],
+      "directions": [
+        "Preheat the oven to 400°F. Using kitchen shears, cut along both sides of the backbone to remove. Reserve it for broth. Open the chicken's legs and spread the bird down flat, skin side up. Press down firmly on the breastbone to flatten it. Pat it dry with paper towels. Salt and pepper generously on both sides.",
+        "Heat a large ovenproof skillet such as cast iron on high heat. Add 1 tablespoon of the olive oil and 1 tablespoon of the butter. Immediately add the chicken, skin side down. Allow to brown (without moving) for 3 minutes. Turn the chicken over, careful not to break the skin, and transfer the skillet to the oven.",
+        "The chicken is done when it is golden brown and cooked through, 40 to 45 minutes. An instant-read thermometer inserted in the thickest part, not touching bone, should read 165°F. Remove the chicken to a cutting board to rest for 10 minutes. Add 1 tablespoon of the lemon juice and the remaining tablespoon of butter to the pan drippings and swirl around.",
+        "Meanwhile, if you want to make the lemon sauce, whisk together the remaining 3 tablespoons of olive oil, 2 tablespoons of the lemon juice, the red pepper flakes, garlic, and a pinch of salt. Cut the chicken into pieces, drizzle with the pan sauce and the optional fresh lemon sauce, and serve immediately."
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT45M",
+      "image": "eca52ae0-a50c-4f78-b259-023801b6fd39_0.jpg"
     },
     "fallback_info": {
       "name": "Lemon Herb Chicken",
+      "course": "Main Dish",
+      "categories": [
+        "Chicken",
+        "Freezer"
+      ],
+      "source": "https://myfamilydinner.com/lemon-herb-chicken-freezer-meal-recipe/",
       "source_url": "https://myfamilydinner.com/lemon-herb-chicken-freezer-meal-recipe/",
-      "source": "https://myfamilydinner.com/lemon-herb-chicken-freezer-meal-recipe/"
+      "rating": 5,
+      "ingredients": [
+        "4 Chicken thighs - Large (boneless/skinless)",
+        "1/4 cup Olive oil",
+        "1/4 cup Lemon juice",
+        "1 tbsp Lemon zest",
+        "2 tsp Garlic powder",
+        "1 tsp Dried oregano",
+        "1 tsp Dried basil",
+        "1 1/2 tsp Salt",
+        "1/2 tsp Black pepper"
+      ],
+      "directions": [
+        "1. Prep/Freezer Directions:",
+        "2. Prepare a gallon freezer bag, labeling according to your preferred method.",
+        "3. Add all ingredients to the freezer bag.",
+        "4. Seal bag, removing as much air as possible, freeze for up to three months.",
+        "5. Slow Cooker Directions:",
+        "6. Thaw freezer bag in fridge for 12-24 hours before cooking.",
+        "7. Dump the contents of the freezer bag into a slow cooker.",
+        "8. Cook on low for 4-6 hours.",
+        "9. Shred chicken and serve."
+      ],
+      "notes": "Instant pot is fine too.",
+      "prepTime": "PT5M",
+      "cookTime": "PT40M",
+      "image": "75c5ae9e-78e9-48e0-bd42-d0a296a849ab_0.jpg"
     },
     "dessert_info": {
       "name": "Perfectly Pillowy Cinnamon Rolls",
+      "course": "Dessert",
+      "categories": [
+        "Bread"
+      ],
+      "source": "https://www.kingarthurbaking.com/recipes/perfectly-pillowy-cinnamon-rolls-recipe",
       "source_url": "https://www.kingarthurbaking.com/recipes/perfectly-pillowy-cinnamon-rolls-recipe",
-      "source": "https://www.kingarthurbaking.com/recipes/perfectly-pillowy-cinnamon-rolls-recipe"
+      "rating": 5,
+      "ingredients": [
+        "Tangzhong:",
+        "1/2 cup (113g) milk whole preferred",
+        "3 tablespoons (24g) King Arthur Unbleached Bread Flour",
+        "Dough:",
+        "2/3 cup (151g) milk cold whole preferred",
+        "2 1/2 cups (300g) King Arthur Unbleached Bread Flour",
+        "1 teaspoon (6g) table salt",
+        "2 tablespoons (25g) granulated sugar",
+        "2 teaspoons instant yeast",
+        "4 tablespoons (57g) unsalted butter softened",
+        "Filling:",
+        "1 tablespoon (14g) butter melted",
+        "1/2 cup (107g) light brown sugar packed",
+        "2 tablespoons (14g) King Arthur Unbleached Bread Flour",
+        "3 to 4 teaspoons (8g to 10g) cinnamon*",
+        "1/16 teaspoon table salt",
+        "Icing:",
+        "3 tablespoons (42g) butter melted divided",
+        "1/2 teaspoon King Arthur Pure Vanilla Extract",
+        "1/16 teaspoon table salt",
+        "1 1/2 cups (170g) confectioners' sugar sifted",
+        "1 to 2 tablespoons (14g to 28g) milk heavy cream or buttermilk enough to thin to desired consistency"
+      ],
+      "directions": [
+        "1. To make the tangzhong: Combine both the ingredients in a small saucepan, and whisk until no lumps remain., Place the saucepan over medium heat and cook the mixture, stirring regularly, until thickened, paste-like, and the spoon or spatula leaves lines on the bottom of the pan. This should take 1 to 3 minutes, depending on the strength of your burner.",
+        "2. Remove from the heat and transfer to a large mixing bowl, the bowl of a stand mixer, or the bucket of a bread machine (whatever you plan to knead the dough in)., To make the dough: Weigh your flour; or measure it by gently spooning it into a cup, then sweeping off any excess. Add the cold milk, then the flour and remaining ingredients to the mixing bowl in the order listed; the heat from the tangzhong will help to warm the cold milk., Mix — by hand, on low speed of a stand mixer with the dough hook attachment, or in a bread machine set to the dough cycle — to bring the dough together. Next, knead the dough until it’s smooth, elastic, and tacky. This will take up to 15 minutes by hand, 10 to 12 minutes on medium-low speed of a mixer, or the length of the dough cycle in a bread machine.",
+        "3. Shape the dough into a ball, place it in a bowl, and cover the bowl with plastic wrap or a reusable cover., Let the dough rise until puffy but not necessarily doubled in bulk, about 60 to 90 minutes (depending on the warmth of your kitchen).",
+        "4. To make the filling: While the dough is rising, put the melted butter into a medium bowl and add the remaining ingredients, stirring until the mixture is the texture of damp sand. Set aside., Lightly grease a baking sheet, or line it with parchment paper. , To assemble the cinnamon rolls: Transfer the dough to a lightly greased work surface and press it into a 10” x 12” rectangle that’s about 1/2” thick. For evenly shaped cinnamon rolls, try to pat the dough into an actual rectangle (with corners), rather than an oval. , Sprinkle the filling over the dough, covering all but a 1/2” strip along one long side.",
+        "5. Starting with the filling-covered long side, roll the dough into a log.",
+        "6. Score the dough lightly into eight equal 1 1/2” to 2” pieces; this will make large, saucer-sized cinnamon rolls — their generous size is part of their charm. Cut the dough at the score marks. Dental floss will give you the cleanest cut: pull off a long piece of floss, loop it underneath the log at the score mark, and pull the ends in opposite directions to cut the dough. Repeat until you've cut all of the cinnamon rolls. If you don’t have dental floss, a bench knife or sharp knife will work.",
+        "7. Place the cinnamon rolls onto the prepared baking sheet, spacing them so there’s at least 2” between each one and they’re 2” away from the edges of the pan; a 3-2-3 arrangement works well. To prevent them from unraveling while they rise and bake, tuck the ends of the spirals underneath the cinnamon rolls so that they’re held in place.",
+        "8. Cover the cinnamon rolls with lightly greased plastic wrap or a reusable cover and let them rise for 30 to 60 minutes (depending on the warmth of your kitchen). The cinnamon rolls should be puffy and the dough shouldn’t bounce back immediately when gently pressed.",
+        "9. About 20 minutes before you’re ready to bake, position a rack in the top third of the oven. Preheat the oven to 375°F., Bake the cinnamon rolls for 14 to 18 minutes, until they’re a light golden brown and a digital thermometer inserted into the center of one roll reads 190°F. Bake for the lesser amount of time for extra-soft cinnamon rolls, and the longer amount of time for cinnamon rolls with a bit more color and slightly firmer texture.",
+        "10. Remove the cinnamon rolls from the oven, place the pan on a rack, and brush the hot cinnamon rolls with 1 1/2 tablespoons (21g) of the melted butter. Let the cinnamon rolls cool for 10 to 15 minutes before icing.",
+        "11. To make the icing: Combine the remaining 1 1/2 tablespoons (21g) melted butter with the remaining icing ingredients in a medium bowl, mixing with a spatula until smooth. Milk makes a lovely frosting; using cream in place of milk creates an extra layer of richness, while substituting buttermilk adds subtle tang, a nice counterpoint to the icing's overall sweetness., Ice the cinnamon rolls and serve immediately. If you’re planning to serve the cinnamon rolls later, wait to ice them until just before serving. Store icing at room temperature, tightly covered, until you’re ready to use it.",
+        "12. Store completely cooled cinnamon rolls, un-iced and well wrapped, for a couple of days at room temperature; or freeze for up to 1 month."
+      ],
+      "notes": "",
+      "prepTime": "PT30M",
+      "cookTime": "PT18M",
+      "image": "16e976ac-1400-4e61-aa76-11a1e4738601_0.jpg"
     }
   },
   {
@@ -54,18 +256,92 @@
     "notes": "Culinary Research: Salmon teriyaki pairs well with the ginger and soy notes. Synergy: If you have leftover rice from Day 1, it can be repurposed here. Technique: Remove salmon from heat 2-3 minutes early to let carryover cooking finish it for a moister result.",
     "primary_info": {
       "name": "broiled or grilled salmon teriyaki",
-      "source_url": null,
-      "source": "mad hungry men and boys"
+      "course": "Main Dish",
+      "categories": [
+        "Fish"
+      ],
+      "source": "mad hungry men and boys",
+      "rating": 4,
+      "ingredients": [
+        "1 cup soy sauce",
+        "1/4 cup honey",
+        "2 tablespoons fresh lemon juice or mild vinegar",
+        "1 inch of peeled fresh ginger, sliced",
+        "3 garlic cloves, smashed",
+        "2 pounds boneless salmon fillet, pin bones removed"
+      ],
+      "directions": [
+        "Whisk the soy, honey, and lemon juice together in a large enough dish to fit the salmon. Stir in the ginger and garlic. Place the salmon, skin side up, in the sauce and marinate for at least 10 minutes or up to 30 minutes.",
+        "Preheat a broiler or prepare coals to very hot in a grill. Remove the salmon from the marinade, pat it dry with paper towels, and place it skin side down on an oiled pan or grill grate. Cook until it is slightly firm to the touch, 10 to 15 minutes, depending on thickness. While the salmon is cooking, brush it a couple of times with the marinade to use it all up. Immediately remove the skin while the fish is hot. Serve."
+      ],
+      "notes": "Can obscure the fish flavor.",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "image": "7b282267-a4d2-45b1-a9cf-0fdfc5a2aa57_0.jpg"
     },
     "fallback_info": {
       "name": "Coconut-Curry Rice with Salmon and Cilantro",
-      "source_url": null,
-      "source": "cookish"
+      "course": "Main Dish",
+      "categories": [
+        "Fish",
+        "Rice"
+      ],
+      "source": "cookish",
+      "rating": 4,
+      "ingredients": [
+        "3 tablespoons neutral oil or coconut oil",
+        "1 bunch cilantro, chopped, stems and leaves reserved separately",
+        "2½ teaspoons curry powder",
+        "2 teaspoons finely grated fresh ginger",
+        "1½ cups long-grain white rice, rinsed and drained",
+        "1 cup coconut milk",
+        "Kosher salt and ground black pepper",
+        "8 ounces skinless salmon fillet or tuna steak, cut into ½-inch pieces"
+      ],
+      "directions": [
+        "In a large saucepan, cook the oil, cilantro stems, curry powder and ginger, stirring, until sizzling and fragrant.",
+        "Stir in the rice, coconut milk and 1½ cups water. Bring to a simmer.",
+        "Cover, reduce to low and cook until the rice is tender and the liquid has been absorbed, 15 to 20 minutes.",
+        "Uncover and scatter the fish over the rice.",
+        "Re-cover, remove from the heat and let stand for 8 minutes.",
+        "Fluff the rice with a fork, mixing in the fish.",
+        "Stir in the cilantro leaves and season with salt and pepper."
+      ],
+      "notes": "",
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "image": "c161c966-f376-4fbe-8afa-c931ebc98ac2_0.jpg"
     },
     "dessert_info": {
       "name": "Snowball Cookies Recipe",
+      "course": "Dessert",
+      "categories": [
+        "Cookie"
+      ],
+      "source": "https://sallysbakingaddiction.com/snowball-cookies-recipe/",
       "source_url": "https://sallysbakingaddiction.com/snowball-cookies-recipe/",
-      "source": "https://sallysbakingaddiction.com/snowball-cookies-recipe/"
+      "rating": 5,
+      "ingredients": [
+        "1 cup (16 Tbsp; 226g) unsalted butter, softened to room temperature",
+        "3/4 cup (90g) confectioners’ sugar",
+        "2 teaspoons pure vanilla extract",
+        "2 and 1/4 cups (281g) all-purpose flour (spooned & leveled)",
+        "1/8 teaspoon salt (see note)",
+        "optional: 3/4 cup (100g) finely chopped and toasted walnuts",
+        "1 and 1/4 cups (150g) confectioners’ sugar"
+      ],
+      "directions": [
+        "1. In a large bowl using a handheld mixer or stand mixer fitted with a paddle attachment, beat the butter for 1 minute on medium speed until completely smooth and creamy. Add 3/4 cup (90g) confectioners’ sugar and beat on medium high speed until combined and creamy. Scrape down the sides and bottom of the bowl as needed. Next, beat in the vanilla extract on medium-high speed until combined. Switch to low speed and slowly add the flour and salt. The dough will look dry and you may not think the flour will fully combine. Once all of the flour is added, turn the mixer up to high speed. The dough will come together. Finally, beat in the chopped walnuts, if using.",
+        "2. Cover the cookie dough tightly and chill in the refrigerator for at least 30 minutes and up to 3 days. (If chilling for 3+ hours, make sure you let the cookie dough sit at room temperature for at least 30 minutes before rolling into balls. The cookie dough will be very stiff after being in the refrigerator for that long.)",
+        "3. Preheat oven to 350°F (177°C). Line 2 large baking sheets with parchment paper or silicone baking mats. Set aside. Pour the confectioners’ sugar needed for the coating into a shallow bowl.",
+        "4. Scoop or roll 1 Tablespoon (20g) of cookie dough per cookie. Roll into a ball and place on the baking sheets, at least 2 inches apart. Bake the cookies until golden brown on the bottom edges and just barely browned on top, about 15 minutes.",
+        "5. Allow the cookies to cool for 5 minutes on the baking sheet, then very gently roll them in the confectioners’ sugar to coat completely. Place the cookies on wire racks to cool completely. The confectioners’ sugar will melt a bit and get sticky; that’s ok. Once the cookies have completely cooled, roll in confectioners’ sugar again. This is when the sugar will really stick.",
+        "6. Cookies stay fresh covered at room temperature for up to 1 week."
+      ],
+      "notes": "Childhood Christmas cookie",
+      "prepTime": "PT45M",
+      "cookTime": "PT15M",
+      "image": "2f10b0ff-ee12-4ba8-a2ea-d426ba8f05c6_0.jpg"
     }
   },
   {
@@ -77,18 +353,120 @@
     "notes": "Culinary Research: Using black beans in taco soup provides a creamy texture that complements the ground beef. Tip: Sauté the onions and beef together until deeply browned to build a rich base for the soup.",
     "primary_info": {
       "name": "Ground Beef and Black Bean Taco Soup",
-      "source_url": null,
-      "source": null
+      "course": "Main Dish",
+      "categories": [
+        "Bean",
+        "Beef",
+        "Freezer",
+        "Soup"
+      ],
+      "source": "https://www.sixsistersstuff.com/recipe/instant-pot-beef-and-bean-taco-soup-recipe/",
+      "source_url": "https://www.sixsistersstuff.com/recipe/instant-pot-beef-and-bean-taco-soup-recipe/",
+      "rating": 3,
+      "ingredients": [
+        "1 pound ground beef",
+        "1 onion ((diced))",
+        "1 ounce taco seasoning ((1 store-bought packet or homemade))",
+        "15 ounces canned corn ((1 can; do not drain))",
+        "15 ounces black beans ((1 can; drained and rinsed))",
+        "28 ounces diced tomatoes ((do not drain))",
+        "8 ounces tomato sauce ((1 can))",
+        "4 ounces canned diced green chilies ((1 can))",
+        "1 bag tortilla chips ((optional topping))",
+        "½ cup shredded Mexican cheese ((optional topping))"
+      ],
+      "directions": [
+        "1. Press the SAUTE button on the Instant Pot and let it heat up.",
+        "2. Add in the ground beef and onion, cook until the meat is no longer pink.",
+        "3. Drain meat if desired.",
+        "4. Stir in taco seasoning, corn, black beans, tomatoes, tomato sauce, and green chilies.",
+        "5. Place the lid on the top of the Instant Pot. Move the valve to SEALING (not venting).",
+        "6. Press the MANUAL (or PRESSURE COOK) button and set timer for 5 minutes.",
+        "7. When the timer is finished, move the valve to VENTING and do a QUICK RELEASE with the pressure.",
+        "8. Remove the lid and portion into bowls. Top with your favorite taco toppings and serve."
+      ],
+      "notes": "",
+      "prepTime": "PT5M",
+      "cookTime": "PT30M",
+      "image": "8a962111-f48e-4014-aea2-d9d25b38f6fc_0.jpg"
     },
     "fallback_info": {
       "name": "Pasta e Fagioli",
-      "source_url": null,
-      "source": null
+      "course": "Main Dish",
+      "categories": [
+        "Bean",
+        "Beef",
+        "Freezer",
+        "Pork",
+        "Soup"
+      ],
+      "source": "https://www.sixsistersstuff.com/recipe/instant-pot-pasta-e-fagioli-recipe-olive-garden-copycat/",
+      "source_url": "https://www.sixsistersstuff.com/recipe/instant-pot-pasta-e-fagioli-recipe-olive-garden-copycat/",
+      "rating": 3,
+      "ingredients": [
+        "2 Tablespoons olive oil",
+        "1 pound lean ground beef",
+        "1 small onion (diced)",
+        "2 cloves garlic (minced)",
+        "1 cup tomato sauce ((can also use condensed tomato soup))",
+        "1 cup diced celery",
+        "1 cup diced red bell pepper",
+        "1 cup yellow or orange bell pepper",
+        "2 cups chopped carrots",
+        "15 ounces canned kidney beans (drained and rinsed)",
+        "15 ounces canned Northern Beans (drained and rinsed)",
+        "1 Tablespoon Italian Seasoning",
+        "1 teaspoon salt",
+        "½ teaspoon ground black pepper",
+        "dash of red pepper flakes",
+        "1 cup ditalini pasta",
+        "6 cups beef broth (or stock)",
+        "fresh grated Parmesan cheese and fresh basil (optional topping)"
+      ],
+      "directions": [
+        "1. Press SAUTE on your Instant Pot.",
+        "2. Once it heats up, add the olive oil.",
+        "3. Place the ground beef and onion into the Instant Pot with the hot oil and brown until fully cooked.",
+        "4. Add in the garlic and saute for a minute more.",
+        "5. Dump in the rest of your ingredients, making sure that as much of the pasta as possible is covered by the beef broth.",
+        "6. Place the lid on top, press the PRESSURE COOK and set timer for 5 minutes.",
+        "7. When the timer is done, do a quick release of the pressure.",
+        "8. Stir everything together and serve. If desired, top with fresh grated Parmesan cheese and fresh basil."
+      ],
+      "notes": "Leftover pork or ham is fine.",
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "image": "428da6b6-777a-4771-9b10-3f926e71e7b6_0.jpg"
     },
     "dessert_info": {
       "name": "The Best Pecan Pie",
-      "source_url": null,
-      "source": null
+      "course": "Dessert",
+      "categories": [
+        "Pie"
+      ],
+      "source": "",
+      "rating": 5,
+      "ingredients": [
+        "Dough for single-crust pie",
+        "1/2 cup butter",
+        "2-1/2 cups coarsely chopped pecans",
+        "3/4 cup packed brown sugar",
+        "3/4 cup maple syrup",
+        "1/2 teaspoon salt",
+        "3 large eggs, beaten",
+        "2 tablespoons whiskey or bourbon, optional",
+        "2 teaspoons vanilla extract",
+        "Optional: Whipped cream and ground cinnamon"
+      ],
+      "directions": [
+        "Preheat oven to 350°. On a lightly floured surface, roll dough to a 1/8-in.-thick circle; transfer to a 9-in. pie plate. Trim crust to 1/2 in. beyond rim of plate; flute edge. Refrigerate while preparing filling.",
+        "In a Dutch oven or large saucepan, melt butter over medium heat. Add pecans; cook, stirring constantly, until very fragrant and pecans start to brown, 4-5 minutes. Remove pecans with a slotted spoon, reserving butter in pan. Stir in brown sugar, maple syrup and salt; bring to a boil. Reduce heat; simmer for 2 minutes. Remove from the heat. In a bowl, whisk a small amount of the hot mixture into eggs; return all to the pan, whisking constantly. Stir whiskey, if desired, and vanilla into brown sugar mixture; stir in pecans.",
+        "Pour into crust. Bake until a knife inserted in the center comes out clean, 55-60 minutes. Cover edge with foil during the last 30 minutes to prevent overbrowning if necessary. Cool on a wire rack. If desired, top with whipped cream and cinnamon. Refrigerate leftovers."
+      ],
+      "notes": "",
+      "prepTime": "PT15M",
+      "cookTime": "PT55M",
+      "image": "5d3abbd8-b299-48f7-8f97-86e0eebc1bf6_0.jpg"
     }
   },
   {
@@ -100,18 +478,110 @@
     "notes": "Culinary Research: Blistering cherry tomatoes in olive oil creates a natural, sweet sauce that perfectly coats spaghetti. Technique: Salt the pasta water generously—it's the only chance to season the pasta itself.",
     "primary_info": {
       "name": "Blistered Cherry Tomato and Gooey Mozzarella Spaghetti",
-      "source_url": null,
-      "source": "meal prep magic"
+      "course": "Main Dish",
+      "categories": [
+        "Pasta",
+        "Sauce",
+        "Vegetable",
+        "Vegetarian"
+      ],
+      "source": "meal prep magic",
+      "rating": 5,
+      "ingredients": [
+        "⅓ cup (75 ml) olive oil",
+        "1 shallot, thinly sliced",
+        "4 cloves garlic, thinly sliced",
+        "2 pounds (910 g) cherry tomatoes",
+        "⅓ cup (75 ml) white wine",
+        "Kosher salt and freshly ground black pepper",
+        "Pinch crushed red pepper",
+        "1 pound (455 g) spaghetti",
+        "2 tablespoons Cheesy Compound Butter or plain unsalted butter",
+        "½ cup (50 g) grated Parmesan cheese",
+        "8 ounces (225 g) fresh mozzarella, torn or cut into bite-size pieces",
+        "8 to 10 fresh basil leaves, cut into thin ribbons"
+      ],
+      "directions": [
+        "To blister the tomatoes, heat the olive oil in a large nonstick or coated cast-iron skillet over medium-low heat. Add the shallots and garlic and cook over low heat until they begin to soften and smell very fragrant, about 5 minutes. Add the tomatoes, wine, a pinch of salt, black pepper to taste, and a pinch of crushed red pepper. Cover and cook for 10 minutes.",
+        "Bring a large pot of salted water to a boil. Add the pasta and cook to al dente, according to package directions. Drain and set aside.",
+        "Once the tomatoes have cooked for 10 minutes, uncover the pan and mash the tomatoes with a potato masher or the back of a fork until broken down.",
+        "Simmer the sauce, uncovered, for 5 minutes, then remove from heat and add the cooked pasta and compound butter and toss until the butter is melted. Stir in the Parmesan, mozzarella, and basil, tossing to combine and slightly melt the mozzarella cheese."
+      ],
+      "notes": "Garden tomatoes!",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "image": "88395b17-74fe-4504-83b4-a04307513a87_0.jpg"
     },
     "fallback_info": {
       "name": "Lazy Veggie Lasagna",
-      "source_url": null,
-      "source": "one and done"
+      "course": "Main Dish",
+      "categories": [
+        "Pasta",
+        "Vegetable",
+        "Vegetarian"
+      ],
+      "source": "one and done",
+      "rating": 4,
+      "ingredients": [
+        "1 cup (8 ounces) part-skim ricotta cheese, at room temperature",
+        "1/4 cup freshly grated Parmesan cheese",
+        "2 tablespoons chopped fresh parsley, plus more for garnish",
+        "1/2 tablespoon olive oil",
+        "1/2 medium onion, chopped",
+        "6 ounces mushrooms, stemmed and thinly sliced",
+        "1 1/2 cups broccoli florets (1-inch pieces)",
+        "1/2 cup chopped red bell pepper",
+        "3 garlic cloves, chopped",
+        "2 cups chopped baby spinach",
+        "2 cups jarred marinara sauce",
+        "1/4 cup low-sodium vegetable broth",
+        "1/4 cup chopped fresh basil",
+        "6 1/2 ounces no-boil lasagna noodles (about 11), wheat or gluten-free, broken into 1 1/2-inch pieces",
+        "3/4 cup (3 ounces) shredded part-skim mozzarella cheese"
+      ],
+      "directions": [
+        "In a small bowl, combine the ricotta, Parmesan, and parsley.",
+        "In a 12-inch ovenproof nonstick skillet with a fitted lid, heat the oil over medium-high heat until shimmering. Add the onion, mushrooms, broccoli, bell pepper, and garlic, and cook, stirring, until the vegetables are tender, about 5 minutes. Add the spinach and cook, stirring, until wilted, about 1 minute. Transfer to a medium bowl.",
+        "To the skillet, add the marinara sauce, broth, and basil. Stir to combine and bring to a simmer. Add the noodles, stir to coat, and spread into an even layer, making sure the noodles are submerged in liquid. Return the vegetables to the skillet and reduce the heat to medium. Simmer, covered and stirring occasionally, until the pasta is just tender and the sauce has thickened, about 20 minutes.",
+        "Remove the pan from the heat and dollop the ricotta cheese mixture over the lasagna noodles. Sprinkle the mozzarella over the top.",
+        "Adjust an oven rack to 6 inches from the heating element and preheat the broiler to high.",
+        "Broil until the cheese is melted and slightly browned, 3 to 4 minutes. Divide among 4 plates and garnish with the parsley."
+      ],
+      "notes": "Use 11 normal lasagna noodles, broken up. Add more broth or marinara as needed.",
+      "prepTime": "PT0S",
+      "cookTime": "PT0S",
+      "image": "3016f300-5ee4-4ea4-9cb5-ca9b253e032c_0.jpg"
     },
     "dessert_info": {
       "name": "Blueberry Crumble with Oats and Tahini",
-      "source_url": null,
-      "source": "cookish"
+      "course": "Dessert",
+      "categories": [
+        "Fruit"
+      ],
+      "source": "cookish",
+      "rating": 5,
+      "ingredients": [
+        "2 pints fresh blueberries or 4 cups frozen blueberries, preferably wild (see note)",
+        "2 cups (160 grams) quick-cooking oats, divided",
+        "3/4 cup (164 grams) packed brown sugar, divided",
+        "8 tablespoons salted butter, cut into 8 pieces, room temperature",
+        "1/4 cup (64 grams) tahini",
+        "1 1/2 teaspoons ground cinnamon",
+        "1/2 teaspoon kosher salt",
+        "Optional garnish: Toasted sesame seeds"
+      ],
+      "directions": [
+        "Heat the oven to 350°F.",
+        "In a medium bowl, toss the blueberries with 1/4 cup (20 grams) of the oats and 1/4 cup (54 grams) of the sugar; transfer to a 9-inch pie plate.",
+        "Wipe out the bowl, then add the remaining 1 3/4 cups (140 grams) oats, the remaining 1/2 cup (107 grams) sugar, the butter, tahini, cinnamon and salt.",
+        "Mix until evenly moistened, then use your hands to squeeze the mixture into rough olive-sized clumps and scatter them over the berries.",
+        "Bake until the edges are bubbling and the crumble is golden, 30 to 35 minutes.",
+        "Serve warm or at room temperature."
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "P1DT59M",
+      "image": "ef3f8184-8767-42b1-8946-697649972103_0.jpg"
     }
   },
   {
@@ -123,18 +593,115 @@
     "notes": "Culinary Research: Honey-mustard glaze acts as both a flavor enhancer and a moisture barrier for the chicken. Synergy: Serve with a side of simple roasted vegetables to utilize the oven space.",
     "primary_info": {
       "name": "Honey-Mustard Chicken Bake",
-      "source_url": null,
-      "source": "one and done"
+      "course": "Main Dish",
+      "categories": [
+        "Chicken"
+      ],
+      "source": "one and done",
+      "rating": 3,
+      "ingredients": [
+        "4 large boneless, skinless chicken thighs (6 ounces each)",
+        "1 teaspoon kosher salt",
+        "1/4 cup honey",
+        "1/4 cup Dijon mustard",
+        "3 teaspoons fresh thyme leaves",
+        "1 pound asparagus, trimmed and cut into 1-inch pieces",
+        "1 1/2 cups cauliflower florets",
+        "1 medium red onion, cut into 1-inch pieces, layers separated",
+        "1 large red bell pepper, cut into 1-inch pieces",
+        "1 tablespoon olive oil"
+      ],
+      "directions": [
+        "Adjust an oven rack in the center and another 6 inches from the broiler and preheat the oven to 400°F.",
+        "Season both sides of the chicken with 1/2 teaspoon of the salt.",
+        "Transfer to a plate.",
+        "In a small bowl, combine the honey, mustard, and 1 teaspoon of the thyme.",
+        "In a 9 x 13-inch baking dish, toss together the vegetables, olive oil, remaining 1/2 teaspoon salt, and remaining 2 teaspoons thyme.",
+        "Roast on the center rack for 10 minutes, then remove the dish from the oven.",
+        "Toss the vegetables and place the chicken over the vegetables.",
+        "Spoon or brush half of the honey-mustard sauce over the chicken.",
+        "Return to the center rack and roast until the vegetables are tender and the chicken is cooked through, about 30 minutes.",
+        "Spoon or brush the remaining honey-mustard sauce over the chicken.",
+        "Switch the oven to broil, move the dish to the upper rack, and broil until the chicken begins to brown, 3 to 5 minutes.",
+        "Serve immediately."
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT40M",
+      "image": "a7108952-d5a4-41a4-a16a-95df8eae904b_0.jpg"
     },
     "fallback_info": {
       "name": "Tuscan Chicken Pasta",
+      "course": "Main Dish",
+      "categories": [
+        "Chicken",
+        "Freezer",
+        "Pasta"
+      ],
+      "source": "https://www.sixsistersstuff.com/recipe/instant-pot-tuscan-chicken-pasta-freezer-meal/",
       "source_url": "https://www.sixsistersstuff.com/recipe/instant-pot-tuscan-chicken-pasta-freezer-meal/",
-      "source": "https://www.sixsistersstuff.com/recipe/instant-pot-tuscan-chicken-pasta-freezer-meal/"
+      "rating": 4,
+      "ingredients": [
+        "2 boneless, skinless chicken breasts (cooked and diced)",
+        "2 cups ditalini pasta (or elbows)",
+        "2 cups chicken broth",
+        "2 Tablespoons butter",
+        "8 ounces cream cheese (1 package)",
+        "½ cup milk",
+        "½ cup grated parmesan cheese",
+        "4 ounces sun dried tomatoes (drained and chopped)",
+        "½ teaspoon garlic salt",
+        "½ teaspoon black pepper",
+        "1 Tablespoon dried basil",
+        "2 cups fresh spinach leaves"
+      ],
+      "directions": [
+        "1. In the Instant Pot, add the pasta, chicken broth, butter, and chicken.",
+        "2. Place lid securely on and move the knob to sealing.",
+        "3. Set on manual, (or pressure cook) for 3 minutes.",
+        "4. Once timer goes off, allow a natural pressure release for 5 minutes before releasing valve to remove remaining pressure.",
+        "5. Remove lid and stir the noodles and chicken.",
+        "6. Turn off manual button and push the saute button",
+        "7. Stir in the cream cheese, milk, garlic salt, black pepper, basil, and Parmesan cheese.",
+        "8. Add in the sun dried tomatoes and spinach stirring until spinach is cooked down a bit.",
+        "9. Serve hot with your favorite salad and breadsticks!"
+      ],
+      "notes": "Grating Parmesan takes a while.",
+      "prepTime": "PT15M",
+      "cookTime": "PT15M",
+      "image": "b1dfc46d-fdb8-4bcd-afa1-74049976e147_0.jpg"
     },
     "dessert_info": {
       "name": "60-Second Chocolate Chip Mug Cookie",
+      "course": "Dessert",
+      "categories": [
+        "Chocolate",
+        "Cookie"
+      ],
+      "source": "https://www.melskitchencafe.com/60-second-chocolate-chip-mug-cookie/",
       "source_url": "https://www.melskitchencafe.com/60-second-chocolate-chip-mug-cookie/",
-      "source": "https://www.melskitchencafe.com/60-second-chocolate-chip-mug-cookie/"
+      "rating": 4,
+      "ingredients": [
+        "1 tablespoon melted butter or coconut oil",
+        "1 tablespoon granulated sugar",
+        "1 tablespoon brown sugar",
+        "1/8 teaspoon vanilla extract",
+        "pinch of salt",
+        "1 egg yolk",
+        "1/4 cup all-purpose flour (see note)",
+        "2 tablespoons chocolate chips (regular size or mini)"
+      ],
+      "directions": [
+        "1. Very lightly coat the inside of a 6- or 8-ounce mug or ramekin with cooking spray, butter or coconut oil.",
+        "2. To the mug or ramekin, add the melted butter, egg yolk, granulated sugar, brown sugar, vanilla and salt. Mix until well combined.",
+        "3. Add the flour (see note!) and chocolate chips. Stir until just combined. If the batter is dry and crumbly, add a splash of milk.",
+        "4. COOKING INSTRUCTIONS: the exact cooking time will vary on the size/wattage of microwave you are using. For a 1,000 watt microwave, cook for one minute at 80% power. For a 1,200 or 1,500 watt microwave, cook for 45 seconds at 75% power. You may need to play around with the exact timing based on your microwave. The key is to NOT OVERCOOK the mug cookie. The top should puff and spring back lightly to the touch.",
+        "5. Serve warm (don't let it cool! It is infinitely better served immediately) with ice cream, if desired."
+      ],
+      "notes": "Double the recipe for two mugs. Use 1 egg, scrambled and divided.",
+      "prepTime": "PT5M",
+      "cookTime": "PT1M",
+      "image": "9a096322-362f-40b0-90db-1ac3e74bc58d_0.jpg"
     }
   },
   {
@@ -146,18 +713,112 @@
     "notes": "Culinary Research: Spanish-style chickpeas benefit from smoked paprika and cumin. Synergy: This dish uses similar aromatics to the Taco Soup from Day 4, allowing for efficient ingredient use.",
     "primary_info": {
       "name": "Spanish Chickpeas and Rice",
-      "source_url": null,
-      "source": null
+      "course": "Main Dish",
+      "categories": [
+        "Bean",
+        "Rice",
+        "Vegetarian"
+      ],
+      "source": "budget bytes",
+      "rating": 3,
+      "ingredients": [
+        "2 Tbsp olive oil",
+        "2 cloves garlic",
+        "½ Tbsp smoked paprika",
+        "1 tsp cumin",
+        "1/2 tsp oregano",
+        "1/4 tsp cayenne pepper",
+        "Freshly cracked black pepper",
+        "1 yellow onion",
+        "1 cup uncooked long grain white rice",
+        "15oz can diced tomatoes",
+        "15oz can quartered artichoke hearts",
+        "19oz can chickpeas",
+        "1.5 cups vegetable broth",
+        "1/2 tsp salt (to taste)",
+        "¼ bunch fresh parsley",
+        "1 fresh lemon"
+      ],
+      "directions": [
+        "Mince garlic and add to sauté pan with olive oil. Cook over medium-low heat for 1-2 minutes, or just until soft and fragrant. Add spices, then stir and sauté with hot oil for 1 minute.",
+        "Dice the onion and add, sautéing until soft and translucent for about 5 minutes. Add the rice and sauté for 2 minutes more.",
+        "Drain the chickpeas and artichoke hearts and add to the skillet with the diced tomatoes, broth, and salt. Roughly chop the parsley and add, saving a small amount to sprinkle before serving. Stir until combined.",
+        "Place a lid on the skillet and turn heat up to medium-high, allowing the skillet to come to a boil. When it reaches a boil, reduce heat to low and make sure it actively simmers for 20 minutes.",
+        "After simmering for 20 minutes, turn heat off and allow the skillet to rest for 5 minutes without removing the lid. Remove the lid, fluff with a fork, top with the remaining parsley. Cut the lemon into wedges and squeeze fresh juice over each bowl."
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT20M",
+      "image": "57af5137-723a-4635-b224-93462d1a6841_0.jpg"
     },
     "fallback_info": {
       "name": "black beans and rice",
-      "source_url": null,
-      "source": null
+      "course": "Main Dish",
+      "categories": [
+        "Bean",
+        "Rice",
+        "Vegetarian"
+      ],
+      "source": "mad hungry family",
+      "rating": 3,
+      "ingredients": [
+        "3 tablespoons olive oil",
+        "1 medium white onion, chopped",
+        "2 garlic cloves, minced",
+        "3/4 teaspoon coarse salt",
+        "1/2 teaspoon ground cumin",
+        "1/4 teaspoon freshly ground black pepper",
+        "1/4 teaspoon dried oregano",
+        "Two 15-ounce cans black beans, drained, or 30 ounces cooked dry beans",
+        "1/2 cup water",
+        "3 cups cooked white or brown rice",
+        "1 avocado, pitted, peeled, and chopped (optional, for serving)",
+        "1 lime, cut into wedges, for serving"
+      ],
+      "directions": [
+        "Heat 2 tablespoons of the oil in a large sauté pan over medium-high heat. When it shimmers, add half the onion, garlic, and salt and cook, stirring occasionally, until the onion is soft and translucent, about 3 minutes.",
+        "Stir in the cumin, pepper, and oregano and cook for 1 minute more. Add the beans and water and continue cooking, stirring occasionally, until the beans are warmed through, about 5 minutes. Remove from the heat and stir in the remaining 1 tablespoon oil.",
+        "Serve the black beans over rice, garnished with the remaining onion, the avocado (if using), and lime wedges."
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT0S",
+      "image": "4e0259e0-f8bb-4eab-9c78-c89aea52cc87_0.jpg"
     },
     "dessert_info": {
       "name": "Banana Oat Cookies",
-      "source_url": null,
-      "source": "little bites guide"
+      "course": "Breakfast",
+      "categories": [
+        "Chocolate",
+        "Cookie",
+        "Fruit"
+      ],
+      "source": "little bites guide",
+      "rating": 4,
+      "ingredients": [
+        "Ingredients",
+        "2 ripe & spotty bananas",
+        "1 cup sprouted rolled oats",
+        "1 tsp cinnamon",
+        "Optional Add-ins",
+        "2 TB chocolate chips",
+        "1 TB unsweetened shredded coconut",
+        "1 tsp chia seeds or flax seeds",
+        "1 TB dried raisins",
+        "1/4 cup nut butter"
+      ],
+      "directions": [
+        "Preheat oven to 350 degrees & line baking sheet with parchment paper",
+        "In a medium sized bowl, mash the bananas until smooth",
+        "Add in the rolled oat & cinnamon. Mix until fully combined.",
+        "If using optional add-ins, fold them in until just combined",
+        "Scoop a few tablespoons of the 'dough' onto the baking sheet and shape (option to flatten a bit with the spoon) into a round cookie shape.",
+        "Bake for 9-11 minutes, until edges are have turned golden brown"
+      ],
+      "notes": "",
+      "prepTime": "PT5M",
+      "cookTime": "PT9M",
+      "image": "50e40592-b90c-4c90-aac4-b1b708091819_0.jpg"
     }
   },
   {
@@ -169,18 +830,106 @@
     "notes": "Culinary Research: Instant Pot shredded pork is versatile; ensure you use a natural release for 10 minutes to keep the meat tender. Synergy: Leftover pork can be used in grain bowls or salads.",
     "primary_info": {
       "name": "Shredded Pork Instant Pot",
-      "source_url": null,
-      "source": "cookish"
+      "course": "Main Dish",
+      "categories": [
+        "Pork",
+        "Sandwich"
+      ],
+      "source": "cookish",
+      "rating": 5,
+      "ingredients": [
+        "3 to 4 pounds boneless pork butt or shoulder, trimmed and cut into 1½-inch chunks",
+        "3 tablespoons balsamic vinegar",
+        "2 tablespoons packed brown sugar",
+        "2 tablespoons chopped fresh rosemary",
+        "1 tablespoon fennel seeds",
+        "Kosher salt and ground black pepper",
+        "1 medium yellow onion, halved and thinly sliced",
+        "white wine"
+      ],
+      "directions": [
+        "Heat the oven to 325°F with a rack in the lower-middle position.",
+        "In a large Dutch oven, stir together the pork, ¼ cup water, vinegar, sugar, rosemary, fennel seeds, and 2 teaspoons each salt and pepper.",
+        "Scatter the onion over the pork.",
+        "Cover and cook for 2 hours.",
+        "Uncover and cook until the pork is fork-tender, another 1/2 to 2 hours, stirring once or twice.",
+        "Skim off and discard the fat, then shred the pork.",
+        "Season with salt and pepper.",
+        "Optional garnish: Lemon wedges or chopped fresh flat-leaf parsley or both."
+      ],
+      "notes": "",
+      "prepTime": "PT30M",
+      "cookTime": "PT2H",
+      "image": "9a40118b-7649-4280-bcfb-4f6d8ee15de8_0.jpg"
     },
     "fallback_info": {
       "name": "Grilled Pork Tenderloin with CHIMICHURRI",
-      "source_url": null,
-      "source": "meal prep magic"
+      "course": "Main Dish",
+      "categories": [
+        "Pork",
+        "Sauce"
+      ],
+      "source": "meal prep magic",
+      "rating": 5,
+      "ingredients": [
+        "¼ cup (60 ml) Dijon mustard",
+        "½ cup (120 ml) apple cider vinegar",
+        "3 tablespoons light or dark brown sugar",
+        "8 cloves garlic, minced",
+        "⅓ cup (75 ml) plus 2 tablespoons olive oil",
+        "1½ teaspoons kosher salt",
+        "2 to 2½ pounds (910 g to 1.2 kg) pork tenderloin, fat and silver skin removed",
+        "½ cup (15 g) packed fresh cilantro",
+        "½ cup (15 g) packed flat- or curly-leaf parsley",
+        "1 small shallot, peeled",
+        "2 tablespoons red or white wine vinegar",
+        "2 tablespoons fresh lime juice",
+        "Pinch crushed red pepper",
+        "Freshly ground black pepper"
+      ],
+      "directions": [
+        "Place the Dijon mustard, apple cider vinegar, brown sugar, half of the garlic, 2 tablespoons of the olive oil, and 1 teaspoon salt in a large zip-top bag. Squish the bag to mix the marinade. Add the pork tenderloin and use your hand on the outside of the bag to move the marinade around the pork. Marinate for 1 to 2 hours at room temperature or overnight in the refrigerator.",
+        "To make the chimichurri, in a food processor, place the cilantro, parsley, remaining garlic, shallot, the remaining 1/3 cup (75 ml) olive oil, the red or white wine vinegar, lime juice, crushed red pepper, remaining 1/2 teaspoon salt, and black pepper and pulse until finely chopped.",
+        "Heat a grill to medium heat. Grill the marinated pork on several sides for a total of 14 to 15 minutes, or until the internal temperature is 135 to 140°F (55 to 60°C) when checked with an instant-read thermometer inserted in the thickest part of the meat. (Alternatively, you can use a cast-iron skillet to roast the pork. Heat over medium-high heat and add 1 tablespoon of olive oil. Sear the pork all over for a total of 6 minutes. Transfer the pan to a 400°F (205°C) oven and roast for 15 to 20 minutes.)",
+        "Allow the pork to rest for at least 10 minutes to allow the juices to settle before slicing. Use a sharp knife to cut pork on a bias into 1/2-inch (12 mm) slices and top with the chimichurri sauce."
+      ],
+      "notes": "Chimichurri is delicious!",
+      "prepTime": "PT1H15M",
+      "cookTime": "PT15M",
+      "image": "db9c326f-7357-4741-99f5-cf64f9f6e1d7_0.jpg"
     },
     "dessert_info": {
       "name": "Black Bean Brownies",
+      "course": "Dessert",
+      "categories": [
+        "Bean",
+        "Cake",
+        "Chocolate",
+        "Vegetarian"
+      ],
+      "source": "https://chocolatecoveredkatie.com/no-flour-black-bean-brownies/comment-page-173/",
       "source_url": "https://chocolatecoveredkatie.com/no-flour-black-bean-brownies/comment-page-173/",
-      "source": "https://chocolatecoveredkatie.com/no-flour-black-bean-brownies/comment-page-173/"
+      "rating": 3,
+      "ingredients": [
+        "1 1/2 cups black beans ((1 15-oz can, drained and rinsed very well) (250g after draining))",
+        "2 tbsp cocoa powder ((10g))",
+        "1/2 cup quick oats ((40g) (See nutrition link below for substitutions))",
+        "1/4 tsp salt",
+        "1/3 cup pure maple syrup, (honey, or agave (75g))",
+        "pinch uncut stevia OR 2 tbsp sugar ((or omit and increase maple syrup to 1/2 cup))",
+        "1/4 cup coconut or vegetable oil ((40g) (See nutrition link for substitution notes))",
+        "2 tsp pure vanilla extract",
+        "1/2 tsp baking powder",
+        "1/2 cup to 2/3 cup chocolate chips ((Not optional. Omit at your own risk))",
+        "optional: more chips, (for presentation)"
+      ],
+      "directions": [
+        "1. Black Bean Brownies Recipe: Preheat oven to 350 F. Combine all ingredients except chips in a good food processor, and blend until completely smooth. Really blend well. (A blender can work if you absolutely must, but the texture—and even the taste—will be much better in a food processor. I use this food processor.) Stir in the chips, then pour into a greased 8x8 pan. Optional: sprinkle extra chocolate chips over the top. Cook the black bean brownies 15-18 minutes, then let cool at least 10 minutes before trying to cut. If they still look a bit undercooked, you can place them in the fridge overnight and they will magically firm up! Makes 9-12 brownies. If you make this recipe, don't forget to leave a review! The trick with these: serve them first, and then reveal the secret ingredient. In all the times I’ve served bean desserts, not one single person who didn’t know beforehand has ever guessed!View Black Bean Brownies Nutrition Facts"
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT15M",
+      "image": "7c521017-7c72-4695-a6d8-ee6bdf337110_0.jpg"
     }
   },
   {
@@ -192,18 +941,101 @@
     "notes": "Culinary Research: Miso provides a savory umami depth to steamed fish. Technique: Keep the fish in a tight parchment packet to steam in its own juices for maximum flavor.",
     "primary_info": {
       "name": "Steamed Fish with Miso and Scallions",
-      "source_url": null,
-      "source": "cookish"
+      "course": "Main Dish",
+      "categories": [
+        "Fish"
+      ],
+      "source": "cookish",
+      "rating": 4,
+      "ingredients": [
+        "1/4 cup white miso",
+        "1 bunch scallions, thinly sliced, white and green parts reserved separately",
+        "2 tablespoons neutral oil",
+        "2 tablespoons honey",
+        "2 tablespoons low-sodium soy sauce",
+        "Four 6-ounce cod OR haddock OR halibut fillets (about 1 inch thick)",
+        "2 lemons, thinly sliced"
+      ],
+      "directions": [
+        "In a large, shallow bowl, mix the miso, scallion whites, oil, honey and soy sauce. Add the fillets and turn to coat.",
+        "Fill a Dutch oven with about 1 inch of water, cover and bring to a simmer.",
+        "Line a steamer basket with half the lemon slices, place the fillets on top and lay the remaining lemon slices over the fish.",
+        "Place the basket in the pot, cover, reduce to medium and steam until the fish flakes easily, about 10 minutes.",
+        "Using a wide spatula, transfer the fish to a platter. Sprinkle with scallion greens.",
+        "Optional garnish: Toasted sesame seeds"
+      ],
+      "notes": "Cook in instant pot instead of steam.",
+      "prepTime": "PT20M",
+      "cookTime": "PT10M",
+      "image": "e72997f5-03da-4763-8155-9f28400288f3_0.jpg"
     },
     "fallback_info": {
       "name": "Garlic Butter Oven Baked Tilapia",
+      "course": "Main Dish",
+      "categories": [
+        "Fish"
+      ],
+      "source": "https://diethood.com/garlic-butter-oven-baked-tilapia/",
       "source_url": "https://diethood.com/garlic-butter-oven-baked-tilapia/",
-      "source": "https://diethood.com/garlic-butter-oven-baked-tilapia/"
+      "rating": 4,
+      "ingredients": [
+        "4 tilapia fillets",
+        "Salt and freshly ground black pepper, (to taste)",
+        "½ teaspoon paprika",
+        "½ teaspoon dried thyme",
+        "½ teaspoon dried oregano",
+        "4 tablespoons butter, (melted)",
+        "4 cloves garlic, (minced)",
+        "2 tablespoons lemon juice",
+        "¼ teaspoon lemon zest",
+        "1 lemon, (sliced into rounds, for garnish)",
+        "Red pepper flakes, (for garnish)",
+        "Chopped fresh parsley, (for garnish)",
+        "Lemon slices, (for garnish)"
+      ],
+      "directions": [
+        "1. Preheat oven to 400°F. Season tilapia with salt, pepper, paprika, thyme, and oregano; arrange fish in a 9x13 baking dish.",
+        "2. In a mixing bowl, whisk together melted butter, garlic, lemon juice, and lemon zest; pour over tilapia.",
+        "3. Bake tilapia for 10 to 12 minutes, or until fish flakes and is fork-tender.",
+        "4. Garnish with pepper flakes, parsley, and lemon slices. Serve."
+      ],
+      "notes": "",
+      "prepTime": "PT5M",
+      "cookTime": "PT12M",
+      "image": "3a2433bf-81dc-4be1-8752-dd05b86e936c_0.jpg"
     },
     "dessert_info": {
       "name": "golden granola",
-      "source_url": null,
-      "source": "mad hungry men and boys"
+      "course": "Breakfast",
+      "categories": [
+        "Cookie",
+        "Other grain"
+      ],
+      "source": "mad hungry men and boys",
+      "rating": 4,
+      "ingredients": [
+        "1 pound rolled oats",
+        "1 cup shredded, unsweetened coconut",
+        "1/2 cup slivered almonds",
+        "1/4 cup sesame seeds",
+        "1/2 cup wheat germ",
+        "1/2 teaspoon coarse salt",
+        "1/2 cup safflower oil",
+        "1/2 cup honey",
+        "1/3 cup water",
+        "1½ teaspoons pure vanilla extract",
+        "½ cup golden raisins",
+        "1/2 cup dried cranberries, blueberries, or other dried chopped fruit"
+      ],
+      "directions": [
+        "Preheat the oven to 250°F.",
+        "In a large bowl, toss together the oats, coconut, almonds, sesame seeds, wheat germ, and salt. Separately whisk together the oil, honey, water, and vanilla; stir it into the oat mixture.",
+        "Spread the granola on 2 rimmed baking sheets. Bake for 1 to 1 ½ hours, or until golden brown. Stir after 10 minutes and again after 30 more minutes. Remove from the oven and toss with the raisins and cranberries. Cool completely and store in an airtight container. Serve with sliced bananas or berries and milk or plain yogurt."
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT1H12M",
+      "image": "18de8caa-5e52-47e5-9c27-1dd2c822c242_0.jpg"
     }
   },
   {
@@ -215,18 +1047,127 @@
     "notes": "Culinary Research: Softening corn tortillas in the microwave before rolling prevents cracking. Synergy: Enchiladas can be prepped a day in advance for an easy weeknight meal.",
     "primary_info": {
       "name": "Chicken Enchiladas",
-      "source_url": null,
-      "source": null
+      "course": "Main Dish",
+      "categories": [
+        "Casserole",
+        "Chicken"
+      ],
+      "source": "https://www.gimmesomeoven.com/best-chicken-enchiladas-ever/",
+      "source_url": "https://www.gimmesomeoven.com/best-chicken-enchiladas-ever/",
+      "rating": 5,
+      "ingredients": [
+        "2 tablespoons avocado oil (or olive oil)",
+        "1 small white onion, peeled and diced",
+        "1 1/2 pounds boneless skinless chicken breasts, diced into small 1/2-inch pieces",
+        "1 (4-ounce) can diced green chiles",
+        "sea salt and freshly-cracked black pepper",
+        "1 (15-ounce) can black beans, rinsed and drained",
+        "8 large flour tortillas",
+        "3 cups Mexican-blend shredded cheese",
+        "1 batch red enchilada sauce",
+        "optional toppings: fresh cilantro, chopped red onions, diced avocado, sour cream, and/or crumbled cotija cheese"
+      ],
+      "directions": [
+        "1. Preheat oven to 350°F.  Prepare your enchilada sauce.",
+        "2. In large sauté pan, heat oil over medium-high heat. Add onion and sauté for 3 minutes, stirring occasionally.  Add diced chicken and green chiles, and season with a generous pinch of salt and pepper.  Sauté the mixture for 6-8 minutes, stirring occasionally, or until the chicken is cooked through.  Add in the beans and stir until evenly combined.  Remove pan from heat and set aside.",
+        "3. To assemble the enchiladas, set up an assembly line including: tortillas, enchilada sauce, chicken mixture, and cheese. Lay out a tortilla, and spread two tablespoons of sauce over the surface of the tortilla.  Add a generous spoonful of the chicken mixture in a line down the center of the tortilla, then sprinkle with 1/3 cup cheese. Roll up tortilla and place in a greased 9 x 13-inch baking dish. Assemble the remaining enchiladas.  Then spread any remaining sauce evenly over the top of the enchiladas, followed by any extra cheese.",
+        "4. Bake uncovered for 20 minutes, until the enchiladas are cooked through and the tortillas are slightly crispy on the outside.  Transfer the baking dish to a wire baking rack.",
+        "5. Serve the enchiladas immediately while they’re nice and hot and melty, garnished with lots of fresh toppings. Enjoy!"
+      ],
+      "notes": "",
+      "prepTime": "PT1H15M",
+      "cookTime": "PT30M",
+      "image": "9a1bc896-895d-4610-8271-5c2490d1b360_0.jpg"
     },
     "fallback_info": {
       "name": "Cheesy Turkey Taco Chili Mac",
-      "source_url": null,
-      "source": null
+      "course": "Main Dish",
+      "categories": [
+        "Bean",
+        "Chicken",
+        "Pasta"
+      ],
+      "source": "one and done",
+      "rating": 4,
+      "ingredients": [
+        "TACO SEASONING",
+        "1 1/2 teaspoons garlic powder",
+        "1 1/2 teaspoons ground cumin",
+        "1 1/2 teaspoons chili powder",
+        "1 1/2 teaspoons sweet paprika",
+        "1/2 teaspoon dried oregano",
+        "1 teaspoon kosher salt",
+        "CHILI",
+        "Olive oil spray",
+        "1 1/3 pounds 93% lean ground turkey",
+        "1 medium onion, chopped",
+        "3 garlic cloves, minced",
+        "1 red bell pepper, chopped",
+        "1 (10-ounce) can mild diced tomatoes with green chiles",
+        "1 (14.5-ounce) can small red beans, rinsed and drained",
+        "1 (8-ounce) can tomato sauce",
+        "1 cup (8 ounces) fat-free refried beans",
+        "1 (15-ounce) can reduced-sodium chicken broth",
+        "8 ounces pasta shells, wheat or gluten-free",
+        "3/4 cup shredded reduced-fat sharp cheddar cheese",
+        "2 tablespoons chopped fresh cilantro",
+        "2 tablespoons chopped fresh scallions"
+      ],
+      "directions": [
+        "For the taco seasoning: In a small bowl, combine the garlic powder, cumin, chili powder, paprika, oregano, and salt.",
+        "For the chili: Heat a Dutch oven or large pot with a fitted lid over medium-high heat. Spray it with oil. Add the turkey and brown the meat, using a wooden spoon to break it into small pieces as it cooks, 4 to 5 minutes. Add the onion, garlic, bell pepper, and taco seasoning. Cook, stirring, until fragrant, 2 to 3 minutes. Add the tomatoes, red beans, tomato sauce, refried beans, chicken broth, and 1 1/2 cups water. Bring to a boil, reduce the heat to medium-low, cover, and simmer for 15 minutes to meld the flavors.",
+        "Stir in the pasta and simmer, uncovered, over medium heat until al dente, about 6 minutes or according to the package directions.",
+        "Remove the pot from the heat. Sprinkle the cheddar over the top of the chili, cover the pot, and let it sit until the cheese melts, 2 to 3 minutes. Serve immediately, garnished with the cilantro and scallions."
+      ],
+      "notes": "1 pound of pasta is fine. Chilies",
+      "prepTime": "PT0S",
+      "cookTime": "PT0S",
+      "image": "d67677f4-4f48-4222-a94c-ad09fa5bb553_0.jpg"
     },
     "dessert_info": {
       "name": "Decadent Chocolate Cherry Fruitcake",
-      "source_url": null,
-      "source": "Mom"
+      "course": "Dessert",
+      "categories": [
+        "Bread",
+        "Chocolate",
+        "Fruit"
+      ],
+      "source": "Mom",
+      "rating": 3,
+      "ingredients": [
+        "1¼ cup flour",
+        "¾ cup Sugar",
+        "1 tsp baking powder",
+        "1 tsp salt",
+        "½ tsp Baking soda",
+        "1 tsp cinnamon",
+        "½ tsp Nutmeg",
+        "¼ tsp Cloves",
+        "1 cup coarsely chopped pecans",
+        "1 cup dried cherries",
+        "¾ cup miniature semi-sweet chocolate chips",
+        "¾ cup Water",
+        "¼ cup kirsch (cherry-flavored liqueur) OR",
+        "2 teaspoons almond extract with ¼ cup water",
+        "1 tablespoon oil",
+        "1 egg",
+        "Glaze:",
+        "¼ cup miniature semi-sweet chocolate chips",
+        "2 teaspoons oil"
+      ],
+      "directions": [
+        "Heat oven to 350°F. Grease and flour bottom of 8x4 or 9x5-inch loaf pan.",
+        "In large bowl, combine all fruitcake ingredients. Stir by hand until mix is moistened.",
+        "Pour into prepared pan. Bake at 350°F. for 65 to 80 min. for 8x4-inch pan, 60 to 70 min. for 9x5-inch pan or until toothpick inserted in center comes out clean.",
+        "Cool 15 min.; cut in half remove from pan. Cool completely.",
+        "In small saucepan over low heat, melt chocolate chips and oil, stirring until smooth. Drizzle over fruitcake. Allow glaze to set in refrigerator.",
+        "Wrap well in plastic wrap or foil and store in refrigerator up to 2 weeks or freeze up to 3 months. For optimum flavor refrigerate at least 24 hours before serving.",
+        "Three 3x5-inch loaf pans can also be used. Divide batter evenly between pans. Bake at 350°F. for 40 to 50 minutes."
+      ],
+      "notes": "Stephen loves it!",
+      "prepTime": "PT0S",
+      "cookTime": "PT1H10M",
+      "image": "d9ee7295-9a45-4338-908e-4f6a28a7c785_0.jpg"
     }
   },
   {
@@ -238,18 +1179,108 @@
     "notes": "Culinary Research: Zucchini noodles should be salted and drained to avoid a watery dish. Burrata adds a creamy contrast to the fresh summer vegetables.",
     "primary_info": {
       "name": "Summer Veggie Zucchini Noodles with Burrata",
-      "source_url": null,
-      "source": "one and done"
+      "course": "Main Dish",
+      "categories": [
+        "Pasta",
+        "Vegetable",
+        "Vegetarian"
+      ],
+      "source": "one and done",
+      "rating": 3,
+      "ingredients": [
+        "1 tablespoon extra-virgin olive oil",
+        "1 garlic clove, sliced",
+        "1 cup halved cherry tomatoes",
+        "1 cup sliced asparagus",
+        "3/4 teaspoon kosher salt",
+        "Freshly ground black pepper",
+        "1 cup packed baby spinach",
+        "1 large or 2 small zucchini (about 14 ounces total), spiralized and cut into 6-inch lengths",
+        "1/4 cup (1 ounce) freshly grated Parmesan cheese",
+        "1 (4-ounce) ball burrata, sliced into 4 pieces",
+        "2 tablespoons chopped fresh basil"
+      ],
+      "directions": [
+        "Heat a large skillet over high heat. Add 1/2 tablespoon of the olive oil and the garlic and cook, stirring, until golden, about 30 seconds. Add the tomatoes, asparagus, 1/4 teaspoon of the salt, and pepper to taste. Cook, stirring, until the asparagus is crisp-tender, about 3 minutes. Stir in the spinach and cook until wilted, about 1 minute. Transfer to a medium bowl.",
+        "To the pan, add the remaining 1/2 tablespoon oil, the zucchini noodles, remaining 1/2 teaspoon salt, and pepper to taste. Cook, stirring, until slightly undercooked, about 1 minute.",
+        "Divide the zucchini noodles between 2 plates. Top each with half of the reserved vegetables, the Parmesan, burrata slices, and fresh basil. Serve immediately."
+      ],
+      "notes": "Double for multiple meals.",
+      "prepTime": "PT0S",
+      "cookTime": "PT0S",
+      "image": "63f6bc06-06d1-4a95-8ca0-e2bc561eb436_0.jpg"
     },
     "fallback_info": {
       "name": "Zucchini Lemon Pasta",
-      "source_url": null,
-      "source": "feel good food"
+      "course": "Main Dish",
+      "categories": [
+        "Pasta",
+        "Squash",
+        "Vegetarian"
+      ],
+      "source": "feel good food",
+      "rating": 3,
+      "ingredients": [
+        "FOR THE SAUCE",
+        "Reserved 1 cup zucchini flesh from Recipe 1",
+        "3/4 cup raw cashews",
+        "1/4 cup extra-virgin olive oil",
+        "2 tablespoons fresh lemon juice",
+        "2 garlic cloves",
+        "1 teaspoon sea salt",
+        "1/2 teaspoon Dijon mustard",
+        "FOR THE PASTA",
+        "10 ounces orecchiette pasta",
+        "1 tablespoon extra-virgin olive oil, plus more for drizzling",
+        "3 medium zucchini, sliced into coins",
+        "¼ cup fresh mint leaves",
+        "2 tablespoons chopped fresh dill",
+        "2 tablespoons pine nuts",
+        "Zest of 1 lemon",
+        "Pinch of red pepper flakes",
+        "Sea salt and freshly ground black pepper"
+      ],
+      "directions": [
+        "Make the sauce: Place the reserved zucchini flesh in a high-speed blender with the cashews, olive oil, lemon juice, garlic, salt, and mustard and blend until creamy.",
+        "Cook the pasta: Bring a large pot of salted water to a boil. Prepare the pasta according to the package instructions, cooking until al dente. During the last few minutes of cooking, scoop out 1 ¼ cups of the hot pasta water and set aside. Drain the pasta and toss it with a drizzle of oil to prevent sticking.",
+        "Return the pot to the stove. Add the oil, zucchini, and pinches of salt and pepper. Sauté over medium heat for 6 to 8 minutes, or until soft. Stir in the pasta, add the sauce and 1/2 cup of the reserved pasta water, and toss to combine. Add more pasta water, as needed, if the sauce is too thick. Season to taste.",
+        "Portion the pasta into bowls and top with the mint, dill, pine nuts, lemon zest, and red pepper flakes."
+      ],
+      "notes": "A whole pound of pasta works fine.",
+      "prepTime": "PT20M",
+      "cookTime": "PT0S",
+      "image": "57d54c32-c60f-4338-bd7f-d783756771f9_0.jpg"
     },
     "dessert_info": {
       "name": "rich rice pudding",
-      "source_url": null,
-      "source": "mad hungry men and boys"
+      "course": "Dessert",
+      "categories": [
+        "Fruit",
+        "Rice",
+        "Vegetarian"
+      ],
+      "source": "mad hungry men and boys",
+      "rating": 3,
+      "ingredients": [
+        "1/4 cup currants or raisins (optional)",
+        "2 tablespoons golden rum (optional)",
+        "3 cups half-and-half or whole milk",
+        "1/2 cup rice, preferably jasmine or basmati",
+        "1/4 cup sugar",
+        "1/2 teaspoon coarse salt",
+        "1 teaspoon pure vanilla extract",
+        "1/2 teaspoon ground cinnamon",
+        "1/4 teaspoon ground nutmeg"
+      ],
+      "directions": [
+        "If using the currants, soak them in the rum in a small bowl.",
+        "Place the half-and-half, rice, sugar, salt, vanilla, cinnamon, and nutmeg in a medium saucepan. Bring to a boil, stirring constantly. Reduce the heat to low and simmer for 20 minutes, continuing to stir.",
+        "Drain the currants and stir them into the pudding, then cook for an additional 2 minutes, or until the rice is al dente. Spoon the pudding into bowls and serve immediately, or spread it into a serving dish, cover, and chill. Press plastic wrap directly on the surface of the pudding to prevent it from forming a skin (unless you like it!)."
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT20M",
+      "image": "a532eeac-d971-4290-aa4b-af8acd6ba9f9_0.jpg"
     }
   },
   {
@@ -261,18 +1292,110 @@
     "notes": "Culinary Research: Mini meatloaves cook faster and stay juicier than a single large loaf. Adding grated zucchini to the meat mixture (technique found in research) adds moisture without affecting flavor.",
     "primary_info": {
       "name": "Little Cheddar Meat Loaves",
-      "source_url": null,
-      "source": "taste of home"
+      "course": "Main Dish",
+      "categories": [
+        "Beef"
+      ],
+      "source": "taste of home",
+      "rating": 4,
+      "ingredients": [
+        "1 egg",
+        "3/4 C. milk",
+        "1 C. shredded cheddar cheese",
+        "1/2 C. oats",
+        "1/2 C. Chopped onion",
+        "1 tsp. salt",
+        "1 lb ground beef",
+        "2/3 C. ketchup",
+        "1/2 C. brown sugar",
+        "1/2 tsp. mustard"
+      ],
+      "directions": [
+        "Beat 1 egg and 3/4 C. milk.",
+        "Add 1 C. shredded chedar cheese, 1/2 C. oats, 1/2 C. Chopped onion, and 1 tsp. salt.",
+        "Mix in 1 lb ground beef and shape into 8 small loaves.",
+        "Place in a 9\"x13\" pan.",
+        "Mix together 2/3 C. ketchup, 1/2 C. brown sugar, and 1/2 tsp. mustard and spoon over loaves.",
+        "Bake uncovered at 350° for 45 min."
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT45M",
+      "image": "29592a87-06c3-461a-9047-2a38ca504a1b_0.jpg"
     },
     "fallback_info": {
       "name": "Pizza Rice Casserole",
-      "source_url": null,
-      "source": "More with Less"
+      "course": "Main Dish",
+      "categories": [
+        "Beef",
+        "Casserole",
+        "Freezer",
+        "Rice"
+      ],
+      "source": "More with Less",
+      "rating": 4,
+      "ingredients": [
+        "Cook:",
+        "2/3 c. rice or use 2 cups cooked rice",
+        "Brown in skillet:",
+        "3/4 lb. ground beef",
+        "1 onion, chopped",
+        "Add:",
+        "2 c. tomato sauce",
+        "1/4 t. garlic salt",
+        "1 t. sugar",
+        "1 t. salt",
+        "dash pepper",
+        "1/4 t. oregano",
+        "1 t. parsley flakes",
+        "Combine",
+        "1½ c. cottage cheese",
+        "cooked rice",
+        "Sprinkle with 1/2 c. shredded cheese"
+      ],
+      "directions": [
+        "Brown in large skillet the ground beef and chopped onion.",
+        "Add the tomato sauce, garlic salt, sugar, salt, pepper, oregano, and parsley flakes. Cover and simmer for 15 minutes.",
+        "Combine the cottage cheese with the cooked rice.",
+        "Put ⅓ of the rice mixture in a buttered 2 qt. casserole. Top with ⅓ of the meat-tomato sauce. Continue to alternate layers, ending with tomato sauce.",
+        "Sprinkle with shredded cheese.",
+        "Bake at 325° for 30 minutes, or until hot and bubbly."
+      ],
+      "notes": "Double for a 9x13” pan.",
+      "prepTime": "PT30M",
+      "cookTime": "PT30M",
+      "image": "99723287-b8b3-4b99-9561-8c044e8fb9c4_0.jpg"
     },
     "dessert_info": {
       "name": "German Apple Cake",
-      "source_url": null,
-      "source": "mad hungry men & boys"
+      "course": "Dessert",
+      "categories": [
+        "Cake",
+        "Fruit"
+      ],
+      "source": "mad hungry men & boys",
+      "rating": 3,
+      "ingredients": [
+        "1 cup all-purpose flour",
+        "1½ teaspoons baking powder",
+        "1 teaspoon coarse salt",
+        "8 tablespoons (1 stick) unsalted butter, softened",
+        "1⅓  cups sugar",
+        "2 large eggs, lightly beaten",
+        "1 teaspoon pure vanilla extract",
+        "1 teaspoon ground cinnamon",
+        "Juice of ½ lemon",
+        "3 to 4 tart apples, such as Granny Smith, Cortland, or Winesap"
+      ],
+      "directions": [
+        "Preheat the oven to 375°F. Butter an 8-inch square pan or equivalent-size baking dish.",
+        "In a small bowl, whisk together the flour, baking powder, and salt. In a medium bowl, cream together the butter and 1 cup of the sugar. Stir in the eggs and vanilla. Add the flour mixture and beat until combined. Spread the mixture evenly in the prepared pan.",
+        "In a small bowl, combine the remaining 1/3 cup sugar with the cinnamon. Squeeze lemon juice into a medium bowl. Peel, core, and slice the apples into the bowl. Add the cinnamon-sugar mixture and toss to thoroughly coat each apple slice. Arrange the apple slices on top of the batter in overlapping rows, pressing lightly into the batter. Bake for about 45 minutes, until a cake tester or toothpick inserted in the center comes out clean. Cool in the pan on a wire rack for 10 to 15 minutes before serving."
+      ],
+      "notes": "Can use other fruit too.",
+      "prepTime": "PT0S",
+      "cookTime": "PT45M",
+      "image": "015c3c9d-18f2-4aa2-ae55-1c7335c373dc_0.jpg"
     }
   },
   {
@@ -284,18 +1407,122 @@
     "notes": "Culinary Research: Pot-in-pot cooking in the Instant Pot allows you to cook rice and beans simultaneously without them mixing. Technique: Use sofrito for an authentic flavor profile.",
     "primary_info": {
       "name": "Pot-in-Pot Puerto Rican Rice and Beans",
-      "source_url": null,
-      "source": null
+      "course": "Main Dish",
+      "categories": [
+        "Bean",
+        "Potato",
+        "Rice",
+        "Vegetarian"
+      ],
+      "source": "one and done",
+      "rating": 3,
+      "ingredients": [
+        "SOFRITO",
+        "1/2 small onion",
+        "1/2 cubanelle pepper, seeded",
+        "3 garlic cloves",
+        "1/4 cup chopped fresh cilantro",
+        "BEANS",
+        "1 teaspoon olive oil",
+        "1 (15.5-ounce) can pink or red kidney beans, undrained",
+        "1/2 cup canned tomato sauce",
+        "1 medium (5-ounce) all-purpose or russet potato, peeled and cut into 1/4-inch cubes",
+        "1/2 tablespoon sazón seasoning, homemade or store-bought",
+        "1 bay leaf",
+        "1/8 teaspoon dried oregano",
+        "1/4 teaspoon kosher salt",
+        "Freshly ground black pepper",
+        "RICE",
+        "1 cup uncooked white basmati rice",
+        "3/4 teaspoon kosher salt",
+        "TOPPINGS",
+        "5 ounces sliced avocado",
+        "1 large tomato, halved and sliced",
+        "Hot sauce, for serving (optional)"
+      ],
+      "directions": [
+        "For the sofrito: In a small food processor, finely chop the onion, cubanelle, garlic, and cilantro.",
+        "For the beans: Press the sauté button on an electric pressure cooker. When hot, add the oil and sofrito and cook, stirring, until softened, about 2 minutes. Add the beans (not drained) to the pot, along with 3/4 cup water, the tomato sauce, potato, sazón, bay leaf, oregano, salt, and black pepper to taste.",
+        "For the rice: In a heatproof bowl that will fit in the pressure cooker, stir together 1/4 cups water, the rice, and salt. Place the steaming rack/trivet over the beans, then place the bowl on top of the rack.",
+        "Seal and cook on high pressure for 12 minutes, until the rice is cooked and can easily be fluffed with a fork. Natural release for 10 minutes.",
+        "Carefully take the bowl of rice out of the pressure cooker and fluff with a fork. Remove the rack from the pressure cooker. Discard the bay leaf and serve the beans over the rice, topped with the avocado, tomato, and hot sauce, if desired."
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT12M",
+      "image": "47e3f632-3a14-4af6-92af-5343c729f4e3_0.jpg"
     },
     "fallback_info": {
       "name": "Baked Lentils With Cheese",
-      "source_url": null,
-      "source": null
+      "course": "Main Dish",
+      "categories": [
+        "Bean",
+        "Casserole",
+        "Rice",
+        "Vegetarian"
+      ],
+      "source": "More with Less",
+      "rating": 4,
+      "ingredients": [
+        "1 3/4 c. lentils, rinsed",
+        "2 c. water",
+        "1 whole bay leaf",
+        "2 t. salt",
+        "1/4 t. pepper",
+        "1 1/2 t. each marjoram, sage, thyme",
+        "2 large onions, chopped",
+        "2 cloves garlic, minced",
+        "2 c. canned tomatoes",
+        "2 large carrots, sliced 1/8\" thick",
+        "1/2 c. thinly sliced celery",
+        "1 green pepper, chopped (optional)",
+        "2 T. finely chopped parsley",
+        "3 c. shredded cheddar cheese"
+      ],
+      "directions": [
+        "Preheat oven to 375°.",
+        "Combine in shallow 9x13\" baking dish: lentils, water, bay leaf, salt, pepper, marjoram, sage, thyme, onions, garlic, and canned tomatoes.",
+        "Cover tightly and bake for 30 minutes.",
+        "Uncover and stir in carrots and celery.",
+        "Bake covered for 40 minutes until vegetables are tender.",
+        "Stir in green pepper and parsley.",
+        "Sprinkle cheese on top.",
+        "Bake uncovered for 5 minutes until cheese melts."
+      ],
+      "notes": "Cook lentils in instant pot.",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H10M",
+      "image": "f8a45a48-145a-4a5f-b8ec-20e22624676d_0.jpg"
     },
     "dessert_info": {
       "name": "Apple Crisp",
-      "source_url": null,
-      "source": "More with Less"
+      "course": "Dessert",
+      "categories": [],
+      "source": "More with Less",
+      "rating": 4,
+      "ingredients": [
+        "3 c. sliced or chopped apples",
+        "1 T. flour",
+        "1/4 c. sugar",
+        "1 t. cinnamon",
+        "1/8 t. salt",
+        "1 T. water",
+        "1/2 c. rolled oats",
+        "1/4 t. salt",
+        "1/4 c. margarine",
+        "1/3 c. brown sugar"
+      ],
+      "directions": [
+        "Preheat oven to 375°.",
+        "Combine and put in greased casserole.",
+        "Cut together oats, salt, butter, and sugar with pastry blender.",
+        "Sprinkle on top of casserole mixture.",
+        "Bake 35 minutes."
+      ],
+      "notes": "Triple crumble for topping.",
+      "prepTime": "PT40M",
+      "cookTime": "PT35M",
+      "image": "37b37666-58fb-4870-924b-b0bbe6ccece0_0.jpg"
     }
   },
   {
@@ -307,18 +1534,117 @@
     "notes": "Culinary Research: Tuscan chicken pasta benefits from sun-dried tomatoes and spinach. Synergy: Use any leftover spinach from the Zucchini Noodles on Day 11.",
     "primary_info": {
       "name": "Tuscan Chicken Pasta",
+      "course": "Main Dish",
+      "categories": [
+        "Chicken",
+        "Freezer",
+        "Pasta"
+      ],
+      "source": "https://www.sixsistersstuff.com/recipe/instant-pot-tuscan-chicken-pasta-freezer-meal/",
       "source_url": "https://www.sixsistersstuff.com/recipe/instant-pot-tuscan-chicken-pasta-freezer-meal/",
-      "source": "https://www.sixsistersstuff.com/recipe/instant-pot-tuscan-chicken-pasta-freezer-meal/"
+      "rating": 4,
+      "ingredients": [
+        "2 boneless, skinless chicken breasts (cooked and diced)",
+        "2 cups ditalini pasta (or elbows)",
+        "2 cups chicken broth",
+        "2 Tablespoons butter",
+        "8 ounces cream cheese (1 package)",
+        "½ cup milk",
+        "½ cup grated parmesan cheese",
+        "4 ounces sun dried tomatoes (drained and chopped)",
+        "½ teaspoon garlic salt",
+        "½ teaspoon black pepper",
+        "1 Tablespoon dried basil",
+        "2 cups fresh spinach leaves"
+      ],
+      "directions": [
+        "1. In the Instant Pot, add the pasta, chicken broth, butter, and chicken.",
+        "2. Place lid securely on and move the knob to sealing.",
+        "3. Set on manual, (or pressure cook) for 3 minutes.",
+        "4. Once timer goes off, allow a natural pressure release for 5 minutes before releasing valve to remove remaining pressure.",
+        "5. Remove lid and stir the noodles and chicken.",
+        "6. Turn off manual button and push the saute button",
+        "7. Stir in the cream cheese, milk, garlic salt, black pepper, basil, and Parmesan cheese.",
+        "8. Add in the sun dried tomatoes and spinach stirring until spinach is cooked down a bit.",
+        "9. Serve hot with your favorite salad and breadsticks!"
+      ],
+      "notes": "Grating Parmesan takes a while.",
+      "prepTime": "PT15M",
+      "cookTime": "PT15M",
+      "image": "b1dfc46d-fdb8-4bcd-afa1-74049976e147_0.jpg"
     },
     "fallback_info": {
       "name": "Thai Chicken Fettuccine",
-      "source_url": null,
-      "source": "personal collection"
+      "course": "Main Dish",
+      "categories": [
+        "Chicken",
+        "Pasta",
+        "Vegetarian"
+      ],
+      "source": "personal collection",
+      "rating": 4,
+      "ingredients": [
+        "1 1/4 cups picante sauce, pureed",
+        "Peanut Sauce",
+        "1/4 cup creamy peanut butter",
+        "2 tablespoons honey",
+        "2 tablespoons orange juice",
+        "1 teaspoon soy sauce",
+        "1 teaspoon ground ginger",
+        "Linguini",
+        "10 ounces linquini noodles, cooked al dente",
+        "3 boneless, skinless chicken breasts",
+        "1 tablespoon vegetable oil",
+        "1/4 cup chopped, fresh cilantro",
+        "2 tablespoons chopped peanuts"
+      ],
+      "directions": [
+        "Combine picante sauce and peanut sauce ingredients to a medium saucepan; heat until warm enough to eat and sauce is smooth. Remove from heat and set aside.",
+        "Toss cooked noodles with 4 c. of the picanté/peanut mixture. Place in serving bowl and set aside.",
+        "Cut chicken into 1-inch pieces. Heat oil in a lg. skillet and sauté chicken until brown and cooked through, about 4-6 min.",
+        "Add remaining picanté/peanut mixture to chicken and stir well.",
+        "Arrange chicken on top of noodles. Sprinkle chicken with cilantro and peanuts. Serve at room temperature."
+      ],
+      "notes": "Use more peanut butter instead of peanuts on top. Cilantro is optional. Vary the heat with the salsa or picante sauce.",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "image": "2d4c1b4c-994a-4246-8b58-242c85bba7e1_0.jpg"
     },
     "dessert_info": {
       "name": "Chewy Chocolate Chip Cookie Bars",
+      "course": "Dessert",
+      "categories": [
+        "Cookie"
+      ],
+      "source": "https://www.kingarthurbaking.com/recipes/chewy-chocolate-chip-cookie-bars-recipe",
       "source_url": "https://www.kingarthurbaking.com/recipes/chewy-chocolate-chip-cookie-bars-recipe",
-      "source": "https://www.kingarthurbaking.com/recipes/chewy-chocolate-chip-cookie-bars-recipe"
+      "rating": 4,
+      "ingredients": [
+        "11 tablespoons (156g) unsalted butter",
+        "2 cups plus 2 tablespoons (454g) light brown sugar or dark brown sugar packed",
+        "1 teaspoon table salt",
+        "1 teaspoon King Arthur Pure Vanilla Extract",
+        "1/4 teaspoon butterscotch flavor or vanilla-butternut flavor optional",
+        "3 large eggs",
+        "2 1/4 teaspoons baking powder",
+        "1/2 teaspoon espresso powder optional",
+        "2 3/4 cups (330g) King Arthur Unbleached All-Purpose Flour",
+        "3 cups (510g) chocolate chips or a combination of different flavored chips or chips and nuts"
+      ],
+      "directions": [
+        "1. Preheat the oven to 350°F. Lightly grease a 9\" x 13\" pan.",
+        "2. Melt the butter, and stir in the brown sugar. Add the salt, vanilla, and flavor, stirring until well combined.",
+        "3. Allow the mixture to cool slightly (if it's very hot to the touch), then add the eggs one at a time, beating well after each addition. Scrape the sides and bottom of the mixing bowl midway through this process.",
+        "4. Add the baking powder, espresso powder, and flour, stirring to combine.",
+        "5. Stir in the chips or other additions of your choice.",
+        "6. Scoop the batter into the prepared pan, spreading it to the edges with a wet spatula (or your wet fingers). Smooth the top as best you can.",
+        "7. Bake the bars for 30 to 32 minutes, until they've risen, and their top is shiny and golden. Bake for the shorter amount of time in a darker pan; the longer time in a light/shiny pan. A cake tester inserted into the center won't come out clean; in fact, the center of the very middle of the pan may look quite molten when you dig into it. But so long as no wet batter is showing farther out towards the edges, the bars are done. As they cool, the center will solidify.",
+        "8. Remove the bars from the oven, and use a heatproof spatula to press down the risen edges; this will make bars with flat, rather than humped tops. Let the bars cool completely before cutting; overnight is best. Once bars are cool, wrap airtight. Store wrapped bars at room temperature for a couple of days."
+      ],
+      "notes": "",
+      "prepTime": "PT10M",
+      "cookTime": "PT32M",
+      "image": "c38c6748-c2d5-47bc-8179-7dbe5beb4b26_0.jpg"
     }
   },
   {
@@ -330,18 +1656,99 @@
     "notes": "Culinary Research: Toasted almonds provide a necessary crunch to the delicate trout. Synergy: The lemon juice used for the trout can also be used to zest the dessert.",
     "primary_info": {
       "name": "Trout with almonds",
-      "source_url": null,
-      "source": "mad hungry family"
+      "course": "Main Dish",
+      "categories": [
+        "Fish"
+      ],
+      "source": "mad hungry family",
+      "rating": 4,
+      "ingredients": [
+        "1/2 cup sliced almonds",
+        "1/2 cup all-purpose flour",
+        "1/2 teaspoon coarse salt",
+        "1/4 teaspoon cayenne pepper",
+        "1 cup milk",
+        "4 trout fillets",
+        "1 tablespoon extra-virgin olive oil",
+        "1 tablespoon unsalted butter",
+        "2 garlic cloves, smashed and peeled"
+      ],
+      "directions": [
+        "Toast the almonds and set aside. Combine the flour, salt, and cayenne pepper in a flat dish. Pour the milk into another dish. Place the trout fillets in the milk and let sit for a couple of minutes.",
+        "Heat a large sauté pan over medium heat. Swirl in the oil and add the butter. Dredge both sides of the fillets in the flour mixture and add to the pan. Raise the heat, add the garlic cloves to the pan, and swirl them around. Flip the trout after 2 minutes and remove the garlic (you don't want it to brown). Cook until the fish is cooked through and lightly golden brown, 1 to 2 minutes more. Scatter the toasted almonds over the fish. Serve immediately."
+      ],
+      "notes": "Great with steelhead.",
+      "prepTime": "PT0S",
+      "cookTime": "PT0S",
+      "image": "fef503be-55c0-4b03-8719-d634c2520c2d_0.jpg"
     },
     "fallback_info": {
       "name": "Tuna Tomato Pasta",
-      "source_url": null,
-      "source": "Mad Hungry Men & boys"
+      "course": "Main Dish",
+      "categories": [
+        "Fish",
+        "Pasta"
+      ],
+      "source": "Mad Hungry Men & boys",
+      "rating": 3,
+      "ingredients": [
+        "1 tablespoon extra-virgin olive oil, plus more for drizzling",
+        "1 small onion, finely chopped",
+        "2 garlic cloves, minced",
+        "Pinch of crushed red pepper flakes, plus more for garnish",
+        "3 cans tuna, well drained",
+        "2 cans crushed tomatoes, with juice",
+        "Coarse salt and freshly ground black pepper",
+        "1 tablespoon chopped fresh oregano, thyme, or rosemary",
+        "1 pound penne or fusilli pasta"
+      ],
+      "directions": [
+        "Bring a large pot of water to a boil over high heat.",
+        "Heat a medium saucepan and add the olive oil, swirling to coat the pan. Sauté the onion and garlic until the onion is translucent, about 5 minutes. Stir in the red pepper flakes. Add the tuna and stir, being careful not to break up the chunks too much.",
+        "Stir in the tomatoes, season with salt and black pepper, bring to a boil, and reduce the heat to a simmer. Cook for 20 to 30 minutes. Add the chopped herb a few minutes before serving.",
+        "While the sauce is simmering, cook the pasta, drain, and toss with the sauce. Top with a drizzle of olive oil and an extra sprinkle of red pepper flakes."
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT30M",
+      "image": "7d186348-5a0f-4432-8946-c9bbb91c96f0_0.jpg"
     },
     "dessert_info": {
       "name": "Chocolate Chip Oatmeal Cookies",
-      "source_url": null,
-      "source": "More with Less"
+      "course": "Dessert",
+      "categories": [
+        "Chocolate",
+        "Cookie"
+      ],
+      "source": "More with Less",
+      "rating": 4,
+      "ingredients": [
+        "1 c. shortening (may use half margarine and half lard)",
+        "1/4 c. peanut butter",
+        "1/2 c. sugar",
+        "1/2 c. brown sugar",
+        "2 eggs",
+        "1 t. vanilla",
+        "1½ c. flour",
+        "1 t. soda",
+        "1/2 t. salt",
+        "2 c. rolled oats",
+        "1½  c. chocolate chips",
+        "1 c. chopped nuts (optional)"
+      ],
+      "directions": [
+        "Cream together shortening, peanut butter, sugar, and brown sugar.",
+        "Add eggs and vanilla.",
+        "Add flour, soda, and salt.",
+        "Mix in rolled oats, chocolate chips, and chopped nuts if using.",
+        "Mix well.",
+        "Drop by teaspoonfuls on greased cookie sheet.",
+        "Bake at 375° for about 10 minutes."
+      ],
+      "notes": "Hammer family favorite. Doesn’t store well.",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "image": "a899e735-98ae-448e-9b37-5d2bc12696ef_0.jpg"
     }
   },
   {
@@ -353,18 +1760,100 @@
     "notes": "Culinary Research: Bacon in lentils provides a smoky depth that balances the sweetness of honey. Technique: Simmer lentils slowly to ensure they don't burst and become mushy.",
     "primary_info": {
       "name": "Honey Baked Lentils",
-      "source_url": null,
-      "source": null
+      "course": "Main Dish",
+      "categories": [
+        "Bean",
+        "Casserole",
+        "Rice",
+        "Vegetarian"
+      ],
+      "source": "More with Less",
+      "rating": 3,
+      "ingredients": [
+        "1 lb. (2⅓ c.) lentils",
+        "1 small bay leaf",
+        "5 c. water",
+        "2 t. salt",
+        "1 t. dry mustard",
+        "1/4 t. powdered ginger",
+        "1 T. soy sauce",
+        "1/2 c. chopped onions",
+        "1 c. water",
+        "4 slices bacon",
+        "1/3 c. honey"
+      ],
+      "directions": [
+        "Combine in a dutch oven or saucepan: lentils, bay leaf, water, and salt. Bring to a boil. Cover tightly and reduce heat. Simmer 30 minutes. Do not drain. Discard bay leaf.",
+        "Preheat oven to 350°.",
+        "Combine separately and add to lentils: dry mustard, powdered ginger, soy sauce, chopped onions, and water.",
+        "Cut bacon in 1\" pieces. Stir most of the bacon into lentils and sprinkle remainder on top.",
+        "Pour honey over all. Cover tightly. Bake 1 hour. Uncover last 10 minutes to brown bacon."
+      ],
+      "notes": "Cook lentils in instant pot.",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H30M",
+      "image": "9c9fad9e-cfc2-48ae-9f2e-432fd01ce5c8_0.jpg"
     },
     "fallback_info": {
       "name": "Ham and White Bean Soup",
-      "source_url": null,
-      "source": null
+      "course": "Main Dish",
+      "categories": [
+        "Bean",
+        "Pork",
+        "Potato",
+        "Soup"
+      ],
+      "source": "One and Done",
+      "rating": 5,
+      "ingredients": [
+        "leftover ham bone",
+        "2 cups chopped leftover ham",
+        "2 (15-ounce) cans white beans, rinsed and drained",
+        "10 ounces Yukon Gold potatoes, peeled and finely chopped",
+        "2 medium carrots, chopped",
+        "1 celery stalk, chopped",
+        "1/2 cup frozen green peas + more",
+        "2 garlic cloves, minced",
+        "1 bay leaf",
+        "chili powder"
+      ],
+      "directions": [
+        "Instant pot works fine, for 20 minutes with broth instead of water.",
+        "In a slow cooker, combine 3 cups water, the ham bone, chopped ham, beans, potatoes, carrots, celery, peas, garlic, and bay leaf.",
+        "Cover and cook on low for 8 hours, until the potatoes are tender.",
+        "Discard the bone and bay leaf. Transfer 1 1/2 cups of the soup to a blender and puree until smooth. Stir the puree back into the soup.",
+        "Ladle 1 1/3 cups into each of 6 bowls and serve hot."
+      ],
+      "notes": "",
+      "prepTime": "PT20M",
+      "cookTime": "PT40M",
+      "image": "b6c708f6-3149-4f84-813c-9d59ad50258b_0.jpg"
     },
     "dessert_info": {
       "name": "Magic Bars",
-      "source_url": null,
-      "source": "gooseberry patch"
+      "course": "Dessert",
+      "categories": [
+        "Chocolate",
+        "Cookie"
+      ],
+      "source": "gooseberry patch",
+      "rating": 3,
+      "ingredients": [
+        "1/2 c. butter or margarine, melted",
+        "1⅓ c. graham cracker crumbs",
+        "14-oz. can sweetened condensed milk",
+        "1½ c. semi-sweet chocolate chips",
+        "1½ c. chopped walnuts"
+      ],
+      "directions": [
+        "Stir together butter and graham cracker crumbs; press into a 13\"x9\" baking dish.",
+        "Pour milk over crumb mixture; sprinkle with chocolate chips and walnuts.",
+        "Bake at 350 degrees for 25 minutes or until edges are browned and bubbly."
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT25M",
+      "image": "331a1a0f-fae1-4dd6-8a53-fe947c0830c9_0.jpg"
     }
   },
   {
@@ -376,18 +1865,118 @@
     "notes": "Culinary Research: No-boil lasagna noodles can be used in \"lazy\" lasagna to save time, but ensure there is enough sauce to hydrate them. Synergy: Leftover apples from the German Apple Cake (Day 12) can be used in the Roman Apple Cake today.",
     "primary_info": {
       "name": "Lazy Veggie Lasagna",
-      "source_url": null,
-      "source": "one and done"
+      "course": "Main Dish",
+      "categories": [
+        "Pasta",
+        "Vegetable",
+        "Vegetarian"
+      ],
+      "source": "one and done",
+      "rating": 4,
+      "ingredients": [
+        "1 cup (8 ounces) part-skim ricotta cheese, at room temperature",
+        "1/4 cup freshly grated Parmesan cheese",
+        "2 tablespoons chopped fresh parsley, plus more for garnish",
+        "1/2 tablespoon olive oil",
+        "1/2 medium onion, chopped",
+        "6 ounces mushrooms, stemmed and thinly sliced",
+        "1 1/2 cups broccoli florets (1-inch pieces)",
+        "1/2 cup chopped red bell pepper",
+        "3 garlic cloves, chopped",
+        "2 cups chopped baby spinach",
+        "2 cups jarred marinara sauce",
+        "1/4 cup low-sodium vegetable broth",
+        "1/4 cup chopped fresh basil",
+        "6 1/2 ounces no-boil lasagna noodles (about 11), wheat or gluten-free, broken into 1 1/2-inch pieces",
+        "3/4 cup (3 ounces) shredded part-skim mozzarella cheese"
+      ],
+      "directions": [
+        "In a small bowl, combine the ricotta, Parmesan, and parsley.",
+        "In a 12-inch ovenproof nonstick skillet with a fitted lid, heat the oil over medium-high heat until shimmering. Add the onion, mushrooms, broccoli, bell pepper, and garlic, and cook, stirring, until the vegetables are tender, about 5 minutes. Add the spinach and cook, stirring, until wilted, about 1 minute. Transfer to a medium bowl.",
+        "To the skillet, add the marinara sauce, broth, and basil. Stir to combine and bring to a simmer. Add the noodles, stir to coat, and spread into an even layer, making sure the noodles are submerged in liquid. Return the vegetables to the skillet and reduce the heat to medium. Simmer, covered and stirring occasionally, until the pasta is just tender and the sauce has thickened, about 20 minutes.",
+        "Remove the pan from the heat and dollop the ricotta cheese mixture over the lasagna noodles. Sprinkle the mozzarella over the top.",
+        "Adjust an oven rack to 6 inches from the heating element and preheat the broiler to high.",
+        "Broil until the cheese is melted and slightly browned, 3 to 4 minutes. Divide among 4 plates and garnish with the parsley."
+      ],
+      "notes": "Use 11 normal lasagna noodles, broken up. Add more broth or marinara as needed.",
+      "prepTime": "PT0S",
+      "cookTime": "PT0S",
+      "image": "3016f300-5ee4-4ea4-9cb5-ca9b253e032c_0.jpg"
     },
     "fallback_info": {
       "name": "Walnut Ham Linguine",
-      "source_url": null,
-      "source": "taste of home 2001"
+      "course": "Main Dish",
+      "categories": [
+        "Pasta",
+        "Pork"
+      ],
+      "source": "taste of home 2001",
+      "rating": 4,
+      "ingredients": [
+        "1 package (16 ounces) linguine or thin spaghetti",
+        "2 to 4 garlic cloves, minced",
+        "1/4 cup olive or vegetable oil",
+        "1/2 cup coarsely chopped walnuts",
+        "1/2 pound fully cooked ham slices, cut into 1/2-inch strips",
+        "1/3 cup grated Parmesan cheese",
+        "1/4 cup minced fresh parsley"
+      ],
+      "directions": [
+        "Cook pasta according to package directions.",
+        "Meanwhile, in a large skillet, saute garlic in oil for 1 minute.",
+        "Add walnuts; saute for 2 minutes.",
+        "Stir in ham; cook until heated through, about 2 minutes.",
+        "Drain pasta; toss with ham mixture.",
+        "Sprinkle with Parmesan and parsley."
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT0S",
+      "image": "5d3777df-0520-4e83-bfbe-251a5bbe8759_0.jpg"
     },
     "dessert_info": {
       "name": "Roman Apple Cake",
-      "source_url": null,
-      "source": "More with Less"
+      "course": "Dessert",
+      "categories": [
+        "Cake"
+      ],
+      "source": "More with Less",
+      "rating": 3,
+      "ingredients": [
+        "1 c. sugar",
+        "2 1/4 c. flour",
+        "1/4 t. salt",
+        "3/8 t. baking powder",
+        "1 1/2 t. soda",
+        "1/2 t. cloves",
+        "1 t. cinnamon",
+        "2/3 c. shortening (may use less)",
+        "2 eggs",
+        "2/3 c. milk",
+        "1/2 t. vanilla",
+        "3 c. raw apples, pared and chopped",
+        "Cover with topping",
+        "1 T. melted margarine",
+        "2 t. cinnamon",
+        "1/3 c. brown sugar",
+        "2 t. flour",
+        "1/2 c. chopped nuts or coconut (optional)",
+        "1/4 c. rolled oats"
+      ],
+      "directions": [
+        "Preheat oven to 350°.",
+        "Combine in mixing bowl: sugar, flour, salt, baking powder, soda, cloves, and cinnamon.",
+        "Beat in shortening, eggs, milk, and vanilla.",
+        "Add raw apples and mix well.",
+        "Pour into greased and floured 9x13\" pan.",
+        "Crumble together melted margarine, cinnamon, brown sugar, flour, chopped nuts or coconut, and rolled oats.",
+        "Cover the cake with the topping.",
+        "Bake for 35-40 minutes."
+      ],
+      "notes": "",
+      "prepTime": "PT40M",
+      "cookTime": "PT40M",
+      "image": "a7839ac4-4894-4103-89f0-cc6b03ad2a4f_0.jpg"
     }
   },
   {
@@ -399,18 +1988,121 @@
     "notes": "Culinary Research: Fresh herbs under the skin of the chicken provide a direct flavor infusion. Synergy: If you made extra roast chicken on Day 2, you can use the carcass to make broth for future soups.",
     "primary_info": {
       "name": "Lemon Herb Chicken",
+      "course": "Main Dish",
+      "categories": [
+        "Chicken",
+        "Freezer"
+      ],
+      "source": "https://myfamilydinner.com/lemon-herb-chicken-freezer-meal-recipe/",
       "source_url": "https://myfamilydinner.com/lemon-herb-chicken-freezer-meal-recipe/",
-      "source": "https://myfamilydinner.com/lemon-herb-chicken-freezer-meal-recipe/"
+      "rating": 5,
+      "ingredients": [
+        "4 Chicken thighs - Large (boneless/skinless)",
+        "1/4 cup Olive oil",
+        "1/4 cup Lemon juice",
+        "1 tbsp Lemon zest",
+        "2 tsp Garlic powder",
+        "1 tsp Dried oregano",
+        "1 tsp Dried basil",
+        "1 1/2 tsp Salt",
+        "1/2 tsp Black pepper"
+      ],
+      "directions": [
+        "1. Prep/Freezer Directions:",
+        "2. Prepare a gallon freezer bag, labeling according to your preferred method.",
+        "3. Add all ingredients to the freezer bag.",
+        "4. Seal bag, removing as much air as possible, freeze for up to three months.",
+        "5. Slow Cooker Directions:",
+        "6. Thaw freezer bag in fridge for 12-24 hours before cooking.",
+        "7. Dump the contents of the freezer bag into a slow cooker.",
+        "8. Cook on low for 4-6 hours.",
+        "9. Shred chicken and serve."
+      ],
+      "notes": "Instant pot is fine too.",
+      "prepTime": "PT5M",
+      "cookTime": "PT40M",
+      "image": "75c5ae9e-78e9-48e0-bd42-d0a296a849ab_0.jpg"
     },
     "fallback_info": {
       "name": "Shepherd's Pie Stew",
-      "source_url": null,
-      "source": "one and done"
+      "course": "Main Dish",
+      "categories": [
+        "Chicken",
+        "Potato",
+        "Soup"
+      ],
+      "source": "one and done",
+      "rating": 4,
+      "ingredients": [
+        "½ tablespoon olive oil",
+        "1 cup chopped onion",
+        "2 carrots, finely chopped",
+        "1 celery stalk, chopped",
+        "2 garlic cloves, minced",
+        "1½ pounds 93% lean ground turkey",
+        "1 teaspoon kosher salt",
+        "½ teaspoon freshly ground black pepper",
+        "¾ cup chopped mushrooms",
+        "2 tablespoons all-purpose flour, wheat or gluten-free",
+        "2 teaspoons tomato paste",
+        "5 cups reduced-sodium chicken broth*",
+        "1 teaspoon Worcestershire sauce*",
+        "1 teaspoon chopped fresh rosemary",
+        "1 teaspoon chopped fresh thyme",
+        "1 pound fresh or frozen potato gnocchi, gluten-free*",
+        "½ cup fresh or frozen corn kernels",
+        "½ cup fresh or frozen green peas"
+      ],
+      "directions": [
+        "In a Dutch oven or large pot, heat the oil over medium-high heat. Add the onion, carrots, and celery and cook, stirring, until beginning to soften, 4 to 5 minutes.",
+        "Add the garlic and cook, stirring, until fragrant, about 30 seconds.",
+        "Add the turkey, salt, and pepper and brown the meat, using a wooden spoon to break it into small pieces as it cooks, about 3 minutes.",
+        "Add the mushrooms and cook, stirring, until softened, about 3 minutes.",
+        "Sprinkle the flour over the mixture and cook, stirring, for 1 minute to cook the flour.",
+        "Add the tomato paste, chicken broth, Worcestershire, rosemary, and thyme, and stir well. Bring to a boil.",
+        "Reduce the heat to medium, cover, and simmer until the flavors meld, 10 to 12 minutes.",
+        "Stir in the gnocchi, corn, and peas. Increase the heat to high and cook, uncovered, according to the gnocchi package directions, 3 to 4 minutes.",
+        "Divide among 6 bowls and serve."
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT17M",
+      "image": "650ce766-ee4d-428e-9b6d-1d115cdd299d_0.jpg"
     },
     "dessert_info": {
       "name": "whole wheat chocolate oat cookies",
+      "course": "Dessert",
+      "categories": [
+        "Cookie"
+      ],
+      "source": "https://smittenkitchen.com/2020/09/whole-wheat-chocolate-oat-cookies/",
       "source_url": "https://smittenkitchen.com/2020/09/whole-wheat-chocolate-oat-cookies/",
-      "source": "https://smittenkitchen.com/2020/09/whole-wheat-chocolate-oat-cookies/"
+      "rating": 4,
+      "ingredients": [
+        "4 tablespoons (50 grams) raw or turbinado sugar",
+        "1/2 cup dark (95 grams) light or dark brown sugar",
+        "1/2 cup (115 grams) unsalted butter, at room temperature for a hand-mixer; cold is fine for a stand-mixer",
+        "1/2 teaspoon fine sea salt",
+        "1 large egg",
+        "3/4 teaspoon vanilla extract",
+        "1/2 teaspoon baking soda",
+        "3/4 teaspoon baking powder",
+        "3/4 cup (95 grams) whole wheat flour",
+        "1/4 cup (25 grams) wheat germ, wheat bran, oat bran, or a finely chopped nut of your choice (I like walnuts)",
+        "1 1/2 cups (120 grams) old-fashioned rolled oats",
+        "1 cup (6 ounces) chocolate chips, or semisweet chocolate, chopped into chunks",
+        "Flaky sea salt, if you wish"
+      ],
+      "directions": [
+        "1. Heat oven to 350 degrees F and line a large baking sheet with parchment paper.",
+        "2. In a large bowl, beat sugars, butter (if cold, in chunks), and salt together until fluffy. Add egg and vanilla, and beat until mixed. Sprinkle baking powder and baking soda over batter and beat until very well-combined, then a few more times around the bowl. Scrape bowl down. Add flour, wheat germ, oats, and chocolate and mix just until the flour disappears.",
+        "3. Arrange 3-tablespoon mounds of cookies 3 inches apart on the baking sheet. Sprinkle each with a couple flakes of sea salt. Bake for 12 to 14 minutes. Cookies will be golden brown all over. Remove from oven and let set up on the baking sheet for 5 minutes before transferring them to a cooling rack.",
+        "4. Extra dough will keep in fridge for 3 days, and longer in the freezer. I like to scoop then freeze it on a tray; once solid, I’ll pack them tightly in a freezer bag. You can bake them directly from the freezer; it usually only takes 1 to 2 minutes longer. Cookies baked from cold will spread less."
+      ],
+      "notes": "",
+      "prepTime": "PT20M",
+      "cookTime": "PT15M",
+      "image": "ad5cb250-b42c-4e25-b7a9-85014c6139e3_0.jpg"
     }
   },
   {
@@ -422,18 +2114,109 @@
     "notes": "Culinary Research: Adding a splash of lime at the end of cooking black beans brightens the earthy flavor. Synergy: Reuse any leftover rice from Day 13.",
     "primary_info": {
       "name": "black beans and rice",
-      "source_url": null,
-      "source": null
+      "course": "Main Dish",
+      "categories": [
+        "Bean",
+        "Rice",
+        "Vegetarian"
+      ],
+      "source": "mad hungry family",
+      "rating": 3,
+      "ingredients": [
+        "3 tablespoons olive oil",
+        "1 medium white onion, chopped",
+        "2 garlic cloves, minced",
+        "3/4 teaspoon coarse salt",
+        "1/2 teaspoon ground cumin",
+        "1/4 teaspoon freshly ground black pepper",
+        "1/4 teaspoon dried oregano",
+        "Two 15-ounce cans black beans, drained, or 30 ounces cooked dry beans",
+        "1/2 cup water",
+        "3 cups cooked white or brown rice",
+        "1 avocado, pitted, peeled, and chopped (optional, for serving)",
+        "1 lime, cut into wedges, for serving"
+      ],
+      "directions": [
+        "Heat 2 tablespoons of the oil in a large sauté pan over medium-high heat. When it shimmers, add half the onion, garlic, and salt and cook, stirring occasionally, until the onion is soft and translucent, about 3 minutes.",
+        "Stir in the cumin, pepper, and oregano and cook for 1 minute more. Add the beans and water and continue cooking, stirring occasionally, until the beans are warmed through, about 5 minutes. Remove from the heat and stir in the remaining 1 tablespoon oil.",
+        "Serve the black beans over rice, garnished with the remaining onion, the avocado (if using), and lime wedges."
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT0S",
+      "image": "4e0259e0-f8bb-4eab-9c78-c89aea52cc87_0.jpg"
     },
     "fallback_info": {
       "name": "Spanish Chickpeas and Rice",
-      "source_url": null,
-      "source": null
+      "course": "Main Dish",
+      "categories": [
+        "Bean",
+        "Rice",
+        "Vegetarian"
+      ],
+      "source": "budget bytes",
+      "rating": 3,
+      "ingredients": [
+        "2 Tbsp olive oil",
+        "2 cloves garlic",
+        "½ Tbsp smoked paprika",
+        "1 tsp cumin",
+        "1/2 tsp oregano",
+        "1/4 tsp cayenne pepper",
+        "Freshly cracked black pepper",
+        "1 yellow onion",
+        "1 cup uncooked long grain white rice",
+        "15oz can diced tomatoes",
+        "15oz can quartered artichoke hearts",
+        "19oz can chickpeas",
+        "1.5 cups vegetable broth",
+        "1/2 tsp salt (to taste)",
+        "¼ bunch fresh parsley",
+        "1 fresh lemon"
+      ],
+      "directions": [
+        "Mince garlic and add to sauté pan with olive oil. Cook over medium-low heat for 1-2 minutes, or just until soft and fragrant. Add spices, then stir and sauté with hot oil for 1 minute.",
+        "Dice the onion and add, sautéing until soft and translucent for about 5 minutes. Add the rice and sauté for 2 minutes more.",
+        "Drain the chickpeas and artichoke hearts and add to the skillet with the diced tomatoes, broth, and salt. Roughly chop the parsley and add, saving a small amount to sprinkle before serving. Stir until combined.",
+        "Place a lid on the skillet and turn heat up to medium-high, allowing the skillet to come to a boil. When it reaches a boil, reduce heat to low and make sure it actively simmers for 20 minutes.",
+        "After simmering for 20 minutes, turn heat off and allow the skillet to rest for 5 minutes without removing the lid. Remove the lid, fluff with a fork, top with the remaining parsley. Cut the lemon into wedges and squeeze fresh juice over each bowl."
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT20M",
+      "image": "57af5137-723a-4635-b224-93462d1a6841_0.jpg"
     },
     "dessert_info": {
       "name": "60-Second Chocolate Chip Mug Cookie",
+      "course": "Dessert",
+      "categories": [
+        "Chocolate",
+        "Cookie"
+      ],
+      "source": "https://www.melskitchencafe.com/60-second-chocolate-chip-mug-cookie/",
       "source_url": "https://www.melskitchencafe.com/60-second-chocolate-chip-mug-cookie/",
-      "source": "https://www.melskitchencafe.com/60-second-chocolate-chip-mug-cookie/"
+      "rating": 4,
+      "ingredients": [
+        "1 tablespoon melted butter or coconut oil",
+        "1 tablespoon granulated sugar",
+        "1 tablespoon brown sugar",
+        "1/8 teaspoon vanilla extract",
+        "pinch of salt",
+        "1 egg yolk",
+        "1/4 cup all-purpose flour (see note)",
+        "2 tablespoons chocolate chips (regular size or mini)"
+      ],
+      "directions": [
+        "1. Very lightly coat the inside of a 6- or 8-ounce mug or ramekin with cooking spray, butter or coconut oil.",
+        "2. To the mug or ramekin, add the melted butter, egg yolk, granulated sugar, brown sugar, vanilla and salt. Mix until well combined.",
+        "3. Add the flour (see note!) and chocolate chips. Stir until just combined. If the batter is dry and crumbly, add a splash of milk.",
+        "4. COOKING INSTRUCTIONS: the exact cooking time will vary on the size/wattage of microwave you are using. For a 1,000 watt microwave, cook for one minute at 80% power. For a 1,200 or 1,500 watt microwave, cook for 45 seconds at 75% power. You may need to play around with the exact timing based on your microwave. The key is to NOT OVERCOOK the mug cookie. The top should puff and spring back lightly to the touch.",
+        "5. Serve warm (don't let it cool! It is infinitely better served immediately) with ice cream, if desired."
+      ],
+      "notes": "Double the recipe for two mugs. Use 1 egg, scrambled and divided.",
+      "prepTime": "PT5M",
+      "cookTime": "PT1M",
+      "image": "9a096322-362f-40b0-90db-1ac3e74bc58d_0.jpg"
     }
   },
   {
@@ -445,18 +2228,105 @@
     "notes": "Culinary Research: Kimchi provides a fermented tang that balances the rich skirt steak. Technique: Slice steak against the grain for maximum tenderness.",
     "primary_info": {
       "name": "Gochujang Skirt Steak and Noodles with Kimchi",
-      "source_url": null,
-      "source": "cookish"
+      "course": "Main Dish",
+      "categories": [
+        "Beef",
+        "Noodle"
+      ],
+      "source": "cookish",
+      "rating": 3,
+      "ingredients": [
+        "1 pound skirt steak, trimmed",
+        "5 tablespoons gochujang, divided (3 is plenty)",
+        "Kosher salt",
+        "1 tablespoon neutral oil",
+        "1 tablespoon mirin",
+        "2 teaspoons toasted sesame oil, plus more to serve",
+        "1½ cups drained napa cabbage kimchi, roughly chopped, plus 3 tablespoons kimchi juice",
+        "10 ounces dried non-instant ramen or lo mein noodles, cooked, drained and rinsed"
+      ],
+      "directions": [
+        "Rub the steak with 2 tablespoons of gochujang and season with 2 teaspoons salt, then cut into 3-inch sections.",
+        "In a 12-inch skillet, heat the neutral oil until shimmering.",
+        "Add the steak and brown well on both sides. Transfer to a plate.",
+        "In a large bowl, whisk together the remaining gochujang, mirin, sesame oil and kimchi juice.",
+        "Thinly slice the steak against the grain and add to the bowl along with any juices, the noodles and kimchi, then toss.",
+        "Season with salt and drizzle with additional sesame oil.",
+        "Optional garnish: Thinly sliced cucumber or thinly sliced scallions OR both."
+      ],
+      "notes": "",
+      "prepTime": "PT25M",
+      "cookTime": "PT0S",
+      "image": "cf7d6aa2-28bd-4d6d-ae32-9e4c28fa7157_0.jpg"
     },
     "fallback_info": {
       "name": "Spaghetti",
+      "course": "Main Dish",
+      "categories": [
+        "Beef",
+        "Pasta"
+      ],
+      "source": "https://kristineskitchenblog.com/instant-pot-spaghetti/",
       "source_url": "https://kristineskitchenblog.com/instant-pot-spaghetti/",
-      "source": "https://kristineskitchenblog.com/instant-pot-spaghetti/"
+      "rating": 5,
+      "ingredients": [
+        "1 pound lean ground beef (or ground turkey)",
+        "4 cups water",
+        "2 teaspoons Italian seasoning",
+        "1 teaspoon garlic powder",
+        "¾ teaspoon salt",
+        "¼ teaspoon black pepper",
+        "16 ounces uncooked spaghetti (white or whole wheat)",
+        "15 ounce can tomato sauce",
+        "25 ounce jar marinara sauce (see note below)"
+      ],
+      "directions": [
+        "1. Turn on the Instant Pot sauté function and add the ground beef. Cook, crumbling with a spoon or spatula, until browned. Turn the Instant Pot off. Drain off any excess grease.",
+        "2. Add the water, Italian seasoning, garlic powder, salt and pepper. Stir until well combined, scraping up any browned bits from the bottom of the pot.",
+        "3. Take small handfuls of the spaghetti noodles, break them in half, and lay them in the pot arranged in different directions (to prevent the spaghetti from sticking together). Do not stir.",
+        "4. Pour the tomato sauce and marinara sauce over the spaghetti. Do not stir.",
+        "5. Close Instant Pot lid and move the steam valve to the sealing position.",
+        "6. Pressure cook at high pressure for 7 minutes if using regular white spaghetti with a package cook time of 9-11 minutes. Pressure cook at high pressure for 5 minutes if using whole wheat spaghetti with a package cook time of 7-9 minutes. The Instant Pot will take about 15-20 minutes to come to pressure and then the cook time will start counting down.",
+        "7. As soon as the cook time ends, do a quick release (carefully move the steam release valve to the venting position. Then wait for all of the steam to escape and the pin to drop down).",
+        "8. Remove the lid, stir. You will see some liquid in the pot. This will absorb after just a few minutes. Let the pasta rest for 3-5 minutes and then serve."
+      ],
+      "notes": "Meatballs work great.",
+      "prepTime": "PT10M",
+      "cookTime": "PT30M",
+      "image": "8b479bae-d741-424f-98eb-d553bbf4d6d4_0.jpg"
     },
     "dessert_info": {
       "name": "New Hampshire Maple-Walnut Scones",
+      "course": "Dessert",
+      "categories": [
+        "Bread"
+      ],
+      "source": "https://www.kingarthurbaking.com/recipes/new-hampshire-maple-walnut-scones-recipe",
       "source_url": "https://www.kingarthurbaking.com/recipes/new-hampshire-maple-walnut-scones-recipe",
-      "source": "https://www.kingarthurbaking.com/recipes/new-hampshire-maple-walnut-scones-recipe"
+      "rating": 4,
+      "ingredients": [
+        "Scones:",
+        "3 1/2 cups (422g) King Arthur Unbleached All-Purpose Flour",
+        "3/4 cup (85g) walnuts finely chopped*",
+        "4 teaspoons (16g) baking powder",
+        "1 teaspoon table salt",
+        "11 tablespoons (156g) unsalted butter cold cut into pats",
+        "1 cup (227g) milk cold",
+        "1/3 cup (103g) maple syrup grade B (dark) preferred",
+        "1/2 teaspoon natural maple flavor optional but good",
+        "Glaze:",
+        "1 cup (113g) confectioners' sugar",
+        "pinch of table salt",
+        "1/4 cup (78g) maple syrup grade B (dark) preferred",
+        "1/4 teaspoon natural maple flavor optional but good"
+      ],
+      "directions": [
+        "1. To make the scones: In a large bowl, combine the flour, walnuts, baking powder and salt., Work in the cold butter until the mixture resembles coarse crumbs., In a separate bowl, combine the milk, maple syrup, and the maple flavor., Add the wet ingredients to the dry ingredients and mix until you've formed a soft dough., Flour a piece of parchment (if you have one) or your work surface generously, and scrape the dough out of the mixing bowl onto the parchment or work surface. Divide the dough into three equal pieces., Working with one piece at a time, gently pat the dough into a circle about 3/4\" thick., Leave the circles on the parchment, and transfer it to a baking sheet. If you're not using parchment, gently transfer the circles to a lightly greased baking sheet., Using a sharp bench knife or rolling pizza wheel, divide each dough circle into eight wedges., Gently separate the wedges so that they're almost touching in the center, but are spaced about an inch apart at the edges., Preheat the oven to 425°F. Place the pan of scones into your refrigerator to chill while your oven is heating, for about 20 to 30 minutes. This will help their texture. If there's no room in your fridge, simply let them rest on the counter while your oven preheats., Bake the scones for 15 to 20 minutes, or until they're golden brown., Remove them from the oven, wait a couple of minutes, then gently separate the scones with a knife (they'll be very fragile), and carefully transfer them to a cooling rack., To make the glaze: Combine all of the glaze ingredients, stirring until smooth., When the scones are cool, drizzle them with the glaze., Store any leftover scones, well wrapped, at room temperature for several days. Freeze for longer storage."
+      ],
+      "notes": "",
+      "prepTime": "PT15M",
+      "cookTime": "PT18M",
+      "image": "85229d93-5bb6-44bd-941c-3d0fcfef7131_0.jpg"
     }
   },
   {
@@ -468,18 +2338,125 @@
     "notes": "Culinary Research: Tilapia is a neutral fish that carries the garlic butter well. Synergy: Use the garlic butter technique from Day 15's trout for consistency.",
     "primary_info": {
       "name": "Garlic Butter Oven Baked Tilapia",
+      "course": "Main Dish",
+      "categories": [
+        "Fish"
+      ],
+      "source": "https://diethood.com/garlic-butter-oven-baked-tilapia/",
       "source_url": "https://diethood.com/garlic-butter-oven-baked-tilapia/",
-      "source": "https://diethood.com/garlic-butter-oven-baked-tilapia/"
+      "rating": 4,
+      "ingredients": [
+        "4 tilapia fillets",
+        "Salt and freshly ground black pepper, (to taste)",
+        "½ teaspoon paprika",
+        "½ teaspoon dried thyme",
+        "½ teaspoon dried oregano",
+        "4 tablespoons butter, (melted)",
+        "4 cloves garlic, (minced)",
+        "2 tablespoons lemon juice",
+        "¼ teaspoon lemon zest",
+        "1 lemon, (sliced into rounds, for garnish)",
+        "Red pepper flakes, (for garnish)",
+        "Chopped fresh parsley, (for garnish)",
+        "Lemon slices, (for garnish)"
+      ],
+      "directions": [
+        "1. Preheat oven to 400°F. Season tilapia with salt, pepper, paprika, thyme, and oregano; arrange fish in a 9x13 baking dish.",
+        "2. In a mixing bowl, whisk together melted butter, garlic, lemon juice, and lemon zest; pour over tilapia.",
+        "3. Bake tilapia for 10 to 12 minutes, or until fish flakes and is fork-tender.",
+        "4. Garnish with pepper flakes, parsley, and lemon slices. Serve."
+      ],
+      "notes": "",
+      "prepTime": "PT5M",
+      "cookTime": "PT12M",
+      "image": "3a2433bf-81dc-4be1-8752-dd05b86e936c_0.jpg"
     },
     "fallback_info": {
       "name": "Tuna Salad Sandwich",
-      "source_url": null,
-      "source": "mad hungry men & boys"
+      "course": "Lunch",
+      "categories": [
+        "Fish",
+        "Sandwich"
+      ],
+      "source": "mad hungry men & boys",
+      "rating": 3,
+      "ingredients": [
+        "2 x 6-ounce cans water-packed white tuna",
+        "1 large scallion (both white and green parts), finely chopped, or 1/4 cup or less finely chopped or grated onion",
+        "1 celery stalk, chopped",
+        "1 tablespoon fresh lemon juice (from 1/2 lemon)",
+        "1/4 teaspoon freshly ground black pepper",
+        "1/4 teaspoon coarse salt, plus more to taste",
+        "1/4 cup mayonnaise, or to taste",
+        "8 to 12 slices whole-grain or rye bread",
+        "8 to 12 lettuce leaves, washed and patted dry",
+        "OPTIONAL ADD-INS",
+        "1 to 3 dashes of Tabasco sauce",
+        "2 pickles of choice, finely chopped",
+        "1 teaspoon capers, rinsed",
+        "1/4 teaspoon chopped fresh dill"
+      ],
+      "directions": [
+        "Drain the tuna, and place it in a bowl. Break up the chunks with a fork. Add the scallion and toss together. Mix in the celery, lemon juice, pepper, and salt and any optional add-ins.",
+        "Little by little, mix in the mayonnaise until the desired consistency is reached. Spread the tuna salad on plain or toasted bread, topped with lettuce.",
+        "For tuna melts, omit the lettuce. Toast slices of bread. Top the toast with tuna salad and top with 1 slice of cheddar, Swiss, or white American cheese. Broil in a toaster oven or broiler for 3 minutes, or until the cheese is melted."
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT0S",
+      "image": "2c6e501b-308a-41d2-a405-fd223f9f83a0_0.jpg"
     },
     "dessert_info": {
       "name": "Perfectly Pillowy Cinnamon Rolls",
+      "course": "Dessert",
+      "categories": [
+        "Bread"
+      ],
+      "source": "https://www.kingarthurbaking.com/recipes/perfectly-pillowy-cinnamon-rolls-recipe",
       "source_url": "https://www.kingarthurbaking.com/recipes/perfectly-pillowy-cinnamon-rolls-recipe",
-      "source": "https://www.kingarthurbaking.com/recipes/perfectly-pillowy-cinnamon-rolls-recipe"
+      "rating": 5,
+      "ingredients": [
+        "Tangzhong:",
+        "1/2 cup (113g) milk whole preferred",
+        "3 tablespoons (24g) King Arthur Unbleached Bread Flour",
+        "Dough:",
+        "2/3 cup (151g) milk cold whole preferred",
+        "2 1/2 cups (300g) King Arthur Unbleached Bread Flour",
+        "1 teaspoon (6g) table salt",
+        "2 tablespoons (25g) granulated sugar",
+        "2 teaspoons instant yeast",
+        "4 tablespoons (57g) unsalted butter softened",
+        "Filling:",
+        "1 tablespoon (14g) butter melted",
+        "1/2 cup (107g) light brown sugar packed",
+        "2 tablespoons (14g) King Arthur Unbleached Bread Flour",
+        "3 to 4 teaspoons (8g to 10g) cinnamon*",
+        "1/16 teaspoon table salt",
+        "Icing:",
+        "3 tablespoons (42g) butter melted divided",
+        "1/2 teaspoon King Arthur Pure Vanilla Extract",
+        "1/16 teaspoon table salt",
+        "1 1/2 cups (170g) confectioners' sugar sifted",
+        "1 to 2 tablespoons (14g to 28g) milk heavy cream or buttermilk enough to thin to desired consistency"
+      ],
+      "directions": [
+        "1. To make the tangzhong: Combine both the ingredients in a small saucepan, and whisk until no lumps remain., Place the saucepan over medium heat and cook the mixture, stirring regularly, until thickened, paste-like, and the spoon or spatula leaves lines on the bottom of the pan. This should take 1 to 3 minutes, depending on the strength of your burner.",
+        "2. Remove from the heat and transfer to a large mixing bowl, the bowl of a stand mixer, or the bucket of a bread machine (whatever you plan to knead the dough in)., To make the dough: Weigh your flour; or measure it by gently spooning it into a cup, then sweeping off any excess. Add the cold milk, then the flour and remaining ingredients to the mixing bowl in the order listed; the heat from the tangzhong will help to warm the cold milk., Mix — by hand, on low speed of a stand mixer with the dough hook attachment, or in a bread machine set to the dough cycle — to bring the dough together. Next, knead the dough until it’s smooth, elastic, and tacky. This will take up to 15 minutes by hand, 10 to 12 minutes on medium-low speed of a mixer, or the length of the dough cycle in a bread machine.",
+        "3. Shape the dough into a ball, place it in a bowl, and cover the bowl with plastic wrap or a reusable cover., Let the dough rise until puffy but not necessarily doubled in bulk, about 60 to 90 minutes (depending on the warmth of your kitchen).",
+        "4. To make the filling: While the dough is rising, put the melted butter into a medium bowl and add the remaining ingredients, stirring until the mixture is the texture of damp sand. Set aside., Lightly grease a baking sheet, or line it with parchment paper. , To assemble the cinnamon rolls: Transfer the dough to a lightly greased work surface and press it into a 10” x 12” rectangle that’s about 1/2” thick. For evenly shaped cinnamon rolls, try to pat the dough into an actual rectangle (with corners), rather than an oval. , Sprinkle the filling over the dough, covering all but a 1/2” strip along one long side.",
+        "5. Starting with the filling-covered long side, roll the dough into a log.",
+        "6. Score the dough lightly into eight equal 1 1/2” to 2” pieces; this will make large, saucer-sized cinnamon rolls — their generous size is part of their charm. Cut the dough at the score marks. Dental floss will give you the cleanest cut: pull off a long piece of floss, loop it underneath the log at the score mark, and pull the ends in opposite directions to cut the dough. Repeat until you've cut all of the cinnamon rolls. If you don’t have dental floss, a bench knife or sharp knife will work.",
+        "7. Place the cinnamon rolls onto the prepared baking sheet, spacing them so there’s at least 2” between each one and they’re 2” away from the edges of the pan; a 3-2-3 arrangement works well. To prevent them from unraveling while they rise and bake, tuck the ends of the spirals underneath the cinnamon rolls so that they’re held in place.",
+        "8. Cover the cinnamon rolls with lightly greased plastic wrap or a reusable cover and let them rise for 30 to 60 minutes (depending on the warmth of your kitchen). The cinnamon rolls should be puffy and the dough shouldn’t bounce back immediately when gently pressed.",
+        "9. About 20 minutes before you’re ready to bake, position a rack in the top third of the oven. Preheat the oven to 375°F., Bake the cinnamon rolls for 14 to 18 minutes, until they’re a light golden brown and a digital thermometer inserted into the center of one roll reads 190°F. Bake for the lesser amount of time for extra-soft cinnamon rolls, and the longer amount of time for cinnamon rolls with a bit more color and slightly firmer texture.",
+        "10. Remove the cinnamon rolls from the oven, place the pan on a rack, and brush the hot cinnamon rolls with 1 1/2 tablespoons (21g) of the melted butter. Let the cinnamon rolls cool for 10 to 15 minutes before icing.",
+        "11. To make the icing: Combine the remaining 1 1/2 tablespoons (21g) melted butter with the remaining icing ingredients in a medium bowl, mixing with a spatula until smooth. Milk makes a lovely frosting; using cream in place of milk creates an extra layer of richness, while substituting buttermilk adds subtle tang, a nice counterpoint to the icing's overall sweetness., Ice the cinnamon rolls and serve immediately. If you’re planning to serve the cinnamon rolls later, wait to ice them until just before serving. Store icing at room temperature, tightly covered, until you’re ready to use it.",
+        "12. Store completely cooled cinnamon rolls, un-iced and well wrapped, for a couple of days at room temperature; or freeze for up to 1 month."
+      ],
+      "notes": "",
+      "prepTime": "PT30M",
+      "cookTime": "PT18M",
+      "image": "16e976ac-1400-4e61-aa76-11a1e4738601_0.jpg"
     }
   },
   {
@@ -491,18 +2468,119 @@
     "notes": "Culinary Research: Chili Mac is a great way to use up smaller amounts of various cheeses. Synergy: The taco spices align with the flavors from Day 4 and Day 7.",
     "primary_info": {
       "name": "Cheesy Turkey Taco Chili Mac",
-      "source_url": null,
-      "source": null
+      "course": "Main Dish",
+      "categories": [
+        "Bean",
+        "Chicken",
+        "Pasta"
+      ],
+      "source": "one and done",
+      "rating": 4,
+      "ingredients": [
+        "TACO SEASONING",
+        "1 1/2 teaspoons garlic powder",
+        "1 1/2 teaspoons ground cumin",
+        "1 1/2 teaspoons chili powder",
+        "1 1/2 teaspoons sweet paprika",
+        "1/2 teaspoon dried oregano",
+        "1 teaspoon kosher salt",
+        "CHILI",
+        "Olive oil spray",
+        "1 1/3 pounds 93% lean ground turkey",
+        "1 medium onion, chopped",
+        "3 garlic cloves, minced",
+        "1 red bell pepper, chopped",
+        "1 (10-ounce) can mild diced tomatoes with green chiles",
+        "1 (14.5-ounce) can small red beans, rinsed and drained",
+        "1 (8-ounce) can tomato sauce",
+        "1 cup (8 ounces) fat-free refried beans",
+        "1 (15-ounce) can reduced-sodium chicken broth",
+        "8 ounces pasta shells, wheat or gluten-free",
+        "3/4 cup shredded reduced-fat sharp cheddar cheese",
+        "2 tablespoons chopped fresh cilantro",
+        "2 tablespoons chopped fresh scallions"
+      ],
+      "directions": [
+        "For the taco seasoning: In a small bowl, combine the garlic powder, cumin, chili powder, paprika, oregano, and salt.",
+        "For the chili: Heat a Dutch oven or large pot with a fitted lid over medium-high heat. Spray it with oil. Add the turkey and brown the meat, using a wooden spoon to break it into small pieces as it cooks, 4 to 5 minutes. Add the onion, garlic, bell pepper, and taco seasoning. Cook, stirring, until fragrant, 2 to 3 minutes. Add the tomatoes, red beans, tomato sauce, refried beans, chicken broth, and 1 1/2 cups water. Bring to a boil, reduce the heat to medium-low, cover, and simmer for 15 minutes to meld the flavors.",
+        "Stir in the pasta and simmer, uncovered, over medium heat until al dente, about 6 minutes or according to the package directions.",
+        "Remove the pot from the heat. Sprinkle the cheddar over the top of the chili, cover the pot, and let it sit until the cheese melts, 2 to 3 minutes. Serve immediately, garnished with the cilantro and scallions."
+      ],
+      "notes": "1 pound of pasta is fine. Chilies",
+      "prepTime": "PT0S",
+      "cookTime": "PT0S",
+      "image": "d67677f4-4f48-4222-a94c-ad09fa5bb553_0.jpg"
     },
     "fallback_info": {
       "name": "Chicken and Green Beans Casserole",
-      "source_url": null,
-      "source": null
+      "course": "Main Dish",
+      "categories": [
+        "Casserole",
+        "Chicken",
+        "Pasta",
+        "Vegetable"
+      ],
+      "source": "taste of home 2001",
+      "rating": 4,
+      "ingredients": [
+        "¾ cup Butter",
+        "¾ cup Flour",
+        "3 cups chicken broth",
+        "1 cup milk",
+        "2 tbsp soy sauce or Worcestershire sauce",
+        "1 teaspoon salt or more",
+        "Dash pepper",
+        "1 ⅓ cup shredded Parmesan cheese, divided",
+        "8 cups fresh cut green or wax beans, cooked and drained",
+        "2 cups cubed cooked chicken",
+        "1 pound cooked pasta or Israeli couscous"
+      ],
+      "directions": [
+        "In a medium saucepan, melt butter. Stir in the flour until smooth. Gradually add the broth, milk, soy sauce, salt and pepper. Bring to a boil; cook and stir for 2 minutes or until thickened. Remove from the heat. Stir in 1/3 cup of the Parmesan cheese until melted. Add the beans and chicken; toss to coat.",
+        "Transfer to a greased 2-qt. baking dish; sprinkle with the remaining cheese.",
+        "Bake, uncovered, at 375° for 15-18 minutes or until golden brown."
+      ],
+      "notes": "Amounts are already doubled for the sauce. To have without pasta, reduce sauce by half.",
+      "prepTime": "PT0S",
+      "cookTime": "PT18M",
+      "image": "2c1eea6a-fbfe-4498-b2c2-523778d397e7_0.jpg"
     },
     "dessert_info": {
       "name": "mommom's chocolate bourbon-spiked banana bread",
-      "source_url": null,
-      "source": "joy the baker"
+      "course": "Dessert",
+      "categories": [
+        "Bread",
+        "Fruit"
+      ],
+      "source": "joy the baker",
+      "rating": 5,
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "3 teaspoons baking powder",
+        "½ teaspoon salt",
+        "½ cup (1 stick) unsalted butter, softened",
+        "1 cup granulated sugar",
+        "2 large eggs",
+        "1½ cups mashed ripe bananas (about 3)",
+        "1 teaspoon lemon juice",
+        "3 tablespoons bourbon",
+        "1 cup coarsely chopped walnuts",
+        "1 cup (6 ounces) semisweet chocolate chips"
+      ],
+      "directions": [
+        "Place a rack in the center of the oven and preheat to 350 degrees F. Grease and flour an 8x4- or 9x5-inch loaf pan. Set aside.",
+        "In a medium bowl, sift together flour, baking powder, and salt.",
+        "In the bowl of an electric stand mixer fitted with a paddle attachment, beat butter and sugar until light and fluffy, 3 to 5 minutes.",
+        "Add eggs one at a time, beating for 1 minute between each addition. Stop the mixer, scrape down the sides of the bowl and add bananas, lemon juice, and bourbon. Beat until well incorporated.",
+        "Turn the mixer to low and add the flour mixture all at once. Beat until almost incorporated. Stop the mixer and remove the bowl from the mixer. Add the walnuts and chocolate chips and incorporate the rest of the ingredients with a spatula.",
+        "Spoon mixture into loaf pan. Bake for 45 minutes to 1 hour, or until a skewer inserted in the center of the loaf comes out clean.",
+        "Remove from the oven and allow loaf to cool in the pan for 20 minutes before inverting onto a wire rack to cool completely. Serve with milky coffee and enjoy.",
+        "Banana bread will keep for up to 5 days, well wrapped, at room temperature."
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT45M",
+      "image": "3079eb28-ac76-4c4e-bf04-49600bb3130e_0.jpg"
     }
   },
   {
@@ -514,18 +2592,111 @@
     "notes": "Culinary Research: Lemon zest adds a floral note to zucchini pasta. Technique: Cook pasta until just al dente, then finish it in the pan with the zucchini and sauce for better flavor absorption.",
     "primary_info": {
       "name": "Zucchini Lemon Pasta",
-      "source_url": null,
-      "source": "feel good food"
+      "course": "Main Dish",
+      "categories": [
+        "Pasta",
+        "Squash",
+        "Vegetarian"
+      ],
+      "source": "feel good food",
+      "rating": 3,
+      "ingredients": [
+        "FOR THE SAUCE",
+        "Reserved 1 cup zucchini flesh from Recipe 1",
+        "3/4 cup raw cashews",
+        "1/4 cup extra-virgin olive oil",
+        "2 tablespoons fresh lemon juice",
+        "2 garlic cloves",
+        "1 teaspoon sea salt",
+        "1/2 teaspoon Dijon mustard",
+        "FOR THE PASTA",
+        "10 ounces orecchiette pasta",
+        "1 tablespoon extra-virgin olive oil, plus more for drizzling",
+        "3 medium zucchini, sliced into coins",
+        "¼ cup fresh mint leaves",
+        "2 tablespoons chopped fresh dill",
+        "2 tablespoons pine nuts",
+        "Zest of 1 lemon",
+        "Pinch of red pepper flakes",
+        "Sea salt and freshly ground black pepper"
+      ],
+      "directions": [
+        "Make the sauce: Place the reserved zucchini flesh in a high-speed blender with the cashews, olive oil, lemon juice, garlic, salt, and mustard and blend until creamy.",
+        "Cook the pasta: Bring a large pot of salted water to a boil. Prepare the pasta according to the package instructions, cooking until al dente. During the last few minutes of cooking, scoop out 1 ¼ cups of the hot pasta water and set aside. Drain the pasta and toss it with a drizzle of oil to prevent sticking.",
+        "Return the pot to the stove. Add the oil, zucchini, and pinches of salt and pepper. Sauté over medium heat for 6 to 8 minutes, or until soft. Stir in the pasta, add the sauce and 1/2 cup of the reserved pasta water, and toss to combine. Add more pasta water, as needed, if the sauce is too thick. Season to taste.",
+        "Portion the pasta into bowls and top with the mint, dill, pine nuts, lemon zest, and red pepper flakes."
+      ],
+      "notes": "A whole pound of pasta works fine.",
+      "prepTime": "PT20M",
+      "cookTime": "PT0S",
+      "image": "57d54c32-c60f-4338-bd7f-d783756771f9_0.jpg"
     },
     "fallback_info": {
       "name": "Blistered Cherry Tomato and Gooey Mozzarella Spaghetti",
-      "source_url": null,
-      "source": "meal prep magic"
+      "course": "Main Dish",
+      "categories": [
+        "Pasta",
+        "Sauce",
+        "Vegetable",
+        "Vegetarian"
+      ],
+      "source": "meal prep magic",
+      "rating": 5,
+      "ingredients": [
+        "⅓ cup (75 ml) olive oil",
+        "1 shallot, thinly sliced",
+        "4 cloves garlic, thinly sliced",
+        "2 pounds (910 g) cherry tomatoes",
+        "⅓ cup (75 ml) white wine",
+        "Kosher salt and freshly ground black pepper",
+        "Pinch crushed red pepper",
+        "1 pound (455 g) spaghetti",
+        "2 tablespoons Cheesy Compound Butter or plain unsalted butter",
+        "½ cup (50 g) grated Parmesan cheese",
+        "8 ounces (225 g) fresh mozzarella, torn or cut into bite-size pieces",
+        "8 to 10 fresh basil leaves, cut into thin ribbons"
+      ],
+      "directions": [
+        "To blister the tomatoes, heat the olive oil in a large nonstick or coated cast-iron skillet over medium-low heat. Add the shallots and garlic and cook over low heat until they begin to soften and smell very fragrant, about 5 minutes. Add the tomatoes, wine, a pinch of salt, black pepper to taste, and a pinch of crushed red pepper. Cover and cook for 10 minutes.",
+        "Bring a large pot of salted water to a boil. Add the pasta and cook to al dente, according to package directions. Drain and set aside.",
+        "Once the tomatoes have cooked for 10 minutes, uncover the pan and mash the tomatoes with a potato masher or the back of a fork until broken down.",
+        "Simmer the sauce, uncovered, for 5 minutes, then remove from heat and add the cooked pasta and compound butter and toss until the butter is melted. Stir in the Parmesan, mozzarella, and basil, tossing to combine and slightly melt the mozzarella cheese."
+      ],
+      "notes": "Garden tomatoes!",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "image": "88395b17-74fe-4504-83b4-a04307513a87_0.jpg"
     },
     "dessert_info": {
       "name": "Snowball Cookies Recipe",
+      "course": "Dessert",
+      "categories": [
+        "Cookie"
+      ],
+      "source": "https://sallysbakingaddiction.com/snowball-cookies-recipe/",
       "source_url": "https://sallysbakingaddiction.com/snowball-cookies-recipe/",
-      "source": "https://sallysbakingaddiction.com/snowball-cookies-recipe/"
+      "rating": 5,
+      "ingredients": [
+        "1 cup (16 Tbsp; 226g) unsalted butter, softened to room temperature",
+        "3/4 cup (90g) confectioners’ sugar",
+        "2 teaspoons pure vanilla extract",
+        "2 and 1/4 cups (281g) all-purpose flour (spooned & leveled)",
+        "1/8 teaspoon salt (see note)",
+        "optional: 3/4 cup (100g) finely chopped and toasted walnuts",
+        "1 and 1/4 cups (150g) confectioners’ sugar"
+      ],
+      "directions": [
+        "1. In a large bowl using a handheld mixer or stand mixer fitted with a paddle attachment, beat the butter for 1 minute on medium speed until completely smooth and creamy. Add 3/4 cup (90g) confectioners’ sugar and beat on medium high speed until combined and creamy. Scrape down the sides and bottom of the bowl as needed. Next, beat in the vanilla extract on medium-high speed until combined. Switch to low speed and slowly add the flour and salt. The dough will look dry and you may not think the flour will fully combine. Once all of the flour is added, turn the mixer up to high speed. The dough will come together. Finally, beat in the chopped walnuts, if using.",
+        "2. Cover the cookie dough tightly and chill in the refrigerator for at least 30 minutes and up to 3 days. (If chilling for 3+ hours, make sure you let the cookie dough sit at room temperature for at least 30 minutes before rolling into balls. The cookie dough will be very stiff after being in the refrigerator for that long.)",
+        "3. Preheat oven to 350°F (177°C). Line 2 large baking sheets with parchment paper or silicone baking mats. Set aside. Pour the confectioners’ sugar needed for the coating into a shallow bowl.",
+        "4. Scoop or roll 1 Tablespoon (20g) of cookie dough per cookie. Roll into a ball and place on the baking sheets, at least 2 inches apart. Bake the cookies until golden brown on the bottom edges and just barely browned on top, about 15 minutes.",
+        "5. Allow the cookies to cool for 5 minutes on the baking sheet, then very gently roll them in the confectioners’ sugar to coat completely. Place the cookies on wire racks to cool completely. The confectioners’ sugar will melt a bit and get sticky; that’s ok. Once the cookies have completely cooled, roll in confectioners’ sugar again. This is when the sugar will really stick.",
+        "6. Cookies stay fresh covered at room temperature for up to 1 week."
+      ],
+      "notes": "Childhood Christmas cookie",
+      "prepTime": "PT45M",
+      "cookTime": "PT15M",
+      "image": "2f10b0ff-ee12-4ba8-a2ea-d426ba8f05c6_0.jpg"
     }
   },
   {
@@ -537,18 +2708,99 @@
     "notes": "Culinary Research: Chimichurri is a bright, herbaceous sauce that cuts through the richness of the pork. Technique: Allow the pork to rest for 10 minutes before slicing to retain juices.",
     "primary_info": {
       "name": "Grilled Pork Tenderloin with CHIMICHURRI",
-      "source_url": null,
-      "source": "meal prep magic"
+      "course": "Main Dish",
+      "categories": [
+        "Pork",
+        "Sauce"
+      ],
+      "source": "meal prep magic",
+      "rating": 5,
+      "ingredients": [
+        "¼ cup (60 ml) Dijon mustard",
+        "½ cup (120 ml) apple cider vinegar",
+        "3 tablespoons light or dark brown sugar",
+        "8 cloves garlic, minced",
+        "⅓ cup (75 ml) plus 2 tablespoons olive oil",
+        "1½ teaspoons kosher salt",
+        "2 to 2½ pounds (910 g to 1.2 kg) pork tenderloin, fat and silver skin removed",
+        "½ cup (15 g) packed fresh cilantro",
+        "½ cup (15 g) packed flat- or curly-leaf parsley",
+        "1 small shallot, peeled",
+        "2 tablespoons red or white wine vinegar",
+        "2 tablespoons fresh lime juice",
+        "Pinch crushed red pepper",
+        "Freshly ground black pepper"
+      ],
+      "directions": [
+        "Place the Dijon mustard, apple cider vinegar, brown sugar, half of the garlic, 2 tablespoons of the olive oil, and 1 teaspoon salt in a large zip-top bag. Squish the bag to mix the marinade. Add the pork tenderloin and use your hand on the outside of the bag to move the marinade around the pork. Marinate for 1 to 2 hours at room temperature or overnight in the refrigerator.",
+        "To make the chimichurri, in a food processor, place the cilantro, parsley, remaining garlic, shallot, the remaining 1/3 cup (75 ml) olive oil, the red or white wine vinegar, lime juice, crushed red pepper, remaining 1/2 teaspoon salt, and black pepper and pulse until finely chopped.",
+        "Heat a grill to medium heat. Grill the marinated pork on several sides for a total of 14 to 15 minutes, or until the internal temperature is 135 to 140°F (55 to 60°C) when checked with an instant-read thermometer inserted in the thickest part of the meat. (Alternatively, you can use a cast-iron skillet to roast the pork. Heat over medium-high heat and add 1 tablespoon of olive oil. Sear the pork all over for a total of 6 minutes. Transfer the pan to a 400°F (205°C) oven and roast for 15 to 20 minutes.)",
+        "Allow the pork to rest for at least 10 minutes to allow the juices to settle before slicing. Use a sharp knife to cut pork on a bias into 1/2-inch (12 mm) slices and top with the chimichurri sauce."
+      ],
+      "notes": "Chimichurri is delicious!",
+      "prepTime": "PT1H15M",
+      "cookTime": "PT15M",
+      "image": "db9c326f-7357-4741-99f5-cf64f9f6e1d7_0.jpg"
     },
     "fallback_info": {
       "name": "caramelized orange pork roast",
-      "source_url": null,
-      "source": "mad hungry family"
+      "course": "Main Dish",
+      "categories": [
+        "Pork"
+      ],
+      "source": "mad hungry family",
+      "rating": 3,
+      "ingredients": [
+        "1 cup white wine",
+        "1 cup soy sauce",
+        "3/4 cup brown sugar",
+        "1/2 cup Sriracha hot sauce",
+        "1/3 cup whole-grain mustard",
+        "1/4 cup rice wine vinegar",
+        "Finely grated zest and juice of 1 orange",
+        "6 garlic cloves, minced",
+        "One 6- to 8-pound bone-in pork shoulder (if skin-on, score in a crosshatch pattern)"
+      ],
+      "directions": [
+        "Whisk together all the ingredients except the pork in a large roasting pan. Poke the pork all over with the tip of a sharp knife or a fork, to allow the marinade to penetrate, and place in the pan with the marinade. Turn the meat several times while it marinates in the refrigerator for at least 4 hours. If you don't have 4 hours, do it for as much time as you have. Overnight is good, too.",
+        "Preheat the oven to 325°F. Loosely tent the roasting pan with foil, and cook the marinated pork for 1 hour per pound. Every hour, drizzle the meat with the pan sauce, and add 2 cup water as needed to prevent the sauce from becoming too concentrated and scorching in the pan.",
+        "Remove the foil. If the pork is caramelized at this point, continue cooking at 325°F; if not, raise the heat to 375°F. Cook until an instant-read thermometer reads 190°F (the point at which the cartilage melts), about 1 hour more, basting the pork with the pan sauce a few more times. Continue to add water as needed.",
+        "Remove the roast from the oven. Let rest for 20 minutes, loosely tented with foil. Shred or slice the meat and return it to the pan with the sauce. Serve with extra sauce spooned over top, along with rice and a green such as Garlicky Collard Greens."
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT5H",
+      "image": "d1eec2ea-9a4a-44f7-a0c9-f6e5d49f1690_0.jpg"
     },
     "dessert_info": {
       "name": "The Best Pecan Pie",
-      "source_url": null,
-      "source": null
+      "course": "Dessert",
+      "categories": [
+        "Pie"
+      ],
+      "source": "",
+      "rating": 5,
+      "ingredients": [
+        "Dough for single-crust pie",
+        "1/2 cup butter",
+        "2-1/2 cups coarsely chopped pecans",
+        "3/4 cup packed brown sugar",
+        "3/4 cup maple syrup",
+        "1/2 teaspoon salt",
+        "3 large eggs, beaten",
+        "2 tablespoons whiskey or bourbon, optional",
+        "2 teaspoons vanilla extract",
+        "Optional: Whipped cream and ground cinnamon"
+      ],
+      "directions": [
+        "Preheat oven to 350°. On a lightly floured surface, roll dough to a 1/8-in.-thick circle; transfer to a 9-in. pie plate. Trim crust to 1/2 in. beyond rim of plate; flute edge. Refrigerate while preparing filling.",
+        "In a Dutch oven or large saucepan, melt butter over medium heat. Add pecans; cook, stirring constantly, until very fragrant and pecans start to brown, 4-5 minutes. Remove pecans with a slotted spoon, reserving butter in pan. Stir in brown sugar, maple syrup and salt; bring to a boil. Reduce heat; simmer for 2 minutes. Remove from the heat. In a bowl, whisk a small amount of the hot mixture into eggs; return all to the pan, whisking constantly. Stir whiskey, if desired, and vanilla into brown sugar mixture; stir in pecans.",
+        "Pour into crust. Bake until a knife inserted in the center comes out clean, 55-60 minutes. Cover edge with foil during the last 30 minutes to prevent overbrowning if necessary. Cool on a wire rack. If desired, top with whipped cream and cinnamon. Refrigerate leftovers."
+      ],
+      "notes": "",
+      "prepTime": "PT15M",
+      "cookTime": "PT55M",
+      "image": "5d3abbd8-b299-48f7-8f97-86e0eebc1bf6_0.jpg"
     }
   },
   {
@@ -560,18 +2812,116 @@
     "notes": "Culinary Research: Reusing the Pot-in-Pot technique from Day 13. Synergy: This dish is pantry-friendly and efficient for the end of the month.",
     "primary_info": {
       "name": "Pot-in-Pot Puerto Rican Rice and Beans",
-      "source_url": null,
-      "source": null
+      "course": "Main Dish",
+      "categories": [
+        "Bean",
+        "Potato",
+        "Rice",
+        "Vegetarian"
+      ],
+      "source": "one and done",
+      "rating": 3,
+      "ingredients": [
+        "SOFRITO",
+        "1/2 small onion",
+        "1/2 cubanelle pepper, seeded",
+        "3 garlic cloves",
+        "1/4 cup chopped fresh cilantro",
+        "BEANS",
+        "1 teaspoon olive oil",
+        "1 (15.5-ounce) can pink or red kidney beans, undrained",
+        "1/2 cup canned tomato sauce",
+        "1 medium (5-ounce) all-purpose or russet potato, peeled and cut into 1/4-inch cubes",
+        "1/2 tablespoon sazón seasoning, homemade or store-bought",
+        "1 bay leaf",
+        "1/8 teaspoon dried oregano",
+        "1/4 teaspoon kosher salt",
+        "Freshly ground black pepper",
+        "RICE",
+        "1 cup uncooked white basmati rice",
+        "3/4 teaspoon kosher salt",
+        "TOPPINGS",
+        "5 ounces sliced avocado",
+        "1 large tomato, halved and sliced",
+        "Hot sauce, for serving (optional)"
+      ],
+      "directions": [
+        "For the sofrito: In a small food processor, finely chop the onion, cubanelle, garlic, and cilantro.",
+        "For the beans: Press the sauté button on an electric pressure cooker. When hot, add the oil and sofrito and cook, stirring, until softened, about 2 minutes. Add the beans (not drained) to the pot, along with 3/4 cup water, the tomato sauce, potato, sazón, bay leaf, oregano, salt, and black pepper to taste.",
+        "For the rice: In a heatproof bowl that will fit in the pressure cooker, stir together 1/4 cups water, the rice, and salt. Place the steaming rack/trivet over the beans, then place the bowl on top of the rack.",
+        "Seal and cook on high pressure for 12 minutes, until the rice is cooked and can easily be fluffed with a fork. Natural release for 10 minutes.",
+        "Carefully take the bowl of rice out of the pressure cooker and fluff with a fork. Remove the rack from the pressure cooker. Discard the bay leaf and serve the beans over the rice, topped with the avocado, tomato, and hot sauce, if desired."
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT12M",
+      "image": "47e3f632-3a14-4af6-92af-5343c729f4e3_0.jpg"
     },
     "fallback_info": {
       "name": "Couscous with Chickpeas, Dates and Scallions",
-      "source_url": null,
-      "source": null
+      "course": "Lunch",
+      "categories": [
+        "Bean",
+        "Other grain",
+        "Salad",
+        "Vegetarian"
+      ],
+      "source": "cookish",
+      "rating": 5,
+      "ingredients": [
+        "1 cup couscous or 1 cup quinoa",
+        "15-ounce can chickpeas, rinsed and drained",
+        "2 tablespoons harissa paste",
+        "1/2 cup pitted dates, chopped OR 1/2 cup dried apricots, chopped",
+        "Kosher salt and ground black pepper",
+        "1 cup boiling water (or 1.5 cup water for quinoa)",
+        "1/4 cup extra-virgin olive oil",
+        "1 tablespoon grated lemon zest",
+        "3 tablespoons lemon juice",
+        "1 bunch scallions, thinly sliced"
+      ],
+      "directions": [
+        "In a large bowl, combine the couscous, chickpeas, harissa, dates, 1 teaspoon salt and 1/2 teaspoon pepper.",
+        "Stir in the boiling water, cover and let stand until absorbed, about 10 minutes.",
+        "In a small bowl, whisk together the oil and lemon zest and juice.",
+        "Using a fork, fluff the couscous mixture.",
+        "Add the oil mixture and scallions, then toss.",
+        "Season with salt and pepper."
+      ],
+      "notes": "Assemble in instant pot and cook for 1 minute. Use natural release.",
+      "prepTime": "PT20M",
+      "cookTime": "PT0S",
+      "image": "6cad5cdd-aed1-43ea-a025-852d5894ee08_0.jpg"
     },
     "dessert_info": {
       "name": "Apple Crisp",
-      "source_url": null,
-      "source": "More with Less"
+      "course": "Dessert",
+      "categories": [],
+      "source": "More with Less",
+      "rating": 4,
+      "ingredients": [
+        "3 c. sliced or chopped apples",
+        "1 T. flour",
+        "1/4 c. sugar",
+        "1 t. cinnamon",
+        "1/8 t. salt",
+        "1 T. water",
+        "1/2 c. rolled oats",
+        "1/4 t. salt",
+        "1/4 c. margarine",
+        "1/3 c. brown sugar"
+      ],
+      "directions": [
+        "Preheat oven to 375°.",
+        "Combine and put in greased casserole.",
+        "Cut together oats, salt, butter, and sugar with pastry blender.",
+        "Sprinkle on top of casserole mixture.",
+        "Bake 35 minutes."
+      ],
+      "notes": "Triple crumble for topping.",
+      "prepTime": "PT40M",
+      "cookTime": "PT35M",
+      "image": "37b37666-58fb-4870-924b-b0bbe6ccece0_0.jpg"
     }
   },
   {
@@ -583,18 +2933,106 @@
     "notes": "Culinary Research: Thai flavors in a creamy fettuccine base provide a unique twist on pasta. Technique: Use peanut butter and coconut milk to build a rich, savory sauce.",
     "primary_info": {
       "name": "Thai Chicken Fettuccine",
-      "source_url": null,
-      "source": "personal collection"
+      "course": "Main Dish",
+      "categories": [
+        "Chicken",
+        "Pasta",
+        "Vegetarian"
+      ],
+      "source": "personal collection",
+      "rating": 4,
+      "ingredients": [
+        "1 1/4 cups picante sauce, pureed",
+        "Peanut Sauce",
+        "1/4 cup creamy peanut butter",
+        "2 tablespoons honey",
+        "2 tablespoons orange juice",
+        "1 teaspoon soy sauce",
+        "1 teaspoon ground ginger",
+        "Linguini",
+        "10 ounces linquini noodles, cooked al dente",
+        "3 boneless, skinless chicken breasts",
+        "1 tablespoon vegetable oil",
+        "1/4 cup chopped, fresh cilantro",
+        "2 tablespoons chopped peanuts"
+      ],
+      "directions": [
+        "Combine picante sauce and peanut sauce ingredients to a medium saucepan; heat until warm enough to eat and sauce is smooth. Remove from heat and set aside.",
+        "Toss cooked noodles with 4 c. of the picanté/peanut mixture. Place in serving bowl and set aside.",
+        "Cut chicken into 1-inch pieces. Heat oil in a lg. skillet and sauté chicken until brown and cooked through, about 4-6 min.",
+        "Add remaining picanté/peanut mixture to chicken and stir well.",
+        "Arrange chicken on top of noodles. Sprinkle chicken with cilantro and peanuts. Serve at room temperature."
+      ],
+      "notes": "Use more peanut butter instead of peanuts on top. Cilantro is optional. Vary the heat with the salsa or picante sauce.",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "image": "2d4c1b4c-994a-4246-8b58-242c85bba7e1_0.jpg"
     },
     "fallback_info": {
       "name": "Chicken-Tortellini Soup",
-      "source_url": null,
-      "source": "gooseberry patch quick and easy"
+      "course": "Main Dish",
+      "categories": [
+        "Chicken",
+        "Pasta",
+        "Soup"
+      ],
+      "source": "gooseberry patch quick and easy",
+      "rating": 4,
+      "ingredients": [
+        "1 lb. boneless, skinless chicken breasts, cooked and cubed",
+        "9-oz. pkg. cheese tortellini, uncooked",
+        "46-oz. can chicken broth",
+        "1 c. carrots, peeled and chopped",
+        "1/2 c. onion, chopped",
+        "1/2 c. celery, sliced",
+        "1/2 t. dried thyme",
+        "1/4 t. pepper",
+        "1 bay leaf"
+      ],
+      "directions": [
+        "Combine all ingredients in a stockpot; bring to a boil over medium heat.",
+        "Reduce heat, cover and simmer until tortellini is tender.",
+        "Discard bay leaf."
+      ],
+      "notes": "",
+      "prepTime": "PT15M",
+      "cookTime": "PT15M",
+      "image": "4916338f-b44e-45e5-8a72-c44d4481e5a6_0.jpg"
     },
     "dessert_info": {
       "name": "Banana Oat Cookies",
-      "source_url": null,
-      "source": "little bites guide"
+      "course": "Breakfast",
+      "categories": [
+        "Chocolate",
+        "Cookie",
+        "Fruit"
+      ],
+      "source": "little bites guide",
+      "rating": 4,
+      "ingredients": [
+        "Ingredients",
+        "2 ripe & spotty bananas",
+        "1 cup sprouted rolled oats",
+        "1 tsp cinnamon",
+        "Optional Add-ins",
+        "2 TB chocolate chips",
+        "1 TB unsweetened shredded coconut",
+        "1 tsp chia seeds or flax seeds",
+        "1 TB dried raisins",
+        "1/4 cup nut butter"
+      ],
+      "directions": [
+        "Preheat oven to 350 degrees & line baking sheet with parchment paper",
+        "In a medium sized bowl, mash the bananas until smooth",
+        "Add in the rolled oat & cinnamon. Mix until fully combined.",
+        "If using optional add-ins, fold them in until just combined",
+        "Scoop a few tablespoons of the 'dough' onto the baking sheet and shape (option to flatten a bit with the spoon) into a round cookie shape.",
+        "Bake for 9-11 minutes, until edges are have turned golden brown"
+      ],
+      "notes": "",
+      "prepTime": "PT5M",
+      "cookTime": "PT9M",
+      "image": "50e40592-b90c-4c90-aac4-b1b708091819_0.jpg"
     }
   },
   {
@@ -606,18 +3044,97 @@
     "notes": "Culinary Research: Coconut milk and curry powder create a lush base for salmon. Synergy: Use any leftover cilantro from the Chimichurri on Day 24.",
     "primary_info": {
       "name": "Coconut-Curry Rice with Salmon and Cilantro",
-      "source_url": null,
-      "source": "cookish"
+      "course": "Main Dish",
+      "categories": [
+        "Fish",
+        "Rice"
+      ],
+      "source": "cookish",
+      "rating": 4,
+      "ingredients": [
+        "3 tablespoons neutral oil or coconut oil",
+        "1 bunch cilantro, chopped, stems and leaves reserved separately",
+        "2½ teaspoons curry powder",
+        "2 teaspoons finely grated fresh ginger",
+        "1½ cups long-grain white rice, rinsed and drained",
+        "1 cup coconut milk",
+        "Kosher salt and ground black pepper",
+        "8 ounces skinless salmon fillet or tuna steak, cut into ½-inch pieces"
+      ],
+      "directions": [
+        "In a large saucepan, cook the oil, cilantro stems, curry powder and ginger, stirring, until sizzling and fragrant.",
+        "Stir in the rice, coconut milk and 1½ cups water. Bring to a simmer.",
+        "Cover, reduce to low and cook until the rice is tender and the liquid has been absorbed, 15 to 20 minutes.",
+        "Uncover and scatter the fish over the rice.",
+        "Re-cover, remove from the heat and let stand for 8 minutes.",
+        "Fluff the rice with a fork, mixing in the fish.",
+        "Stir in the cilantro leaves and season with salt and pepper."
+      ],
+      "notes": "",
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "image": "c161c966-f376-4fbe-8afa-c931ebc98ac2_0.jpg"
     },
     "fallback_info": {
       "name": "Trout with almonds",
-      "source_url": null,
-      "source": "mad hungry family"
+      "course": "Main Dish",
+      "categories": [
+        "Fish"
+      ],
+      "source": "mad hungry family",
+      "rating": 4,
+      "ingredients": [
+        "1/2 cup sliced almonds",
+        "1/2 cup all-purpose flour",
+        "1/2 teaspoon coarse salt",
+        "1/4 teaspoon cayenne pepper",
+        "1 cup milk",
+        "4 trout fillets",
+        "1 tablespoon extra-virgin olive oil",
+        "1 tablespoon unsalted butter",
+        "2 garlic cloves, smashed and peeled"
+      ],
+      "directions": [
+        "Toast the almonds and set aside. Combine the flour, salt, and cayenne pepper in a flat dish. Pour the milk into another dish. Place the trout fillets in the milk and let sit for a couple of minutes.",
+        "Heat a large sauté pan over medium heat. Swirl in the oil and add the butter. Dredge both sides of the fillets in the flour mixture and add to the pan. Raise the heat, add the garlic cloves to the pan, and swirl them around. Flip the trout after 2 minutes and remove the garlic (you don't want it to brown). Cook until the fish is cooked through and lightly golden brown, 1 to 2 minutes more. Scatter the toasted almonds over the fish. Serve immediately."
+      ],
+      "notes": "Great with steelhead.",
+      "prepTime": "PT0S",
+      "cookTime": "PT0S",
+      "image": "fef503be-55c0-4b03-8719-d634c2520c2d_0.jpg"
     },
     "dessert_info": {
       "name": "Black Bean Brownies",
+      "course": "Dessert",
+      "categories": [
+        "Bean",
+        "Cake",
+        "Chocolate",
+        "Vegetarian"
+      ],
+      "source": "https://chocolatecoveredkatie.com/no-flour-black-bean-brownies/comment-page-173/",
       "source_url": "https://chocolatecoveredkatie.com/no-flour-black-bean-brownies/comment-page-173/",
-      "source": "https://chocolatecoveredkatie.com/no-flour-black-bean-brownies/comment-page-173/"
+      "rating": 3,
+      "ingredients": [
+        "1 1/2 cups black beans ((1 15-oz can, drained and rinsed very well) (250g after draining))",
+        "2 tbsp cocoa powder ((10g))",
+        "1/2 cup quick oats ((40g) (See nutrition link below for substitutions))",
+        "1/4 tsp salt",
+        "1/3 cup pure maple syrup, (honey, or agave (75g))",
+        "pinch uncut stevia OR 2 tbsp sugar ((or omit and increase maple syrup to 1/2 cup))",
+        "1/4 cup coconut or vegetable oil ((40g) (See nutrition link for substitution notes))",
+        "2 tsp pure vanilla extract",
+        "1/2 tsp baking powder",
+        "1/2 cup to 2/3 cup chocolate chips ((Not optional. Omit at your own risk))",
+        "optional: more chips, (for presentation)"
+      ],
+      "directions": [
+        "1. Black Bean Brownies Recipe: Preheat oven to 350 F. Combine all ingredients except chips in a good food processor, and blend until completely smooth. Really blend well. (A blender can work if you absolutely must, but the texture—and even the taste—will be much better in a food processor. I use this food processor.) Stir in the chips, then pour into a greased 8x8 pan. Optional: sprinkle extra chocolate chips over the top. Cook the black bean brownies 15-18 minutes, then let cool at least 10 minutes before trying to cut. If they still look a bit undercooked, you can place them in the fridge overnight and they will magically firm up! Makes 9-12 brownies. If you make this recipe, don't forget to leave a review! The trick with these: serve them first, and then reveal the secret ingredient. In all the times I’ve served bean desserts, not one single person who didn’t know beforehand has ever guessed!View Black Bean Brownies Nutrition Facts"
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT15M",
+      "image": "7c521017-7c72-4695-a6d8-ee6bdf337110_0.jpg"
     }
   },
   {
@@ -629,18 +3146,133 @@
     "notes": "Culinary Research: Southwestern soup benefits from the inclusion of corn and bell peppers. Synergy: This utilizes beans and ground beef, maintaining the category rotation effectively.",
     "primary_info": {
       "name": "Southwestern Beef and Black Bean Soup",
-      "source_url": null,
-      "source": null
+      "course": "Main Dish",
+      "categories": [
+        "Bean",
+        "Beef",
+        "Freezer",
+        "Vegetable"
+      ],
+      "source": "one and done",
+      "rating": 3,
+      "ingredients": [
+        "SOUP",
+        "1 pound 95% lean ground beef",
+        "1 poblano pepper, chopped",
+        "1 red bell pepper, chopped",
+        "1 fresh jalapeño pepper, seeded and finely chopped",
+        "1/2 cup chopped onion plus more for garnish",
+        "3 garlic cloves, chopped",
+        "2 (10-ounce) cans diced tomatoes with green chiles (I like Rotel)",
+        "1 (8-ounce) can tomato sauce",
+        "2 cups frozen corn kernels",
+        "1 (15-ounce) can low-sodium black beans, rinsed and drained",
+        "2 cups reduced-sodium chicken broth",
+        "1/4 cup chopped fresh cilantro",
+        "1 teaspoon ground cumin",
+        "1 teaspoon dried oregano",
+        "3/4 teaspoon kosher salt",
+        "FOR SERVING",
+        "8 ounces sliced avocado (from 2 small Hass)",
+        "Shredded cheddar cheese (optional)",
+        "Sour cream (optional)",
+        "Chopped scallions"
+      ],
+      "directions": [
+        "Place the ground beef in a slow cooker, breaking up the beef loosely with your hands.",
+        "Add the remaining ingredients and stir well.",
+        "Cover and cook on low for 8 hours, until the meat is tender.",
+        "When done, break up the ground meat with a wooden spoon.",
+        "To serve, ladle the soup into 8 bowls topped with the cilantro, scallions, avocado, and, if desired, the cheddar and sour cream."
+      ],
+      "notes": "Good use for leftover hotdogs and spicy peppers.",
+      "prepTime": "PT0S",
+      "cookTime": "PT8H",
+      "image": "4efcf771-6c86-4e42-a8d8-0c988a09304d_0.jpg"
     },
     "fallback_info": {
       "name": "Ground Beef and Black Bean Taco Soup",
-      "source_url": null,
-      "source": null
+      "course": "Main Dish",
+      "categories": [
+        "Bean",
+        "Beef",
+        "Freezer",
+        "Soup"
+      ],
+      "source": "https://www.sixsistersstuff.com/recipe/instant-pot-beef-and-bean-taco-soup-recipe/",
+      "source_url": "https://www.sixsistersstuff.com/recipe/instant-pot-beef-and-bean-taco-soup-recipe/",
+      "rating": 3,
+      "ingredients": [
+        "1 pound ground beef",
+        "1 onion ((diced))",
+        "1 ounce taco seasoning ((1 store-bought packet or homemade))",
+        "15 ounces canned corn ((1 can; do not drain))",
+        "15 ounces black beans ((1 can; drained and rinsed))",
+        "28 ounces diced tomatoes ((do not drain))",
+        "8 ounces tomato sauce ((1 can))",
+        "4 ounces canned diced green chilies ((1 can))",
+        "1 bag tortilla chips ((optional topping))",
+        "½ cup shredded Mexican cheese ((optional topping))"
+      ],
+      "directions": [
+        "1. Press the SAUTE button on the Instant Pot and let it heat up.",
+        "2. Add in the ground beef and onion, cook until the meat is no longer pink.",
+        "3. Drain meat if desired.",
+        "4. Stir in taco seasoning, corn, black beans, tomatoes, tomato sauce, and green chilies.",
+        "5. Place the lid on the top of the Instant Pot. Move the valve to SEALING (not venting).",
+        "6. Press the MANUAL (or PRESSURE COOK) button and set timer for 5 minutes.",
+        "7. When the timer is finished, move the valve to VENTING and do a QUICK RELEASE with the pressure.",
+        "8. Remove the lid and portion into bowls. Top with your favorite taco toppings and serve."
+      ],
+      "notes": "",
+      "prepTime": "PT5M",
+      "cookTime": "PT30M",
+      "image": "8a962111-f48e-4014-aea2-d9d25b38f6fc_0.jpg"
     },
     "dessert_info": {
       "name": "Decadent Chocolate Cherry Fruitcake",
-      "source_url": null,
-      "source": "Mom"
+      "course": "Dessert",
+      "categories": [
+        "Bread",
+        "Chocolate",
+        "Fruit"
+      ],
+      "source": "Mom",
+      "rating": 3,
+      "ingredients": [
+        "1¼ cup flour",
+        "¾ cup Sugar",
+        "1 tsp baking powder",
+        "1 tsp salt",
+        "½ tsp Baking soda",
+        "1 tsp cinnamon",
+        "½ tsp Nutmeg",
+        "¼ tsp Cloves",
+        "1 cup coarsely chopped pecans",
+        "1 cup dried cherries",
+        "¾ cup miniature semi-sweet chocolate chips",
+        "¾ cup Water",
+        "¼ cup kirsch (cherry-flavored liqueur) OR",
+        "2 teaspoons almond extract with ¼ cup water",
+        "1 tablespoon oil",
+        "1 egg",
+        "Glaze:",
+        "¼ cup miniature semi-sweet chocolate chips",
+        "2 teaspoons oil"
+      ],
+      "directions": [
+        "Heat oven to 350°F. Grease and flour bottom of 8x4 or 9x5-inch loaf pan.",
+        "In large bowl, combine all fruitcake ingredients. Stir by hand until mix is moistened.",
+        "Pour into prepared pan. Bake at 350°F. for 65 to 80 min. for 8x4-inch pan, 60 to 70 min. for 9x5-inch pan or until toothpick inserted in center comes out clean.",
+        "Cool 15 min.; cut in half remove from pan. Cool completely.",
+        "In small saucepan over low heat, melt chocolate chips and oil, stirring until smooth. Drizzle over fruitcake. Allow glaze to set in refrigerator.",
+        "Wrap well in plastic wrap or foil and store in refrigerator up to 2 weeks or freeze up to 3 months. For optimum flavor refrigerate at least 24 hours before serving.",
+        "Three 3x5-inch loaf pans can also be used. Divide batter evenly between pans. Bake at 350°F. for 40 to 50 minutes."
+      ],
+      "notes": "Stephen loves it!",
+      "prepTime": "PT0S",
+      "cookTime": "PT1H10M",
+      "image": "d9ee7295-9a45-4338-908e-4f6a28a7c785_0.jpg"
     }
   },
   {
@@ -652,18 +3284,105 @@
     "notes": "Culinary Research: Toasted walnuts add a nutty depth to the ham linguine. Synergy: This dish uses ham, which aligns with the pork rotation earlier in the week.",
     "primary_info": {
       "name": "Walnut Ham Linguine",
-      "source_url": null,
-      "source": "taste of home 2001"
+      "course": "Main Dish",
+      "categories": [
+        "Pasta",
+        "Pork"
+      ],
+      "source": "taste of home 2001",
+      "rating": 4,
+      "ingredients": [
+        "1 package (16 ounces) linguine or thin spaghetti",
+        "2 to 4 garlic cloves, minced",
+        "1/4 cup olive or vegetable oil",
+        "1/2 cup coarsely chopped walnuts",
+        "1/2 pound fully cooked ham slices, cut into 1/2-inch strips",
+        "1/3 cup grated Parmesan cheese",
+        "1/4 cup minced fresh parsley"
+      ],
+      "directions": [
+        "Cook pasta according to package directions.",
+        "Meanwhile, in a large skillet, saute garlic in oil for 1 minute.",
+        "Add walnuts; saute for 2 minutes.",
+        "Stir in ham; cook until heated through, about 2 minutes.",
+        "Drain pasta; toss with ham mixture.",
+        "Sprinkle with Parmesan and parsley."
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT0S",
+      "image": "5d3777df-0520-4e83-bfbe-251a5bbe8759_0.jpg"
     },
     "fallback_info": {
       "name": "Lazy Veggie Lasagna",
-      "source_url": null,
-      "source": "one and done"
+      "course": "Main Dish",
+      "categories": [
+        "Pasta",
+        "Vegetable",
+        "Vegetarian"
+      ],
+      "source": "one and done",
+      "rating": 4,
+      "ingredients": [
+        "1 cup (8 ounces) part-skim ricotta cheese, at room temperature",
+        "1/4 cup freshly grated Parmesan cheese",
+        "2 tablespoons chopped fresh parsley, plus more for garnish",
+        "1/2 tablespoon olive oil",
+        "1/2 medium onion, chopped",
+        "6 ounces mushrooms, stemmed and thinly sliced",
+        "1 1/2 cups broccoli florets (1-inch pieces)",
+        "1/2 cup chopped red bell pepper",
+        "3 garlic cloves, chopped",
+        "2 cups chopped baby spinach",
+        "2 cups jarred marinara sauce",
+        "1/4 cup low-sodium vegetable broth",
+        "1/4 cup chopped fresh basil",
+        "6 1/2 ounces no-boil lasagna noodles (about 11), wheat or gluten-free, broken into 1 1/2-inch pieces",
+        "3/4 cup (3 ounces) shredded part-skim mozzarella cheese"
+      ],
+      "directions": [
+        "In a small bowl, combine the ricotta, Parmesan, and parsley.",
+        "In a 12-inch ovenproof nonstick skillet with a fitted lid, heat the oil over medium-high heat until shimmering. Add the onion, mushrooms, broccoli, bell pepper, and garlic, and cook, stirring, until the vegetables are tender, about 5 minutes. Add the spinach and cook, stirring, until wilted, about 1 minute. Transfer to a medium bowl.",
+        "To the skillet, add the marinara sauce, broth, and basil. Stir to combine and bring to a simmer. Add the noodles, stir to coat, and spread into an even layer, making sure the noodles are submerged in liquid. Return the vegetables to the skillet and reduce the heat to medium. Simmer, covered and stirring occasionally, until the pasta is just tender and the sauce has thickened, about 20 minutes.",
+        "Remove the pan from the heat and dollop the ricotta cheese mixture over the lasagna noodles. Sprinkle the mozzarella over the top.",
+        "Adjust an oven rack to 6 inches from the heating element and preheat the broiler to high.",
+        "Broil until the cheese is melted and slightly browned, 3 to 4 minutes. Divide among 4 plates and garnish with the parsley."
+      ],
+      "notes": "Use 11 normal lasagna noodles, broken up. Add more broth or marinara as needed.",
+      "prepTime": "PT0S",
+      "cookTime": "PT0S",
+      "image": "3016f300-5ee4-4ea4-9cb5-ca9b253e032c_0.jpg"
     },
     "dessert_info": {
       "name": "rich rice pudding",
-      "source_url": null,
-      "source": "mad hungry men and boys"
+      "course": "Dessert",
+      "categories": [
+        "Fruit",
+        "Rice",
+        "Vegetarian"
+      ],
+      "source": "mad hungry men and boys",
+      "rating": 3,
+      "ingredients": [
+        "1/4 cup currants or raisins (optional)",
+        "2 tablespoons golden rum (optional)",
+        "3 cups half-and-half or whole milk",
+        "1/2 cup rice, preferably jasmine or basmati",
+        "1/4 cup sugar",
+        "1/2 teaspoon coarse salt",
+        "1 teaspoon pure vanilla extract",
+        "1/2 teaspoon ground cinnamon",
+        "1/4 teaspoon ground nutmeg"
+      ],
+      "directions": [
+        "If using the currants, soak them in the rum in a small bowl.",
+        "Place the half-and-half, rice, sugar, salt, vanilla, cinnamon, and nutmeg in a medium saucepan. Bring to a boil, stirring constantly. Reduce the heat to low and simmer for 20 minutes, continuing to stir.",
+        "Drain the currants and stir them into the pudding, then cook for an additional 2 minutes, or until the rice is al dente. Spoon the pudding into bowls and serve immediately, or spread it into a serving dish, cover, and chill. Press plastic wrap directly on the surface of the pudding to prevent it from forming a skin (unless you like it!)."
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT20M",
+      "image": "a532eeac-d971-4290-aa4b-af8acd6ba9f9_0.jpg"
     }
   },
   {
@@ -675,18 +3394,119 @@
     "notes": "Culinary Research: Shepherd's pie in stew form is a comforting way to end the month. Technique: Use instant potatoes as a thickener if the stew is too thin.",
     "primary_info": {
       "name": "Shepherd's Pie Stew",
-      "source_url": null,
-      "source": "one and done"
+      "course": "Main Dish",
+      "categories": [
+        "Chicken",
+        "Potato",
+        "Soup"
+      ],
+      "source": "one and done",
+      "rating": 4,
+      "ingredients": [
+        "½ tablespoon olive oil",
+        "1 cup chopped onion",
+        "2 carrots, finely chopped",
+        "1 celery stalk, chopped",
+        "2 garlic cloves, minced",
+        "1½ pounds 93% lean ground turkey",
+        "1 teaspoon kosher salt",
+        "½ teaspoon freshly ground black pepper",
+        "¾ cup chopped mushrooms",
+        "2 tablespoons all-purpose flour, wheat or gluten-free",
+        "2 teaspoons tomato paste",
+        "5 cups reduced-sodium chicken broth*",
+        "1 teaspoon Worcestershire sauce*",
+        "1 teaspoon chopped fresh rosemary",
+        "1 teaspoon chopped fresh thyme",
+        "1 pound fresh or frozen potato gnocchi, gluten-free*",
+        "½ cup fresh or frozen corn kernels",
+        "½ cup fresh or frozen green peas"
+      ],
+      "directions": [
+        "In a Dutch oven or large pot, heat the oil over medium-high heat. Add the onion, carrots, and celery and cook, stirring, until beginning to soften, 4 to 5 minutes.",
+        "Add the garlic and cook, stirring, until fragrant, about 30 seconds.",
+        "Add the turkey, salt, and pepper and brown the meat, using a wooden spoon to break it into small pieces as it cooks, about 3 minutes.",
+        "Add the mushrooms and cook, stirring, until softened, about 3 minutes.",
+        "Sprinkle the flour over the mixture and cook, stirring, for 1 minute to cook the flour.",
+        "Add the tomato paste, chicken broth, Worcestershire, rosemary, and thyme, and stir well. Bring to a boil.",
+        "Reduce the heat to medium, cover, and simmer until the flavors meld, 10 to 12 minutes.",
+        "Stir in the gnocchi, corn, and peas. Increase the heat to high and cook, uncovered, according to the gnocchi package directions, 3 to 4 minutes.",
+        "Divide among 6 bowls and serve."
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT17M",
+      "image": "650ce766-ee4d-428e-9b6d-1d115cdd299d_0.jpg"
     },
     "fallback_info": {
       "name": "Honey-Mustard Chicken Bake",
-      "source_url": null,
-      "source": "one and done"
+      "course": "Main Dish",
+      "categories": [
+        "Chicken"
+      ],
+      "source": "one and done",
+      "rating": 3,
+      "ingredients": [
+        "4 large boneless, skinless chicken thighs (6 ounces each)",
+        "1 teaspoon kosher salt",
+        "1/4 cup honey",
+        "1/4 cup Dijon mustard",
+        "3 teaspoons fresh thyme leaves",
+        "1 pound asparagus, trimmed and cut into 1-inch pieces",
+        "1 1/2 cups cauliflower florets",
+        "1 medium red onion, cut into 1-inch pieces, layers separated",
+        "1 large red bell pepper, cut into 1-inch pieces",
+        "1 tablespoon olive oil"
+      ],
+      "directions": [
+        "Adjust an oven rack in the center and another 6 inches from the broiler and preheat the oven to 400°F.",
+        "Season both sides of the chicken with 1/2 teaspoon of the salt.",
+        "Transfer to a plate.",
+        "In a small bowl, combine the honey, mustard, and 1 teaspoon of the thyme.",
+        "In a 9 x 13-inch baking dish, toss together the vegetables, olive oil, remaining 1/2 teaspoon salt, and remaining 2 teaspoons thyme.",
+        "Roast on the center rack for 10 minutes, then remove the dish from the oven.",
+        "Toss the vegetables and place the chicken over the vegetables.",
+        "Spoon or brush half of the honey-mustard sauce over the chicken.",
+        "Return to the center rack and roast until the vegetables are tender and the chicken is cooked through, about 30 minutes.",
+        "Spoon or brush the remaining honey-mustard sauce over the chicken.",
+        "Switch the oven to broil, move the dish to the upper rack, and broil until the chicken begins to brown, 3 to 5 minutes.",
+        "Serve immediately."
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT40M",
+      "image": "a7108952-d5a4-41a4-a16a-95df8eae904b_0.jpg"
     },
     "dessert_info": {
       "name": "German Apple Cake",
-      "source_url": null,
-      "source": "mad hungry men & boys"
+      "course": "Dessert",
+      "categories": [
+        "Cake",
+        "Fruit"
+      ],
+      "source": "mad hungry men & boys",
+      "rating": 3,
+      "ingredients": [
+        "1 cup all-purpose flour",
+        "1½ teaspoons baking powder",
+        "1 teaspoon coarse salt",
+        "8 tablespoons (1 stick) unsalted butter, softened",
+        "1⅓  cups sugar",
+        "2 large eggs, lightly beaten",
+        "1 teaspoon pure vanilla extract",
+        "1 teaspoon ground cinnamon",
+        "Juice of ½ lemon",
+        "3 to 4 tart apples, such as Granny Smith, Cortland, or Winesap"
+      ],
+      "directions": [
+        "Preheat the oven to 375°F. Butter an 8-inch square pan or equivalent-size baking dish.",
+        "In a small bowl, whisk together the flour, baking powder, and salt. In a medium bowl, cream together the butter and 1 cup of the sugar. Stir in the eggs and vanilla. Add the flour mixture and beat until combined. Spread the mixture evenly in the prepared pan.",
+        "In a small bowl, combine the remaining 1/3 cup sugar with the cinnamon. Squeeze lemon juice into a medium bowl. Peel, core, and slice the apples into the bowl. Add the cinnamon-sugar mixture and toss to thoroughly coat each apple slice. Arrange the apple slices on top of the batter in overlapping rows, pressing lightly into the batter. Bake for about 45 minutes, until a cake tester or toothpick inserted in the center comes out clean. Cool in the pan on a wire rack for 10 to 15 minutes before serving."
+      ],
+      "notes": "Can use other fruit too.",
+      "prepTime": "PT0S",
+      "cookTime": "PT45M",
+      "image": "015c3c9d-18f2-4aa2-ae55-1c7335c373dc_0.jpg"
     }
   },
   {
@@ -698,18 +3518,111 @@
     "notes": "Culinary Research: Baked lentils with cheese is a protein-packed vegetarian finale. Synergy: This dish uses staple ingredients (lentils, onions, cheese) that are likely already in the pantry.",
     "primary_info": {
       "name": "Baked Lentils With Cheese",
-      "source_url": null,
-      "source": null
+      "course": "Main Dish",
+      "categories": [
+        "Bean",
+        "Casserole",
+        "Rice",
+        "Vegetarian"
+      ],
+      "source": "More with Less",
+      "rating": 4,
+      "ingredients": [
+        "1 3/4 c. lentils, rinsed",
+        "2 c. water",
+        "1 whole bay leaf",
+        "2 t. salt",
+        "1/4 t. pepper",
+        "1 1/2 t. each marjoram, sage, thyme",
+        "2 large onions, chopped",
+        "2 cloves garlic, minced",
+        "2 c. canned tomatoes",
+        "2 large carrots, sliced 1/8\" thick",
+        "1/2 c. thinly sliced celery",
+        "1 green pepper, chopped (optional)",
+        "2 T. finely chopped parsley",
+        "3 c. shredded cheddar cheese"
+      ],
+      "directions": [
+        "Preheat oven to 375°.",
+        "Combine in shallow 9x13\" baking dish: lentils, water, bay leaf, salt, pepper, marjoram, sage, thyme, onions, garlic, and canned tomatoes.",
+        "Cover tightly and bake for 30 minutes.",
+        "Uncover and stir in carrots and celery.",
+        "Bake covered for 40 minutes until vegetables are tender.",
+        "Stir in green pepper and parsley.",
+        "Sprinkle cheese on top.",
+        "Bake uncovered for 5 minutes until cheese melts."
+      ],
+      "notes": "Cook lentils in instant pot.",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H10M",
+      "image": "f8a45a48-145a-4a5f-b8ec-20e22624676d_0.jpg"
     },
     "fallback_info": {
       "name": "Spanish Chickpeas and Rice",
-      "source_url": null,
-      "source": null
+      "course": "Main Dish",
+      "categories": [
+        "Bean",
+        "Rice",
+        "Vegetarian"
+      ],
+      "source": "budget bytes",
+      "rating": 3,
+      "ingredients": [
+        "2 Tbsp olive oil",
+        "2 cloves garlic",
+        "½ Tbsp smoked paprika",
+        "1 tsp cumin",
+        "1/2 tsp oregano",
+        "1/4 tsp cayenne pepper",
+        "Freshly cracked black pepper",
+        "1 yellow onion",
+        "1 cup uncooked long grain white rice",
+        "15oz can diced tomatoes",
+        "15oz can quartered artichoke hearts",
+        "19oz can chickpeas",
+        "1.5 cups vegetable broth",
+        "1/2 tsp salt (to taste)",
+        "¼ bunch fresh parsley",
+        "1 fresh lemon"
+      ],
+      "directions": [
+        "Mince garlic and add to sauté pan with olive oil. Cook over medium-low heat for 1-2 minutes, or just until soft and fragrant. Add spices, then stir and sauté with hot oil for 1 minute.",
+        "Dice the onion and add, sautéing until soft and translucent for about 5 minutes. Add the rice and sauté for 2 minutes more.",
+        "Drain the chickpeas and artichoke hearts and add to the skillet with the diced tomatoes, broth, and salt. Roughly chop the parsley and add, saving a small amount to sprinkle before serving. Stir until combined.",
+        "Place a lid on the skillet and turn heat up to medium-high, allowing the skillet to come to a boil. When it reaches a boil, reduce heat to low and make sure it actively simmers for 20 minutes.",
+        "After simmering for 20 minutes, turn heat off and allow the skillet to rest for 5 minutes without removing the lid. Remove the lid, fluff with a fork, top with the remaining parsley. Cut the lemon into wedges and squeeze fresh juice over each bowl."
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT20M",
+      "image": "57af5137-723a-4635-b224-93462d1a6841_0.jpg"
     },
     "dessert_info": {
       "name": "Magic Bars",
-      "source_url": null,
-      "source": "gooseberry patch"
+      "course": "Dessert",
+      "categories": [
+        "Chocolate",
+        "Cookie"
+      ],
+      "source": "gooseberry patch",
+      "rating": 3,
+      "ingredients": [
+        "1/2 c. butter or margarine, melted",
+        "1⅓ c. graham cracker crumbs",
+        "14-oz. can sweetened condensed milk",
+        "1½ c. semi-sweet chocolate chips",
+        "1½ c. chopped walnuts"
+      ],
+      "directions": [
+        "Stir together butter and graham cracker crumbs; press into a 13\"x9\" baking dish.",
+        "Pour milk over crumb mixture; sprinkle with chocolate chips and walnuts.",
+        "Bake at 350 degrees for 25 minutes or until edges are browned and bubbly."
+      ],
+      "notes": "",
+      "prepTime": "PT0S",
+      "cookTime": "PT25M",
+      "image": "331a1a0f-fae1-4dd6-8a53-fe947c0830c9_0.jpg"
     }
   }
 ]

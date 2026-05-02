@@ -37,10 +37,23 @@ async function importRecipes() {
             let source = sourceEl?.textContent?.trim();
             let source_url = sourceEl?.querySelector('a')?.getAttribute('href');
 
-            // If source is just the URL, and we have a source_url, maybe we want to clean it up?
-            // For now, let's just store both if available.
-            
             const rating = el.querySelector('[itemprop="recipeRating"]')?.getAttribute('content');
+
+            // NEW: Extract more details
+            const ingredients = Array.from(el.querySelectorAll('.recipe-ingredients p')).map(p => p.textContent.trim()).filter(t => t);
+            const directions = Array.from(el.querySelectorAll('[itemprop="recipeDirections"] p')).map(p => p.textContent.trim()).filter(t => t);
+            const notes = el.querySelector('.recipe-notes')?.textContent?.trim() || "";
+            const prepTime = el.querySelector('[itemprop="prepTime"]')?.getAttribute('content');
+            const cookTime = el.querySelector('[itemprop="cookTime"]')?.getAttribute('content');
+            
+            const imageEl = el.querySelector('.recipe-photo');
+            let image = null;
+            if (imageEl) {
+                const src = imageEl.getAttribute('src');
+                if (src) {
+                    image = path.basename(src);
+                }
+            }
 
             if (name) {
                 recipes.push({
@@ -49,7 +62,13 @@ async function importRecipes() {
                     categories,
                     source,
                     source_url,
-                    rating: rating ? parseInt(rating) : null
+                    rating: rating ? parseInt(rating) : null,
+                    ingredients,
+                    directions,
+                    notes,
+                    prepTime,
+                    cookTime,
+                    image
                 });
             }
         });
@@ -61,7 +80,8 @@ async function importRecipes() {
             'pork': [],
             'fish': [],
             'vegetarian': [],
-            'dessert': []
+            'dessert': [],
+            'other': []
         };
 
         recipes.forEach(recipe => {
@@ -80,6 +100,8 @@ async function importRecipes() {
                 categoryMap['fish'].push(recipe);
             } else if (mainCat.includes('vegetarian') || mainCat.includes('pasta') || mainCat.includes('meatless')) {
                 categoryMap['vegetarian'].push(recipe);
+            } else {
+                categoryMap['other'].push(recipe);
             }
         });
 

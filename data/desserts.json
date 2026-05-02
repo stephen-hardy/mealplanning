@@ -8,14 +8,58 @@
     ],
     "source": "https://www.melskitchencafe.com/60-second-chocolate-chip-mug-cookie/",
     "source_url": "https://www.melskitchencafe.com/60-second-chocolate-chip-mug-cookie/",
-    "rating": 4
+    "rating": 4,
+    "ingredients": [
+      "1 tablespoon melted butter or coconut oil",
+      "1 tablespoon granulated sugar",
+      "1 tablespoon brown sugar",
+      "1/8 teaspoon vanilla extract",
+      "pinch of salt",
+      "1 egg yolk",
+      "1/4 cup all-purpose flour (see note)",
+      "2 tablespoons chocolate chips (regular size or mini)"
+    ],
+    "directions": [
+      "1. Very lightly coat the inside of a 6- or 8-ounce mug or ramekin with cooking spray, butter or coconut oil.",
+      "2. To the mug or ramekin, add the melted butter, egg yolk, granulated sugar, brown sugar, vanilla and salt. Mix until well combined.",
+      "3. Add the flour (see note!) and chocolate chips. Stir until just combined. If the batter is dry and crumbly, add a splash of milk.",
+      "4. COOKING INSTRUCTIONS: the exact cooking time will vary on the size/wattage of microwave you are using. For a 1,000 watt microwave, cook for one minute at 80% power. For a 1,200 or 1,500 watt microwave, cook for 45 seconds at 75% power. You may need to play around with the exact timing based on your microwave. The key is to NOT OVERCOOK the mug cookie. The top should puff and spring back lightly to the touch.",
+      "5. Serve warm (don't let it cool! It is infinitely better served immediately) with ice cream, if desired."
+    ],
+    "notes": "Double the recipe for two mugs. Use 1 egg, scrambled and divided.",
+    "prepTime": "PT5M",
+    "cookTime": "PT1M",
+    "image": "9a096322-362f-40b0-90db-1ac3e74bc58d_0.jpg"
   },
   {
     "name": "Apple Crisp",
     "course": "Dessert",
     "categories": [],
     "source": "More with Less",
-    "rating": 4
+    "rating": 4,
+    "ingredients": [
+      "3 c. sliced or chopped apples",
+      "1 T. flour",
+      "1/4 c. sugar",
+      "1 t. cinnamon",
+      "1/8 t. salt",
+      "1 T. water",
+      "1/2 c. rolled oats",
+      "1/4 t. salt",
+      "1/4 c. margarine",
+      "1/3 c. brown sugar"
+    ],
+    "directions": [
+      "Preheat oven to 375°.",
+      "Combine and put in greased casserole.",
+      "Cut together oats, salt, butter, and sugar with pastry blender.",
+      "Sprinkle on top of casserole mixture.",
+      "Bake 35 minutes."
+    ],
+    "notes": "Triple crumble for topping.",
+    "prepTime": "PT40M",
+    "cookTime": "PT35M",
+    "image": "37b37666-58fb-4870-924b-b0bbe6ccece0_0.jpg"
   },
   {
     "name": "Apple Snack Cake",
@@ -24,7 +68,31 @@
       "Cake"
     ],
     "source": "taste of home 2001",
-    "rating": 0
+    "rating": 0,
+    "ingredients": [
+      "1-1/2 cups all-purpose flour",
+      "1/4 cup baking cocoa",
+      "1 teaspoon baking soda",
+      "1/2 teaspoon salt",
+      "1 cup water",
+      "1/4 cup vegetable oil",
+      "1 teaspoon lemon juice",
+      "1 teaspoon vanilla extract",
+      "1 cup chopped peeled tart apples",
+      "2/3 cup sugar",
+      "1/4 teaspoon ground cinnamon"
+    ],
+    "directions": [
+      "In a medium bowl, combine flour, cocoa, baking soda and salt.",
+      "Combine water, oil, lemon juice and vanilla; add to the dry ingredients and stir just until combined.",
+      "Toss apples with sugar and cinnamon; fold into batter.",
+      "Pour into a greased 8-in. square baking pan.",
+      "Bake at 350° for 30-35 minutes or until cake tests done."
+    ],
+    "notes": "",
+    "prepTime": "PT0S",
+    "cookTime": "PT35M",
+    "image": "5fa511d5-50c5-4f12-92e8-094e573025fb_0.jpg"
   },
   {
     "name": "Banana Oat Cookies",
@@ -35,7 +103,31 @@
       "Fruit"
     ],
     "source": "little bites guide",
-    "rating": 4
+    "rating": 4,
+    "ingredients": [
+      "Ingredients",
+      "2 ripe & spotty bananas",
+      "1 cup sprouted rolled oats",
+      "1 tsp cinnamon",
+      "Optional Add-ins",
+      "2 TB chocolate chips",
+      "1 TB unsweetened shredded coconut",
+      "1 tsp chia seeds or flax seeds",
+      "1 TB dried raisins",
+      "1/4 cup nut butter"
+    ],
+    "directions": [
+      "Preheat oven to 350 degrees & line baking sheet with parchment paper",
+      "In a medium sized bowl, mash the bananas until smooth",
+      "Add in the rolled oat & cinnamon. Mix until fully combined.",
+      "If using optional add-ins, fold them in until just combined",
+      "Scoop a few tablespoons of the 'dough' onto the baking sheet and shape (option to flatten a bit with the spoon) into a round cookie shape.",
+      "Bake for 9-11 minutes, until edges are have turned golden brown"
+    ],
+    "notes": "",
+    "prepTime": "PT5M",
+    "cookTime": "PT9M",
+    "image": "50e40592-b90c-4c90-aac4-b1b708091819_0.jpg"
   },
   {
     "name": "Black Bean Brownies",
@@ -48,7 +140,27 @@
     ],
     "source": "https://chocolatecoveredkatie.com/no-flour-black-bean-brownies/comment-page-173/",
     "source_url": "https://chocolatecoveredkatie.com/no-flour-black-bean-brownies/comment-page-173/",
-    "rating": 3
+    "rating": 3,
+    "ingredients": [
+      "1 1/2 cups black beans ((1 15-oz can, drained and rinsed very well) (250g after draining))",
+      "2 tbsp cocoa powder ((10g))",
+      "1/2 cup quick oats ((40g) (See nutrition link below for substitutions))",
+      "1/4 tsp salt",
+      "1/3 cup pure maple syrup, (honey, or agave (75g))",
+      "pinch uncut stevia OR 2 tbsp sugar ((or omit and increase maple syrup to 1/2 cup))",
+      "1/4 cup coconut or vegetable oil ((40g) (See nutrition link for substitution notes))",
+      "2 tsp pure vanilla extract",
+      "1/2 tsp baking powder",
+      "1/2 cup to 2/3 cup chocolate chips ((Not optional. Omit at your own risk))",
+      "optional: more chips, (for presentation)"
+    ],
+    "directions": [
+      "1. Black Bean Brownies Recipe: Preheat oven to 350 F. Combine all ingredients except chips in a good food processor, and blend until completely smooth. Really blend well. (A blender can work if you absolutely must, but the texture—and even the taste—will be much better in a food processor. I use this food processor.) Stir in the chips, then pour into a greased 8x8 pan. Optional: sprinkle extra chocolate chips over the top. Cook the black bean brownies 15-18 minutes, then let cool at least 10 minutes before trying to cut. If they still look a bit undercooked, you can place them in the fridge overnight and they will magically firm up! Makes 9-12 brownies. If you make this recipe, don't forget to leave a review! The trick with these: serve them first, and then reveal the secret ingredient. In all the times I’ve served bean desserts, not one single person who didn’t know beforehand has ever guessed!View Black Bean Brownies Nutrition Facts"
+    ],
+    "notes": "",
+    "prepTime": "PT0S",
+    "cookTime": "PT15M",
+    "image": "7c521017-7c72-4695-a6d8-ee6bdf337110_0.jpg"
   },
   {
     "name": "Blender Breakfast Banana Loaf",
@@ -60,7 +172,32 @@
       "Fruit"
     ],
     "source": "meal prep magic",
-    "rating": 4
+    "rating": 4,
+    "ingredients": [
+      "Nonstick cooking spray",
+      "3 ripe bananas, mashed (about 1 cup/150 g)",
+      "1 cup (220 g) packed brown sugar",
+      "3/4 cup (180 ml) olive oil",
+      "¼ cup (60 ml) sour cream",
+      "2 large eggs, at room temperature",
+      "1 tablespoon vanilla extract",
+      "3 cups (270 g) old-fashioned rolled oats (aka 5-minute oats)",
+      "2 teaspoons ground cinnamon",
+      "1 teaspoon baking soda",
+      "½ teaspoon kosher salt",
+      "1 cup (175 g) dark chocolate chips, plus a few extra for the top",
+      "1 tablespoon granulated sugar"
+    ],
+    "directions": [
+      "Preheat the oven to 350°F (175°C) and line a 9 by 5-inch (23 by 12 cm) loaf pan with parchment paper crossing two strips to create an overhang on all 4 sides (so you have a sling to remove the loaf from the pan). Spray the parchment paper with nonstick cooking spray.",
+      "Add the mashed bananas, brown sugar, olive oil, sour cream, eggs, vanilla, oats, 1 teaspoon cinnamon, baking soda, and salt into a high-speed blender. Process until the oats are fully broken down and the mixture is smooth.",
+      "Remove the blender container from the machine, then carefully fold in the chocolate chips with a spatula. Pour the batter into the prepared pan, then sprinkle a few extra chocolate chips on top. Stir together the granulated sugar and cinnamon, and then sprinkle the mixture on top of the batter in an even layer.",
+      "Bake in the preheated oven for 55 to 60 minutes, or until a toothpick inserted in the center comes out clean. Allow the bread to cool in the pan for 10 minutes. Use a knife to gently cut around the bread to make sure it doesn't stick to the sides of the pan. Turn the bread upside down onto your hand and place the bread bottom side down on a cooling rack."
+    ],
+    "notes": "",
+    "prepTime": "PT10M",
+    "cookTime": "PT1H",
+    "image": "b57cb152-92bb-4d1a-8aab-99769df90304_0.jpg"
   },
   {
     "name": "Blueberry Cheesecake",
@@ -69,7 +206,30 @@
       "Cake"
     ],
     "source": "Recipe Keeper",
-    "rating": 0
+    "rating": 0,
+    "ingredients": [
+      "1 1/4 cups graham cracker crumbs / 8 digestive biscuit crumbs",
+      "1/4 cup/50g butter, melted",
+      "20 oz./600g cream cheese",
+      "2 tablespoons all-purpose flour",
+      "3/4 cup/175g caster sugar",
+      "2 eggs, plus 1 yolk",
+      "small pot soured cream",
+      "vanilla extract",
+      "1 cup / 300g fresh or frozen blueberries",
+      "icing sugar"
+    ],
+    "directions": [
+      "1. Melt the butter and pour onto the cracker crumbs and mix well. Press into the bottom of a 9-inch spring form pan. Bake at 325°F until the crust is set, about 10-12 minutes. Allow to cool.",
+      "2. In a large bowl beat the cream cheese with the flour, caster sugar, eggs, soured cream and vanilla extract with an electric mixer until light and fluffy.",
+      "3. Pour the mixture into the pan and bake for 35-40 minutes until set. Remove from the oven and leave to cool.",
+      "4. Heat half the blueberries in a pan with 2 tablespoons icing sugar and stir gently until juicy. Squash the blueberries with a fork then continue to cook for a few minutes. Add the remaining blueberries, remove from the heat and allow to cool.",
+      "5. Pour the blueberries over the cheesecake just before serving."
+    ],
+    "notes": "",
+    "prepTime": "PT10M",
+    "cookTime": "PT1H",
+    "image": "a2489b23-050f-5c8a-8e5d-12fdb9fdeea3_0.jpg"
   },
   {
     "name": "Blueberry Crumble with Oats and Tahini",
@@ -78,7 +238,29 @@
       "Fruit"
     ],
     "source": "cookish",
-    "rating": 5
+    "rating": 5,
+    "ingredients": [
+      "2 pints fresh blueberries or 4 cups frozen blueberries, preferably wild (see note)",
+      "2 cups (160 grams) quick-cooking oats, divided",
+      "3/4 cup (164 grams) packed brown sugar, divided",
+      "8 tablespoons salted butter, cut into 8 pieces, room temperature",
+      "1/4 cup (64 grams) tahini",
+      "1 1/2 teaspoons ground cinnamon",
+      "1/2 teaspoon kosher salt",
+      "Optional garnish: Toasted sesame seeds"
+    ],
+    "directions": [
+      "Heat the oven to 350°F.",
+      "In a medium bowl, toss the blueberries with 1/4 cup (20 grams) of the oats and 1/4 cup (54 grams) of the sugar; transfer to a 9-inch pie plate.",
+      "Wipe out the bowl, then add the remaining 1 3/4 cups (140 grams) oats, the remaining 1/2 cup (107 grams) sugar, the butter, tahini, cinnamon and salt.",
+      "Mix until evenly moistened, then use your hands to squeeze the mixture into rough olive-sized clumps and scatter them over the berries.",
+      "Bake until the edges are bubbling and the crumble is golden, 30 to 35 minutes.",
+      "Serve warm or at room temperature."
+    ],
+    "notes": "",
+    "prepTime": "PT0S",
+    "cookTime": "P1DT59M",
+    "image": "ef3f8184-8767-42b1-8946-697649972103_0.jpg"
   },
   {
     "name": "Chewy Chocolate Chip Cookie Bars",
@@ -88,7 +270,33 @@
     ],
     "source": "https://www.kingarthurbaking.com/recipes/chewy-chocolate-chip-cookie-bars-recipe",
     "source_url": "https://www.kingarthurbaking.com/recipes/chewy-chocolate-chip-cookie-bars-recipe",
-    "rating": 4
+    "rating": 4,
+    "ingredients": [
+      "11 tablespoons (156g) unsalted butter",
+      "2 cups plus 2 tablespoons (454g) light brown sugar or dark brown sugar packed",
+      "1 teaspoon table salt",
+      "1 teaspoon King Arthur Pure Vanilla Extract",
+      "1/4 teaspoon butterscotch flavor or vanilla-butternut flavor optional",
+      "3 large eggs",
+      "2 1/4 teaspoons baking powder",
+      "1/2 teaspoon espresso powder optional",
+      "2 3/4 cups (330g) King Arthur Unbleached All-Purpose Flour",
+      "3 cups (510g) chocolate chips or a combination of different flavored chips or chips and nuts"
+    ],
+    "directions": [
+      "1. Preheat the oven to 350°F. Lightly grease a 9\" x 13\" pan.",
+      "2. Melt the butter, and stir in the brown sugar. Add the salt, vanilla, and flavor, stirring until well combined.",
+      "3. Allow the mixture to cool slightly (if it's very hot to the touch), then add the eggs one at a time, beating well after each addition. Scrape the sides and bottom of the mixing bowl midway through this process.",
+      "4. Add the baking powder, espresso powder, and flour, stirring to combine.",
+      "5. Stir in the chips or other additions of your choice.",
+      "6. Scoop the batter into the prepared pan, spreading it to the edges with a wet spatula (or your wet fingers). Smooth the top as best you can.",
+      "7. Bake the bars for 30 to 32 minutes, until they've risen, and their top is shiny and golden. Bake for the shorter amount of time in a darker pan; the longer time in a light/shiny pan. A cake tester inserted into the center won't come out clean; in fact, the center of the very middle of the pan may look quite molten when you dig into it. But so long as no wet batter is showing farther out towards the edges, the bars are done. As they cool, the center will solidify.",
+      "8. Remove the bars from the oven, and use a heatproof spatula to press down the risen edges; this will make bars with flat, rather than humped tops. Let the bars cool completely before cutting; overnight is best. Once bars are cool, wrap airtight. Store wrapped bars at room temperature for a couple of days."
+    ],
+    "notes": "",
+    "prepTime": "PT10M",
+    "cookTime": "PT32M",
+    "image": "c38c6748-c2d5-47bc-8179-7dbe5beb4b26_0.jpg"
   },
   {
     "name": "Chocolate Chip Cookies",
@@ -97,7 +305,31 @@
       "Cookie"
     ],
     "source": "Recipe Keeper",
-    "rating": 0
+    "rating": 0,
+    "ingredients": [
+      "2 1/4 cups all-purpose flour",
+      "1 teaspoon baking soda",
+      "1 teaspoon salt",
+      "1 cup butter",
+      "1 cup caster sugar",
+      "1 cup soft brown sugar",
+      "1 teaspoon vanilla extract",
+      "2 eggs",
+      "2 cups dark chocolate, broken into small pieces"
+    ],
+    "directions": [
+      "1. In a large bowl combine the flour, baking soda and salt.",
+      "2. In a separate bowl, mix the butter, caster sugar, brown sugar and vanilla extract until smooth.",
+      "3. Add the eggs and the flour to the mixture and beat to combine.",
+      "4. Add the chocolate pieces and stir.",
+      "5. Drop well rounded spoonfuls of dough onto a greased cookie sheet.",
+      "6. Bake at 375F for 8-10 minutes.",
+      "7. Remove from the oven and place cookies on a wire rack to cool."
+    ],
+    "notes": "",
+    "prepTime": "PT5M",
+    "cookTime": "PT12M",
+    "image": "b0bcddc4-23e8-50cc-a879-22b1b2e63919_0.jpg"
   },
   {
     "name": "Chocolate Chip Oatmeal Cookies",
@@ -107,7 +339,34 @@
       "Cookie"
     ],
     "source": "More with Less",
-    "rating": 4
+    "rating": 4,
+    "ingredients": [
+      "1 c. shortening (may use half margarine and half lard)",
+      "1/4 c. peanut butter",
+      "1/2 c. sugar",
+      "1/2 c. brown sugar",
+      "2 eggs",
+      "1 t. vanilla",
+      "1½ c. flour",
+      "1 t. soda",
+      "1/2 t. salt",
+      "2 c. rolled oats",
+      "1½  c. chocolate chips",
+      "1 c. chopped nuts (optional)"
+    ],
+    "directions": [
+      "Cream together shortening, peanut butter, sugar, and brown sugar.",
+      "Add eggs and vanilla.",
+      "Add flour, soda, and salt.",
+      "Mix in rolled oats, chocolate chips, and chopped nuts if using.",
+      "Mix well.",
+      "Drop by teaspoonfuls on greased cookie sheet.",
+      "Bake at 375° for about 10 minutes."
+    ],
+    "notes": "Hammer family favorite. Doesn’t store well.",
+    "prepTime": "PT10M",
+    "cookTime": "PT10M",
+    "image": "a899e735-98ae-448e-9b37-5d2bc12696ef_0.jpg"
   },
   {
     "name": "Decadent Chocolate Cherry Fruitcake",
@@ -118,7 +377,41 @@
       "Fruit"
     ],
     "source": "Mom",
-    "rating": 3
+    "rating": 3,
+    "ingredients": [
+      "1¼ cup flour",
+      "¾ cup Sugar",
+      "1 tsp baking powder",
+      "1 tsp salt",
+      "½ tsp Baking soda",
+      "1 tsp cinnamon",
+      "½ tsp Nutmeg",
+      "¼ tsp Cloves",
+      "1 cup coarsely chopped pecans",
+      "1 cup dried cherries",
+      "¾ cup miniature semi-sweet chocolate chips",
+      "¾ cup Water",
+      "¼ cup kirsch (cherry-flavored liqueur) OR",
+      "2 teaspoons almond extract with ¼ cup water",
+      "1 tablespoon oil",
+      "1 egg",
+      "Glaze:",
+      "¼ cup miniature semi-sweet chocolate chips",
+      "2 teaspoons oil"
+    ],
+    "directions": [
+      "Heat oven to 350°F. Grease and flour bottom of 8x4 or 9x5-inch loaf pan.",
+      "In large bowl, combine all fruitcake ingredients. Stir by hand until mix is moistened.",
+      "Pour into prepared pan. Bake at 350°F. for 65 to 80 min. for 8x4-inch pan, 60 to 70 min. for 9x5-inch pan or until toothpick inserted in center comes out clean.",
+      "Cool 15 min.; cut in half remove from pan. Cool completely.",
+      "In small saucepan over low heat, melt chocolate chips and oil, stirring until smooth. Drizzle over fruitcake. Allow glaze to set in refrigerator.",
+      "Wrap well in plastic wrap or foil and store in refrigerator up to 2 weeks or freeze up to 3 months. For optimum flavor refrigerate at least 24 hours before serving.",
+      "Three 3x5-inch loaf pans can also be used. Divide batter evenly between pans. Bake at 350°F. for 40 to 50 minutes."
+    ],
+    "notes": "Stephen loves it!",
+    "prepTime": "PT0S",
+    "cookTime": "PT1H10M",
+    "image": "d9ee7295-9a45-4338-908e-4f6a28a7c785_0.jpg"
   },
   {
     "name": "German Apple Cake",
@@ -128,7 +421,28 @@
       "Fruit"
     ],
     "source": "mad hungry men & boys",
-    "rating": 3
+    "rating": 3,
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "1½ teaspoons baking powder",
+      "1 teaspoon coarse salt",
+      "8 tablespoons (1 stick) unsalted butter, softened",
+      "1⅓  cups sugar",
+      "2 large eggs, lightly beaten",
+      "1 teaspoon pure vanilla extract",
+      "1 teaspoon ground cinnamon",
+      "Juice of ½ lemon",
+      "3 to 4 tart apples, such as Granny Smith, Cortland, or Winesap"
+    ],
+    "directions": [
+      "Preheat the oven to 375°F. Butter an 8-inch square pan or equivalent-size baking dish.",
+      "In a small bowl, whisk together the flour, baking powder, and salt. In a medium bowl, cream together the butter and 1 cup of the sugar. Stir in the eggs and vanilla. Add the flour mixture and beat until combined. Spread the mixture evenly in the prepared pan.",
+      "In a small bowl, combine the remaining 1/3 cup sugar with the cinnamon. Squeeze lemon juice into a medium bowl. Peel, core, and slice the apples into the bowl. Add the cinnamon-sugar mixture and toss to thoroughly coat each apple slice. Arrange the apple slices on top of the batter in overlapping rows, pressing lightly into the batter. Bake for about 45 minutes, until a cake tester or toothpick inserted in the center comes out clean. Cool in the pan on a wire rack for 10 to 15 minutes before serving."
+    ],
+    "notes": "Can use other fruit too.",
+    "prepTime": "PT0S",
+    "cookTime": "PT45M",
+    "image": "015c3c9d-18f2-4aa2-ae55-1c7335c373dc_0.jpg"
   },
   {
     "name": "golden granola",
@@ -138,7 +452,30 @@
       "Other grain"
     ],
     "source": "mad hungry men and boys",
-    "rating": 4
+    "rating": 4,
+    "ingredients": [
+      "1 pound rolled oats",
+      "1 cup shredded, unsweetened coconut",
+      "1/2 cup slivered almonds",
+      "1/4 cup sesame seeds",
+      "1/2 cup wheat germ",
+      "1/2 teaspoon coarse salt",
+      "1/2 cup safflower oil",
+      "1/2 cup honey",
+      "1/3 cup water",
+      "1½ teaspoons pure vanilla extract",
+      "½ cup golden raisins",
+      "1/2 cup dried cranberries, blueberries, or other dried chopped fruit"
+    ],
+    "directions": [
+      "Preheat the oven to 250°F.",
+      "In a large bowl, toss together the oats, coconut, almonds, sesame seeds, wheat germ, and salt. Separately whisk together the oil, honey, water, and vanilla; stir it into the oat mixture.",
+      "Spread the granola on 2 rimmed baking sheets. Bake for 1 to 1 ½ hours, or until golden brown. Stir after 10 minutes and again after 30 more minutes. Remove from the oven and toss with the raisins and cranberries. Cool completely and store in an airtight container. Serve with sliced bananas or berries and milk or plain yogurt."
+    ],
+    "notes": "",
+    "prepTime": "PT0S",
+    "cookTime": "PT1H12M",
+    "image": "18de8caa-5e52-47e5-9c27-1dd2c822c242_0.jpg"
   },
   {
     "name": "Lemon Tart",
@@ -147,7 +484,35 @@
       "Tart"
     ],
     "source": "Recipe Keeper",
-    "rating": 0
+    "rating": 0,
+    "ingredients": [
+      "For the tart shell",
+      "1 1/2 cups all-purpose flour",
+      "1/2 cup icing sugar",
+      "2/3 cup softened butter",
+      "pinch of salt",
+      "1 egg yolk",
+      "For the lemon curd",
+      "6 lemons",
+      "6 large eggs",
+      "1 1/2 cups caster sugar",
+      "1 1/2 cups cream",
+      "To serve",
+      "Icing sugar",
+      "Cream"
+    ],
+    "directions": [
+      "1. In a large bowl mix the softened butter and icing sugar to a cream with a wooden spoon then beat in the egg yolk. Add the flour and salt and rub the butter mixture and flour together with your fingers until crumbly.",
+      "2. Add the egg yolk to the mixture and knead briefly until it forms a firm dough. Wrap in plastic wrap and leave to chill in the fridge for 30 minutes.",
+      "3. Roll out the pastry until very thin and line the quiche tin allowing a small amount of pastry to overlap the edges. Prick the base of the pastry with a fork and bake at 400°F for 20 minutes.",
+      "4. Grate the zest from the lemons into a bowl then add the juice from the lemons. Break the eggs into a large bowl and add the caster sugar and mix well. Add the lemon juice, zest and the cream and whisk gently.",
+      "5. Pour the mixture into the pastry case and bake at 350°F for 25 to 30 minutes until set.",
+      "6. Sprinkle with a little icing sugar and serve with cream."
+    ],
+    "notes": "",
+    "prepTime": "PT1H",
+    "cookTime": "PT30M",
+    "image": "31adb931-743f-5e9d-b2a2-9269c0775a4a_0.jpg"
   },
   {
     "name": "Magic Bars",
@@ -157,7 +522,23 @@
       "Cookie"
     ],
     "source": "gooseberry patch",
-    "rating": 3
+    "rating": 3,
+    "ingredients": [
+      "1/2 c. butter or margarine, melted",
+      "1⅓ c. graham cracker crumbs",
+      "14-oz. can sweetened condensed milk",
+      "1½ c. semi-sweet chocolate chips",
+      "1½ c. chopped walnuts"
+    ],
+    "directions": [
+      "Stir together butter and graham cracker crumbs; press into a 13\"x9\" baking dish.",
+      "Pour milk over crumb mixture; sprinkle with chocolate chips and walnuts.",
+      "Bake at 350 degrees for 25 minutes or until edges are browned and bubbly."
+    ],
+    "notes": "",
+    "prepTime": "PT0S",
+    "cookTime": "PT25M",
+    "image": "331a1a0f-fae1-4dd6-8a53-fe947c0830c9_0.jpg"
   },
   {
     "name": "MAKE-IT-MINE CHEESECAKE",
@@ -167,7 +548,61 @@
       "Chocolate"
     ],
     "source": "better homes",
-    "rating": 0
+    "rating": 0,
+    "ingredients": [
+      "BASIC INGREDIENTS",
+      "1¾ cups Crumbs, crushed",
+      "¼ cup finely chopped Nuts",
+      "1 tablespoon sugar",
+      "½ teaspoon Spice (optional)",
+      "½ cup butter, melted",
+      "2 tablespoons all-purpose flour",
+      "1 teaspoon Flavoring",
+      "¼ cup Liquid",
+      "3 eggs, lightly beaten",
+      "CRUMBS (PICK ONE)",
+      "Chocolate sandwich cookies (use 3 tablespoons butter, melted)",
+      "Gingersnaps",
+      "Graham crackers",
+      "Vanilla wafers",
+      "NUTS (PICK ONE)",
+      "Almonds, pecans, and/or walnuts",
+      "Macadamia nuts",
+      "SPICE (PICK ONE)",
+      "Ground allspice, cinnamon, or ginger",
+      "Apple pie or pumpkin pie spice",
+      "DAIRY (PICK ONE)",
+      "Three 8-ounce packages cream cheese, softened",
+      "Two 8-ounce packages cream cheese, softened, plus one 8-ounce carton dairy sour cream (omit Liquid)",
+      "Two 8-ounce packages cream cheese, softened, plus two 6-ounce cartons plain low-fat yogurt (omit Liquid)",
+      "Two 8-ounce packages cream cheese, softened, plus 1 cup canned pumpkin (omit Liquid)",
+      "SWEETENER (PICK ONE)",
+      "1 cup granulated sugar",
+      "1/2 cup granulated sugar plus 1/2 cup brown sugar",
+      "FLAVORING (PICK ONE)",
+      "Peppermint or almond extract",
+      "Shredded lemon or orange peel",
+      "Vanilla",
+      "LIQUID (PICK ONE)",
+      "Brewed coffee",
+      "Milk",
+      "Orange or pineapple juice",
+      "STIR-IN (PICK ONE)",
+      "1 cup milk chocolate pieces",
+      "3 ounces chopped white chocolate",
+      "1 baking chocolate",
+      "cup blueberries"
+    ],
+    "directions": [
+      "Preheat oven to 350°F. For crust, in a bowl combine desired Crumbs, Nuts, the 1 tablespoon sugar, and Spice (if desired). Stir in melted butter. Press the crumb mixture onto the bottom and about 1½ inches up the sides of a 9-inch springform pan; set aside.",
+      "For filling, in a large mixing bowl beat the Dairy, Sweetener, flour, and Flavoring with an electric mixer until combined. Beat in Liquid until smooth. Stir in eggs and Stir-In.",
+      "Pour filling into crust-lined pan. Dot with Swirl-In, if using; use a thin metal spatula to marble. Place pan in a shallow baking pan. Bake for 40 to 50 minutes or until a 2½-inch area around outside edge appears set when gently shaken.",
+      "Cool in pan on a wire rack for 15 minutes. Using a small sharp knife, loosen the crust from sides of pan; cool for 30 minutes. Remove sides of pan; cool cheesecake completely on rack. Cover and chill at least 4 hours before serving."
+    ],
+    "notes": "",
+    "prepTime": "PT30M",
+    "cookTime": "PT40M",
+    "image": "8a9781ab-ca95-452d-ab19-0a18dbe45f95_0.jpg"
   },
   {
     "name": "MAKE-IT-MINE OATMEAL COOKIES",
@@ -176,7 +611,58 @@
       "Cookie"
     ],
     "source": "better homes",
-    "rating": 0
+    "rating": 0,
+    "ingredients": [
+      "BASIC INGREDIENTS",
+      "Fat",
+      "Sugar",
+      "1 teaspoon baking soda",
+      "Spice",
+      "1/2 teaspoon salt",
+      "2 eggs",
+      "Flavoring",
+      "Flour",
+      "3 cups regular or quick-cooking rolled oats",
+      "1 cup Stir-In (optional)",
+      "FAT (PICK ONE)",
+      "1 cup butter",
+      "1/2 cup butter plus 1/2 cup shortening",
+      "1/2 cup butter plus 1/2 cup peanut butter",
+      "SUGAR (PICK ONE)",
+      "1 cup packed brown sugar plus 1/2 cup granulated sugar",
+      "1½ cups packed brown sugar",
+      "1 cup granulated sugar plus 1/2 cup molasses (add 1/4 cup additional all-purpose flour)",
+      "1 cup granulated sugar plus 1/2 cup honey",
+      "SPICE (PICK ONE)",
+      "1 teaspoon ground cinnamon, pumpkin pie spice, or apple pie spice",
+      "1/2 teaspoon ground allspice",
+      "FLAVORING (PICK ONE)",
+      "1 teaspoon vanilla",
+      "1/2 teaspoon coconut flavoring",
+      "½ teaspoon maple flavoring",
+      "FLOUR (PICK ONE)",
+      "1½ cups all-purpose flour",
+      "3/4 cup all-purpose flour plus 3/4 cup whole wheat flour",
+      "1 cup all-purpose flour plus 1/2 cup oat bran",
+      "1½ cups all-purpose flour plus 1/4 cup toasted wheat germ",
+      "STIR-IN (PICK ONE)",
+      "Raisins",
+      "Semisweet or milk chocolate pieces",
+      "Mixed dried fruit bits or dried tart red cherries",
+      "White baking pieces",
+      "Butterscotch-flavored baking pieces",
+      "Peanut butter-flavored baking pieces",
+      "Flaked coconut"
+    ],
+    "directions": [
+      "Preheat oven to 350°F. In a large mixing bowl beat Fat with an electric mixer on medium to high speed for 30 seconds. Add desired Sugar, baking soda, Spice, and salt. Beat until combined, scraping sides of bowl. Beat in eggs and Flavoring. Beat in as much of the Flour as you can with the mixer. Stir in any remaining Flour and the oats. If desired, add Stir-In.",
+      "Drop dough by rounded teaspoons or tablespoons or by a 4-cup measure or cookie scoop 2 to 3 inches apart onto ungreased cookie sheets. Bake for 8 to 10 minutes for rounded teaspoons or tablespoons or 12 to 14 minutes for 1/4 cup or cookie-scoop portions or until light brown and centers appear set. Cool on cookie sheets 2 minutes. Transfer to wire racks to cool completely.",
+      "TIP: Instead of using just one optional Stir-In, you can use two or even three. Just be sure the total amount of the Stir-In equals 1 cup."
+    ],
+    "notes": "",
+    "prepTime": "PT30M",
+    "cookTime": "PT10M",
+    "image": "720d39ea-939e-4b5d-859f-9876040077ed_0.jpg"
   },
   {
     "name": "MAKE-IT-MINE SNACK CAKE",
@@ -185,7 +671,61 @@
       "Cake"
     ],
     "source": "better homes",
-    "rating": 0
+    "rating": 0,
+    "ingredients": [
+      "BASIC INGREDIENTS",
+      "Flour",
+      "Sweetener",
+      "1 teaspoon baking soda",
+      "½ teaspoon baking powder",
+      "½ teaspoon salt",
+      "Liquid",
+      "2/3 cup vegetable oil",
+      "Flavoring",
+      "2 eggs",
+      "Sprinkle",
+      "Topper",
+      "FLOUR (PICK ONE)",
+      "3 cups all-purpose flour",
+      "3 cups cake flour",
+      "2 cups all-purpose flour plus 1 cup whole wheat flour",
+      "2 cups all-purpose flour plus 1 cup unsweetened cocoa powder",
+      "SWEETENER (PICK ONE)",
+      "2 cups granulated sugar",
+      "1 cup granulated sugar plus 1 cup packed brown sugar",
+      "1½ cups granulated sugar plus ½ cup honey",
+      "1½ cups granulated sugar plus ½ cup molasses",
+      "LIQUID (PICK ONE)",
+      "1½ cups milk",
+      "1 cup buttermilk plus 1/2 cup water",
+      "1 6-ounce carton plain yogurt plus 1/2 cup water",
+      "1 cup milk plus 1/2 cup orange juice",
+      "FLAVORING (PICK ONE)",
+      "2 teaspoons instant espresso powder or coffee crystals",
+      "1 teaspoon finely shredded citrus peel",
+      "1 teaspoon vanilla",
+      "1/2 teaspoon almond extract",
+      "1/2 teaspoon peppermint extract",
+      "SPRINKLE (PICK ONE)",
+      "1/2 cup semisweet, milk, or dark chocolate pieces; miniature semisweet chocolate pieces; or peanut butter pieces",
+      "1/2 cup flaked coconut",
+      "1/2 cup dried fruit (tart red cherries, raisins, apricots, or cranberries)",
+      "1/2 cup chopped toasted nuts (pecans, walnuts, hazelnuts, almonds, or macadamia nuts)",
+      "TOPPER (PICK ONE)",
+      "Sift 2 teaspoons powdered sugar over top.",
+      "Sift 1 teaspoon cocoa powder mixed with 1 teaspoon powdered sugar over top.",
+      "Drizzle 2 ounces melted semisweet, milk, or dark chocolate over top.",
+      "Drizzle 1/2 cup powdered sugar mixed with 1 to 2 teaspoons milk over top.",
+      "Drizzle 1/2 cup powdered sugar mixed with 1 to 2 teaspoons citrus juice (orange, tangerine, lemon, or lime) over top."
+    ],
+    "directions": [
+      "Preheat oven to 350°F. Grease a 13x9x2-inch baking pan; set aside. In a very large bowl stir together desired Flour, dry Sweetener, baking soda, baking powder, and salt. Add the Liquid, vegetable oil, liquid Sweetener (if using), and Flavoring. Beat with an electric mixer on low to medium speed until combined. Beat in eggs. Scrape sides of bowl; continue beating on medium speed for 2 minutes more. Spread batter in prepared pan.",
+      "Bake for 20 minutes. Top evenly with Sprinkle. Bake about 15 minutes more or until a wooden toothpick inserted near center comes out clean. Cool in pan on a wire rack. Add Topper."
+    ],
+    "notes": "",
+    "prepTime": "PT15M",
+    "cookTime": "PT35M",
+    "image": "c51ab423-65f5-4a13-9068-96c63fd993a9_0.jpg"
   },
   {
     "name": "mommom's chocolate bourbon-spiked banana bread",
@@ -195,7 +735,34 @@
       "Fruit"
     ],
     "source": "joy the baker",
-    "rating": 5
+    "rating": 5,
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "3 teaspoons baking powder",
+      "½ teaspoon salt",
+      "½ cup (1 stick) unsalted butter, softened",
+      "1 cup granulated sugar",
+      "2 large eggs",
+      "1½ cups mashed ripe bananas (about 3)",
+      "1 teaspoon lemon juice",
+      "3 tablespoons bourbon",
+      "1 cup coarsely chopped walnuts",
+      "1 cup (6 ounces) semisweet chocolate chips"
+    ],
+    "directions": [
+      "Place a rack in the center of the oven and preheat to 350 degrees F. Grease and flour an 8x4- or 9x5-inch loaf pan. Set aside.",
+      "In a medium bowl, sift together flour, baking powder, and salt.",
+      "In the bowl of an electric stand mixer fitted with a paddle attachment, beat butter and sugar until light and fluffy, 3 to 5 minutes.",
+      "Add eggs one at a time, beating for 1 minute between each addition. Stop the mixer, scrape down the sides of the bowl and add bananas, lemon juice, and bourbon. Beat until well incorporated.",
+      "Turn the mixer to low and add the flour mixture all at once. Beat until almost incorporated. Stop the mixer and remove the bowl from the mixer. Add the walnuts and chocolate chips and incorporate the rest of the ingredients with a spatula.",
+      "Spoon mixture into loaf pan. Bake for 45 minutes to 1 hour, or until a skewer inserted in the center of the loaf comes out clean.",
+      "Remove from the oven and allow loaf to cool in the pan for 20 minutes before inverting onto a wire rack to cool completely. Serve with milky coffee and enjoy.",
+      "Banana bread will keep for up to 5 days, well wrapped, at room temperature."
+    ],
+    "notes": "",
+    "prepTime": "PT0S",
+    "cookTime": "PT45M",
+    "image": "3079eb28-ac76-4c4e-bf04-49600bb3130e_0.jpg"
   },
   {
     "name": "New Hampshire Maple-Walnut Scones",
@@ -205,7 +772,30 @@
     ],
     "source": "https://www.kingarthurbaking.com/recipes/new-hampshire-maple-walnut-scones-recipe",
     "source_url": "https://www.kingarthurbaking.com/recipes/new-hampshire-maple-walnut-scones-recipe",
-    "rating": 4
+    "rating": 4,
+    "ingredients": [
+      "Scones:",
+      "3 1/2 cups (422g) King Arthur Unbleached All-Purpose Flour",
+      "3/4 cup (85g) walnuts finely chopped*",
+      "4 teaspoons (16g) baking powder",
+      "1 teaspoon table salt",
+      "11 tablespoons (156g) unsalted butter cold cut into pats",
+      "1 cup (227g) milk cold",
+      "1/3 cup (103g) maple syrup grade B (dark) preferred",
+      "1/2 teaspoon natural maple flavor optional but good",
+      "Glaze:",
+      "1 cup (113g) confectioners' sugar",
+      "pinch of table salt",
+      "1/4 cup (78g) maple syrup grade B (dark) preferred",
+      "1/4 teaspoon natural maple flavor optional but good"
+    ],
+    "directions": [
+      "1. To make the scones: In a large bowl, combine the flour, walnuts, baking powder and salt., Work in the cold butter until the mixture resembles coarse crumbs., In a separate bowl, combine the milk, maple syrup, and the maple flavor., Add the wet ingredients to the dry ingredients and mix until you've formed a soft dough., Flour a piece of parchment (if you have one) or your work surface generously, and scrape the dough out of the mixing bowl onto the parchment or work surface. Divide the dough into three equal pieces., Working with one piece at a time, gently pat the dough into a circle about 3/4\" thick., Leave the circles on the parchment, and transfer it to a baking sheet. If you're not using parchment, gently transfer the circles to a lightly greased baking sheet., Using a sharp bench knife or rolling pizza wheel, divide each dough circle into eight wedges., Gently separate the wedges so that they're almost touching in the center, but are spaced about an inch apart at the edges., Preheat the oven to 425°F. Place the pan of scones into your refrigerator to chill while your oven is heating, for about 20 to 30 minutes. This will help their texture. If there's no room in your fridge, simply let them rest on the counter while your oven preheats., Bake the scones for 15 to 20 minutes, or until they're golden brown., Remove them from the oven, wait a couple of minutes, then gently separate the scones with a knife (they'll be very fragile), and carefully transfer them to a cooling rack., To make the glaze: Combine all of the glaze ingredients, stirring until smooth., When the scones are cool, drizzle them with the glaze., Store any leftover scones, well wrapped, at room temperature for several days. Freeze for longer storage."
+    ],
+    "notes": "",
+    "prepTime": "PT15M",
+    "cookTime": "PT18M",
+    "image": "85229d93-5bb6-44bd-941c-3d0fcfef7131_0.jpg"
   },
   {
     "name": "Perfectly Pillowy Cinnamon Rolls",
@@ -215,7 +805,49 @@
     ],
     "source": "https://www.kingarthurbaking.com/recipes/perfectly-pillowy-cinnamon-rolls-recipe",
     "source_url": "https://www.kingarthurbaking.com/recipes/perfectly-pillowy-cinnamon-rolls-recipe",
-    "rating": 5
+    "rating": 5,
+    "ingredients": [
+      "Tangzhong:",
+      "1/2 cup (113g) milk whole preferred",
+      "3 tablespoons (24g) King Arthur Unbleached Bread Flour",
+      "Dough:",
+      "2/3 cup (151g) milk cold whole preferred",
+      "2 1/2 cups (300g) King Arthur Unbleached Bread Flour",
+      "1 teaspoon (6g) table salt",
+      "2 tablespoons (25g) granulated sugar",
+      "2 teaspoons instant yeast",
+      "4 tablespoons (57g) unsalted butter softened",
+      "Filling:",
+      "1 tablespoon (14g) butter melted",
+      "1/2 cup (107g) light brown sugar packed",
+      "2 tablespoons (14g) King Arthur Unbleached Bread Flour",
+      "3 to 4 teaspoons (8g to 10g) cinnamon*",
+      "1/16 teaspoon table salt",
+      "Icing:",
+      "3 tablespoons (42g) butter melted divided",
+      "1/2 teaspoon King Arthur Pure Vanilla Extract",
+      "1/16 teaspoon table salt",
+      "1 1/2 cups (170g) confectioners' sugar sifted",
+      "1 to 2 tablespoons (14g to 28g) milk heavy cream or buttermilk enough to thin to desired consistency"
+    ],
+    "directions": [
+      "1. To make the tangzhong: Combine both the ingredients in a small saucepan, and whisk until no lumps remain., Place the saucepan over medium heat and cook the mixture, stirring regularly, until thickened, paste-like, and the spoon or spatula leaves lines on the bottom of the pan. This should take 1 to 3 minutes, depending on the strength of your burner.",
+      "2. Remove from the heat and transfer to a large mixing bowl, the bowl of a stand mixer, or the bucket of a bread machine (whatever you plan to knead the dough in)., To make the dough: Weigh your flour; or measure it by gently spooning it into a cup, then sweeping off any excess. Add the cold milk, then the flour and remaining ingredients to the mixing bowl in the order listed; the heat from the tangzhong will help to warm the cold milk., Mix — by hand, on low speed of a stand mixer with the dough hook attachment, or in a bread machine set to the dough cycle — to bring the dough together. Next, knead the dough until it’s smooth, elastic, and tacky. This will take up to 15 minutes by hand, 10 to 12 minutes on medium-low speed of a mixer, or the length of the dough cycle in a bread machine.",
+      "3. Shape the dough into a ball, place it in a bowl, and cover the bowl with plastic wrap or a reusable cover., Let the dough rise until puffy but not necessarily doubled in bulk, about 60 to 90 minutes (depending on the warmth of your kitchen).",
+      "4. To make the filling: While the dough is rising, put the melted butter into a medium bowl and add the remaining ingredients, stirring until the mixture is the texture of damp sand. Set aside., Lightly grease a baking sheet, or line it with parchment paper. , To assemble the cinnamon rolls: Transfer the dough to a lightly greased work surface and press it into a 10” x 12” rectangle that’s about 1/2” thick. For evenly shaped cinnamon rolls, try to pat the dough into an actual rectangle (with corners), rather than an oval. , Sprinkle the filling over the dough, covering all but a 1/2” strip along one long side.",
+      "5. Starting with the filling-covered long side, roll the dough into a log.",
+      "6. Score the dough lightly into eight equal 1 1/2” to 2” pieces; this will make large, saucer-sized cinnamon rolls — their generous size is part of their charm. Cut the dough at the score marks. Dental floss will give you the cleanest cut: pull off a long piece of floss, loop it underneath the log at the score mark, and pull the ends in opposite directions to cut the dough. Repeat until you've cut all of the cinnamon rolls. If you don’t have dental floss, a bench knife or sharp knife will work.",
+      "7. Place the cinnamon rolls onto the prepared baking sheet, spacing them so there’s at least 2” between each one and they’re 2” away from the edges of the pan; a 3-2-3 arrangement works well. To prevent them from unraveling while they rise and bake, tuck the ends of the spirals underneath the cinnamon rolls so that they’re held in place.",
+      "8. Cover the cinnamon rolls with lightly greased plastic wrap or a reusable cover and let them rise for 30 to 60 minutes (depending on the warmth of your kitchen). The cinnamon rolls should be puffy and the dough shouldn’t bounce back immediately when gently pressed.",
+      "9. About 20 minutes before you’re ready to bake, position a rack in the top third of the oven. Preheat the oven to 375°F., Bake the cinnamon rolls for 14 to 18 minutes, until they’re a light golden brown and a digital thermometer inserted into the center of one roll reads 190°F. Bake for the lesser amount of time for extra-soft cinnamon rolls, and the longer amount of time for cinnamon rolls with a bit more color and slightly firmer texture.",
+      "10. Remove the cinnamon rolls from the oven, place the pan on a rack, and brush the hot cinnamon rolls with 1 1/2 tablespoons (21g) of the melted butter. Let the cinnamon rolls cool for 10 to 15 minutes before icing.",
+      "11. To make the icing: Combine the remaining 1 1/2 tablespoons (21g) melted butter with the remaining icing ingredients in a medium bowl, mixing with a spatula until smooth. Milk makes a lovely frosting; using cream in place of milk creates an extra layer of richness, while substituting buttermilk adds subtle tang, a nice counterpoint to the icing's overall sweetness., Ice the cinnamon rolls and serve immediately. If you’re planning to serve the cinnamon rolls later, wait to ice them until just before serving. Store icing at room temperature, tightly covered, until you’re ready to use it.",
+      "12. Store completely cooled cinnamon rolls, un-iced and well wrapped, for a couple of days at room temperature; or freeze for up to 1 month."
+    ],
+    "notes": "",
+    "prepTime": "PT30M",
+    "cookTime": "PT18M",
+    "image": "16e976ac-1400-4e61-aa76-11a1e4738601_0.jpg"
   },
   {
     "name": "Rhubarb Bars",
@@ -224,7 +856,31 @@
       "Cookie"
     ],
     "source": "personal collection",
-    "rating": 0
+    "rating": 0,
+    "ingredients": [
+      "3 cups rhubarb",
+      "1/2 cup sugar",
+      "2 Tbls cornstarch dissolved in 1/4 c. water",
+      "1 tsp vanilla",
+      "1 ½ c. quick oats",
+      "1 ½ c. flour",
+      "1 cup brown sugar",
+      "1/4 tsp soda",
+      "1 cup margarine",
+      "½ cup chopped nuts"
+    ],
+    "directions": [
+      "Cook until thick. Add 1 tsp vanilla.",
+      "Mix in bowl: 1 ½ c. quick oats, 1 ½ c. flour, 1 cup brown sugar, 1/4 tsp soda, 1 cup margarine.",
+      "Cut together with pastry blender. Add ½ cup chopped nuts.",
+      "Put 4 dough in bottom of 9 x 13 pan.",
+      "Cover with filling. Top with remaining mixture.",
+      "Bake 350 degrees for 30 minutes."
+    ],
+    "notes": "",
+    "prepTime": "PT0S",
+    "cookTime": "PT30M",
+    "image": "d368ea6d-611a-4884-88ce-57531d2857a1_0.jpg"
   },
   {
     "name": "rich rice pudding",
@@ -235,7 +891,27 @@
       "Vegetarian"
     ],
     "source": "mad hungry men and boys",
-    "rating": 3
+    "rating": 3,
+    "ingredients": [
+      "1/4 cup currants or raisins (optional)",
+      "2 tablespoons golden rum (optional)",
+      "3 cups half-and-half or whole milk",
+      "1/2 cup rice, preferably jasmine or basmati",
+      "1/4 cup sugar",
+      "1/2 teaspoon coarse salt",
+      "1 teaspoon pure vanilla extract",
+      "1/2 teaspoon ground cinnamon",
+      "1/4 teaspoon ground nutmeg"
+    ],
+    "directions": [
+      "If using the currants, soak them in the rum in a small bowl.",
+      "Place the half-and-half, rice, sugar, salt, vanilla, cinnamon, and nutmeg in a medium saucepan. Bring to a boil, stirring constantly. Reduce the heat to low and simmer for 20 minutes, continuing to stir.",
+      "Drain the currants and stir them into the pudding, then cook for an additional 2 minutes, or until the rice is al dente. Spoon the pudding into bowls and serve immediately, or spread it into a serving dish, cover, and chill. Press plastic wrap directly on the surface of the pudding to prevent it from forming a skin (unless you like it!)."
+    ],
+    "notes": "",
+    "prepTime": "PT0S",
+    "cookTime": "PT20M",
+    "image": "a532eeac-d971-4290-aa4b-af8acd6ba9f9_0.jpg"
   },
   {
     "name": "Roman Apple Cake",
@@ -244,7 +920,42 @@
       "Cake"
     ],
     "source": "More with Less",
-    "rating": 3
+    "rating": 3,
+    "ingredients": [
+      "1 c. sugar",
+      "2 1/4 c. flour",
+      "1/4 t. salt",
+      "3/8 t. baking powder",
+      "1 1/2 t. soda",
+      "1/2 t. cloves",
+      "1 t. cinnamon",
+      "2/3 c. shortening (may use less)",
+      "2 eggs",
+      "2/3 c. milk",
+      "1/2 t. vanilla",
+      "3 c. raw apples, pared and chopped",
+      "Cover with topping",
+      "1 T. melted margarine",
+      "2 t. cinnamon",
+      "1/3 c. brown sugar",
+      "2 t. flour",
+      "1/2 c. chopped nuts or coconut (optional)",
+      "1/4 c. rolled oats"
+    ],
+    "directions": [
+      "Preheat oven to 350°.",
+      "Combine in mixing bowl: sugar, flour, salt, baking powder, soda, cloves, and cinnamon.",
+      "Beat in shortening, eggs, milk, and vanilla.",
+      "Add raw apples and mix well.",
+      "Pour into greased and floured 9x13\" pan.",
+      "Crumble together melted margarine, cinnamon, brown sugar, flour, chopped nuts or coconut, and rolled oats.",
+      "Cover the cake with the topping.",
+      "Bake for 35-40 minutes."
+    ],
+    "notes": "",
+    "prepTime": "PT40M",
+    "cookTime": "PT40M",
+    "image": "a7839ac4-4894-4103-89f0-cc6b03ad2a4f_0.jpg"
   },
   {
     "name": "Snowball Cookies Recipe",
@@ -254,7 +965,28 @@
     ],
     "source": "https://sallysbakingaddiction.com/snowball-cookies-recipe/",
     "source_url": "https://sallysbakingaddiction.com/snowball-cookies-recipe/",
-    "rating": 5
+    "rating": 5,
+    "ingredients": [
+      "1 cup (16 Tbsp; 226g) unsalted butter, softened to room temperature",
+      "3/4 cup (90g) confectioners’ sugar",
+      "2 teaspoons pure vanilla extract",
+      "2 and 1/4 cups (281g) all-purpose flour (spooned & leveled)",
+      "1/8 teaspoon salt (see note)",
+      "optional: 3/4 cup (100g) finely chopped and toasted walnuts",
+      "1 and 1/4 cups (150g) confectioners’ sugar"
+    ],
+    "directions": [
+      "1. In a large bowl using a handheld mixer or stand mixer fitted with a paddle attachment, beat the butter for 1 minute on medium speed until completely smooth and creamy. Add 3/4 cup (90g) confectioners’ sugar and beat on medium high speed until combined and creamy. Scrape down the sides and bottom of the bowl as needed. Next, beat in the vanilla extract on medium-high speed until combined. Switch to low speed and slowly add the flour and salt. The dough will look dry and you may not think the flour will fully combine. Once all of the flour is added, turn the mixer up to high speed. The dough will come together. Finally, beat in the chopped walnuts, if using.",
+      "2. Cover the cookie dough tightly and chill in the refrigerator for at least 30 minutes and up to 3 days. (If chilling for 3+ hours, make sure you let the cookie dough sit at room temperature for at least 30 minutes before rolling into balls. The cookie dough will be very stiff after being in the refrigerator for that long.)",
+      "3. Preheat oven to 350°F (177°C). Line 2 large baking sheets with parchment paper or silicone baking mats. Set aside. Pour the confectioners’ sugar needed for the coating into a shallow bowl.",
+      "4. Scoop or roll 1 Tablespoon (20g) of cookie dough per cookie. Roll into a ball and place on the baking sheets, at least 2 inches apart. Bake the cookies until golden brown on the bottom edges and just barely browned on top, about 15 minutes.",
+      "5. Allow the cookies to cool for 5 minutes on the baking sheet, then very gently roll them in the confectioners’ sugar to coat completely. Place the cookies on wire racks to cool completely. The confectioners’ sugar will melt a bit and get sticky; that’s ok. Once the cookies have completely cooled, roll in confectioners’ sugar again. This is when the sugar will really stick.",
+      "6. Cookies stay fresh covered at room temperature for up to 1 week."
+    ],
+    "notes": "Childhood Christmas cookie",
+    "prepTime": "PT45M",
+    "cookTime": "PT15M",
+    "image": "2f10b0ff-ee12-4ba8-a2ea-d426ba8f05c6_0.jpg"
   },
   {
     "name": "The Best Pecan Pie",
@@ -263,7 +995,28 @@
       "Pie"
     ],
     "source": "",
-    "rating": 5
+    "rating": 5,
+    "ingredients": [
+      "Dough for single-crust pie",
+      "1/2 cup butter",
+      "2-1/2 cups coarsely chopped pecans",
+      "3/4 cup packed brown sugar",
+      "3/4 cup maple syrup",
+      "1/2 teaspoon salt",
+      "3 large eggs, beaten",
+      "2 tablespoons whiskey or bourbon, optional",
+      "2 teaspoons vanilla extract",
+      "Optional: Whipped cream and ground cinnamon"
+    ],
+    "directions": [
+      "Preheat oven to 350°. On a lightly floured surface, roll dough to a 1/8-in.-thick circle; transfer to a 9-in. pie plate. Trim crust to 1/2 in. beyond rim of plate; flute edge. Refrigerate while preparing filling.",
+      "In a Dutch oven or large saucepan, melt butter over medium heat. Add pecans; cook, stirring constantly, until very fragrant and pecans start to brown, 4-5 minutes. Remove pecans with a slotted spoon, reserving butter in pan. Stir in brown sugar, maple syrup and salt; bring to a boil. Reduce heat; simmer for 2 minutes. Remove from the heat. In a bowl, whisk a small amount of the hot mixture into eggs; return all to the pan, whisking constantly. Stir whiskey, if desired, and vanilla into brown sugar mixture; stir in pecans.",
+      "Pour into crust. Bake until a knife inserted in the center comes out clean, 55-60 minutes. Cover edge with foil during the last 30 minutes to prevent overbrowning if necessary. Cool on a wire rack. If desired, top with whipped cream and cinnamon. Refrigerate leftovers."
+    ],
+    "notes": "",
+    "prepTime": "PT15M",
+    "cookTime": "PT55M",
+    "image": "5d3abbd8-b299-48f7-8f97-86e0eebc1bf6_0.jpg"
   },
   {
     "name": "whole wheat chocolate oat cookies",
@@ -273,6 +1026,31 @@
     ],
     "source": "https://smittenkitchen.com/2020/09/whole-wheat-chocolate-oat-cookies/",
     "source_url": "https://smittenkitchen.com/2020/09/whole-wheat-chocolate-oat-cookies/",
-    "rating": 4
+    "rating": 4,
+    "ingredients": [
+      "4 tablespoons (50 grams) raw or turbinado sugar",
+      "1/2 cup dark (95 grams) light or dark brown sugar",
+      "1/2 cup (115 grams) unsalted butter, at room temperature for a hand-mixer; cold is fine for a stand-mixer",
+      "1/2 teaspoon fine sea salt",
+      "1 large egg",
+      "3/4 teaspoon vanilla extract",
+      "1/2 teaspoon baking soda",
+      "3/4 teaspoon baking powder",
+      "3/4 cup (95 grams) whole wheat flour",
+      "1/4 cup (25 grams) wheat germ, wheat bran, oat bran, or a finely chopped nut of your choice (I like walnuts)",
+      "1 1/2 cups (120 grams) old-fashioned rolled oats",
+      "1 cup (6 ounces) chocolate chips, or semisweet chocolate, chopped into chunks",
+      "Flaky sea salt, if you wish"
+    ],
+    "directions": [
+      "1. Heat oven to 350 degrees F and line a large baking sheet with parchment paper.",
+      "2. In a large bowl, beat sugars, butter (if cold, in chunks), and salt together until fluffy. Add egg and vanilla, and beat until mixed. Sprinkle baking powder and baking soda over batter and beat until very well-combined, then a few more times around the bowl. Scrape bowl down. Add flour, wheat germ, oats, and chocolate and mix just until the flour disappears.",
+      "3. Arrange 3-tablespoon mounds of cookies 3 inches apart on the baking sheet. Sprinkle each with a couple flakes of sea salt. Bake for 12 to 14 minutes. Cookies will be golden brown all over. Remove from oven and let set up on the baking sheet for 5 minutes before transferring them to a cooling rack.",
+      "4. Extra dough will keep in fridge for 3 days, and longer in the freezer. I like to scoop then freeze it on a tray; once solid, I’ll pack them tightly in a freezer bag. You can bake them directly from the freezer; it usually only takes 1 to 2 minutes longer. Cookies baked from cold will spread less."
+    ],
+    "notes": "",
+    "prepTime": "PT20M",
+    "cookTime": "PT15M",
+    "image": "ad5cb250-b42c-4e25-b7a9-85014c6139e3_0.jpg"
   }
 ]

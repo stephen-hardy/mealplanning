@@ -8,7 +8,40 @@
       "Soup"
     ],
     "source": "one and done",
-    "rating": 5
+    "rating": 5,
+    "ingredients": [
+      "1¼ pounds 93% lean ground beef",
+      "2 sprigs of fresh thyme",
+      "3/4 teaspoon kosher salt",
+      "1 teaspoon Worcestershire sauce",
+      "3/4 cup chopped onion",
+      "2 tablespoons tomato paste",
+      "2 tablespoons chicken bouillon",
+      "5 ounces egg noodles",
+      "1/2 cup sour cream",
+      "8 ounces sliced cremini mushrooms",
+      "1 teaspoon sweet paprika",
+      "2 tablespoons all-purpose flour",
+      "parsley, for garnish"
+    ],
+    "directions": [
+      "Press the sauté button on an electric pressure cooker. When hot, add the ground beef and salt and brown the meat, using a wooden spoon to break it into small pieces as it cooks, about 5 minutes.",
+      "Add the onion and tomato paste and cook, stirring, until the onion is softened, 4 to 5 minutes.",
+      "Add the mushrooms, sprinkle with the flour, and cook, stirring, for 1 minute to cook the flour.",
+      "Add the thyme, Worcestershire sauce, bouillon, paprika, and 7½ cups water.",
+      "Seal and cook on high pressure for 25 minutes, until the meat is tender.",
+      "Quick release, then open when the pressure subsides.",
+      "Discard the thyme and stir in the noodles.",
+      "Seal and cook for 2 minutes on high pressure, until the pasta is tender and cooked.",
+      "Quick release, then open when the pressure subsides.",
+      "Put 1 cup of the broth into a blender, add the sour cream, and blend until smooth.",
+      "Pour the puree into the soup and stir well.",
+      "Garnish with parsley and serve."
+    ],
+    "notes": "Add 50% more ingredients",
+    "prepTime": "PT40M",
+    "cookTime": "PT45M",
+    "image": "fac3c3e7-8744-456d-9fbf-c0401cc314c0_0.jpg"
   },
   {
     "name": "Beef, Tomato, and Acini di Pepe Soup",
@@ -19,7 +52,35 @@
       "Soup"
     ],
     "source": "one and done",
-    "rating": 0
+    "rating": 0,
+    "ingredients": [
+      "1 pound 90% lean ground beef",
+      "1 1/2 teaspoons kosher salt",
+      "1/2 cup chopped onion",
+      "1/2 cup chopped celery",
+      "1/2 cup chopped carrot",
+      "1 (28-ounce) can diced tomatoes",
+      "4 cups beef stock",
+      "2 bay leaves",
+      "4 ounces acini di pepe",
+      "Freshly grated Pecorino Romano cheese"
+    ],
+    "directions": [
+      "Press the sauté button on an electric pressure cooker. When hot, add the ground beef and salt and brown the meat, using a wooden spoon to break it into small pieces as it cooks, 4 to 5 minutes.",
+      "Add the onion, celery, and carrot and cook, stirring, until softened, 3 to 4 minutes.",
+      "Add the tomatoes, beef stock, and bay leaves.",
+      "Seal and cook on high pressure for 35 minutes, until the beef and vegetables are tender.",
+      "Quick or natural release, then open when the pressure subsides.",
+      "Stir in the pasta.",
+      "Seal and cook on high pressure for 6 minutes, until the pasta is cooked.",
+      "Quick or natural release, then open when the pressure subsides.",
+      "Remove the bay leaves and ladle into 6 bowls, topped with the pecorino to serve.",
+      "To make this in a large pot or Dutch oven, sauté over medium-high heat in step 1. Add 1/4 cup water with the stock. Bring to a boil, then cook, covered, on low heat."
+    ],
+    "notes": "",
+    "prepTime": "PT0S",
+    "cookTime": "PT41M",
+    "image": "58188c7e-2724-4a90-8c69-05de5e395b3b_0.jpg"
   },
   {
     "name": "Cabbage Roll Soup",
@@ -32,7 +93,39 @@
     ],
     "source": "https://www.sparklestosprinkles.com/instant-pot-cabbage-roll-soup/",
     "source_url": "https://www.sparklestosprinkles.com/instant-pot-cabbage-roll-soup/",
-    "rating": 5
+    "rating": 5,
+    "ingredients": [
+      "1 TBSP Olive Oil",
+      "1 large onion diced",
+      "3 cloves garlic minced",
+      "1 lb lean ground beef (FOR FREEZER MEAL: 1 bag cooked ground beef)",
+      "2/3 cup uncooked long grain rice",
+      "5 cups cabbage chopped",
+      "1 28 ounce can diced tomatoes",
+      "1 10 oz can tomato soup",
+      "5 cups beef broth",
+      "1 1/2 cups V8 or other vegetable juice",
+      "1 teaspoon paprika",
+      "1 teaspoon thyme",
+      "1 tablespoon Worcestershire sauce",
+      "1 lb cooked and drained bacon for garnish"
+    ],
+    "directions": [
+      "1. Turn Instant Pot on to SAUTE and add olive oil.",
+      "2. Add the onion and garlic, and cook 2-3 minutes.",
+      "3. Add ground beef, brown the meat.",
+      "4. Once browned, hit CANCEL.",
+      "5. Carefully pour off any excess grease.",
+      "6. Add remaining ingredients. Stir ingredients to combine.",
+      "7. Close the pressure cooking lid, make sure it’s in the sealing position and turn toggle to seal.",
+      "8. Press Pressure (it should automatically set to HIGH pressure, change to low pressure). Set time to 12 minutes, low pressure. Hit START. When finished do a quick release.",
+      "9. Open the pot and stir everything together. Season with salt and pepper, to taste.",
+      "10. Garish with cooked bacon."
+    ],
+    "notes": "",
+    "prepTime": "PT10M",
+    "cookTime": "PT45M",
+    "image": "a9910358-3a03-42f7-babc-bcfbcd32ffbf_0.jpg"
   },
   {
     "name": "Cheesy Meatball Sub Soup",
@@ -44,7 +137,58 @@
     ],
     "source": "https://instafreshmeals.com/instant-pot-meatball-sub-soup/",
     "source_url": "https://instafreshmeals.com/instant-pot-meatball-sub-soup/",
-    "rating": 5
+    "rating": 5,
+    "ingredients": [
+      "1/2 cup whole wheat panko breadcrumbs (any breadcrumb is fine)",
+      "1/4 cup milk (any kind)",
+      "1 pound lean ground turkey or beef",
+      "1/4 cup freshly grated parmesan cheese",
+      "1 egg",
+      "1 clove garlic, minced",
+      "1 teaspoon dried parsley",
+      "1 teaspoon dried onion flakes (or 1 tablespoon chopped onion)",
+      "1/2 teaspoon dried oregano",
+      "1/4 teaspoon fennel seeds, crushed by hand (optional, but delicious)",
+      "1/4 teaspoon crushed red pepper flakes",
+      "1 teaspoon kosher salt",
+      "1/2 teaspoon black pepper",
+      "1 tablespoon oil",
+      "1 small sweet or yellow onion, diced",
+      "2 garlic cloves, minced",
+      "4 cups low sodium chicken broth",
+      "1 28 ounce can crushed tomatoes",
+      "1/4 cup fresh basil, torn (or 1 1/2 teaspoon dried basil)",
+      "1 1/2 teaspoon Italian seasoning",
+      "1/2 teaspoon dried oregano",
+      "1/4 teaspoon red pepper flakes",
+      "1 teaspoon kosher salt",
+      "1 teaspoon black pepper",
+      "small parmesan rind (optional)",
+      "2 cups coarsely chopped fresh spinach",
+      "shredded mozzarella and parmesan for topping"
+    ],
+    "directions": [
+      "1. In a large mixing bowl, combine panko and milk.",
+      "2. Add ground meat, parmesan, egg, garlic, parsley, onion flakes, oregano, fennel, red pepper flakes, salt, and pepper.  Gently mix by hand until combined.",
+      "3. Using a small cookie scoop (about 2 teaspoons) form meat into tight balls.  Set aside on a plate or piece of foil.",
+      "4. Select saute on the pressure cooker and add oil.  When hot, add onion and saute until softened, 4 – 5 minutes.  Add garlic and stir for 1 minute.",
+      "5. Add broth, crushed tomatoes, basil, Italian seasoning, oregano, red pepper flakes, salt, pepper, and parmesan rind (if using), stir.",
+      "6. Gently add meatballs to the pot.",
+      "7. Secure the lid and turn pressure release knob to a sealed position.  Cook at high pressure for 3 minutes.",
+      "8. When cooking is complete, use a quick release.",
+      "9. Remove what’s leftover from the parmesan rind and add spinach to the hot soup and stir in to wilt.",
+      "10. To serve, ladle into bowls and top with a mixture of mozzarella and parmesan cheese.",
+      "11. To really take it over the top, use oven safe bowls and place it under the broiler until the cheese is golden brown.",
+      "12. Serve with toasted slices of bread for dipping and scooping!",
+      "13. Freezer Instructions",
+      "14. To make this a quick freezer meal, I like to double the meatball ingredients, form the meatballs, and freeze them on a sheet pan.  Once frozen, place them in a freezer safe ziplock.",
+      "15. When ready to cook, add meatballs to the soup ingredients and cook for 5 minutes instead of 3 minutes.",
+      "16. You can also saute twice the amount of onions and garlic and freeze half of them as well so they are ready to simply throw into the pot with the cooking liquid and frozen meatballs."
+    ],
+    "notes": "Use premade meatballs.",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "image": "52c27def-197f-441b-8e5d-7d3e44111d53_0.jpg"
   },
   {
     "name": "Chinese Savory Beef",
@@ -55,7 +199,38 @@
       "Rice"
     ],
     "source": "More with Less",
-    "rating": 3
+    "rating": 3,
+    "ingredients": [
+      "2 T. oil or minced fat from beef",
+      "2 lb. lean beef, cut in 1½\" squares",
+      "3 scallions, chopped",
+      "1 onion, chopped",
+      "2 cloves garlic, crushed",
+      "2 thin slices ginger (optional)",
+      "1/2 c. soy sauce",
+      "2 T. brown sugar",
+      "1/8 t. pepper",
+      "3 c. water",
+      "Option",
+      "1/2 lb. vegetables, such as green pepper",
+      "mushrooms",
+      "carrots"
+    ],
+    "directions": [
+      "Heat oil in heavy skillet or Dutch oven.",
+      "Add meat and quick-fry until brown.",
+      "Add onion, garlic, and ginger and quick-fry a few minutes.",
+      "Add sauce stuff.",
+      "Bring to a boil. Reduce heat, cover, and simmer 3 hours.",
+      "Add more liquid if needed.",
+      "Just before serving thicken with small amount flour if desired.",
+      "Serve over rice or noodles.",
+      "20-30 minutes before serving add vegetables."
+    ],
+    "notes": "",
+    "prepTime": "PT20M",
+    "cookTime": "PT3H",
+    "image": "b94e8ed0-4ffb-4333-902d-8498334c9a9e_0.jpg"
   },
   {
     "name": "Dump and Go Meatball Soup",
@@ -67,7 +242,36 @@
     ],
     "source": "https://www.sixsistersstuff.com/recipe/instant-pot-dump-and-go-meatball-soup-recipe/",
     "source_url": "https://www.sixsistersstuff.com/recipe/instant-pot-dump-and-go-meatball-soup-recipe/",
-    "rating": 3
+    "rating": 3,
+    "ingredients": [
+      "2 Tablespoons extra virgin olive oil",
+      "2 Tablespoons butter",
+      "1 onion (diced)",
+      "6 garlic cloves (minced)",
+      "4 cups beef broth",
+      "3 Tablespoons tomato paste",
+      "4 large carrots (diced)",
+      "6 celery stalks (diced)",
+      "1 ounce packet dry ranch dressing mix",
+      "29 ounces canned crushed tomatoes (2 (14.5ounce cans))",
+      "32 ounces frozen meatballs",
+      "shredded Mozzarella cheese or parmesan cheese (optional garnish)",
+      "thinly sliced green onions (optional garnish)"
+    ],
+    "directions": [
+      "1. Plug in your Instant Pot and press SAUTE button. Once pot heats up, add oil and butter.",
+      "2. Add diced onion and cook for 2-3 minutes until onions are translucent. Add in garlic and saute for 30 seconds more.",
+      "3. Add beef broth then stir in tomato paste, carrots, celery, and ranch seasoning.",
+      "4. Now add frozen meatballs and top with crushed tomatoes.",
+      "5. Close and lock the lid.",
+      "6. Press PRESSURE COOK button and set a timer for 7 minutes. Allow 10 to 15 minutes for the pressure to build.",
+      "7. Once the cook time is complete, do a QUICK RELEASE of the pressure by turning the knob to VENTING.",
+      "8. Portion soup into serving bowls and enjoy!"
+    ],
+    "notes": "Serve over pasta or rice.",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "image": "a849c589-784f-4e43-907a-a0b244bec4f0_0.jpg"
   },
   {
     "name": "Egg Roll Bowls",
@@ -82,7 +286,28 @@
     ],
     "source": "https://www.sixsistersstuff.com/recipe/instant-pot-egg-roll-bowls/",
     "source_url": "https://www.sixsistersstuff.com/recipe/instant-pot-egg-roll-bowls/",
-    "rating": 3
+    "rating": 3,
+    "ingredients": [
+      "1 pound ground pork ( (or ground turkey or ground beef))",
+      "1 Tablespoon soy sauce",
+      "1 Tablespoon garlic powder",
+      "1 Tablespoon ground ginger",
+      "½ teaspoon pepper",
+      "½ teaspoon salt",
+      "1 bag coleslaw mix",
+      "½ cup chicken broth"
+    ],
+    "directions": [
+      "1. On the Instant Pot, press the Sauté button. Wait until it's hot and then add pork. Add seasonings and soy sauce and brown meat. Drain extra fat from meat if needed.",
+      "2. Turn Instant Pot off and add chicken broth. Add bag of coleslaw mix on top and DO NOT stir. Lock lid in place and turn knob to sealing position.",
+      "3. Press the Manual or Pressure Cook button and set for 0 minutes.",
+      "4. When timer is up, preform a quick release. Open carefully and give everything a quick stir.",
+      "5. Dish into bowls, drizzle with favorite sauce, and serve!"
+    ],
+    "notes": "Any meat is fine. Store with seasonings not touching the meat.",
+    "prepTime": "PT10M",
+    "cookTime": "PT5M",
+    "image": "fc686c78-63b8-4438-acce-746ddda90f5b_0.jpg"
   },
   {
     "name": "Flatbread pizza",
@@ -96,7 +321,19 @@
       "Vegetarian"
     ],
     "source": "",
-    "rating": 0
+    "rating": 0,
+    "ingredients": [
+      "Flat pita bread",
+      "Spaghetti sauce or marinara",
+      "Veggies, sautéed",
+      "Cheese",
+      "Toppings"
+    ],
+    "directions": [],
+    "notes": "",
+    "prepTime": "PT0S",
+    "cookTime": "PT0S",
+    "image": null
   },
   {
     "name": "Gochujang Skirt Steak and Noodles with Kimchi",
@@ -106,7 +343,30 @@
       "Noodle"
     ],
     "source": "cookish",
-    "rating": 3
+    "rating": 3,
+    "ingredients": [
+      "1 pound skirt steak, trimmed",
+      "5 tablespoons gochujang, divided (3 is plenty)",
+      "Kosher salt",
+      "1 tablespoon neutral oil",
+      "1 tablespoon mirin",
+      "2 teaspoons toasted sesame oil, plus more to serve",
+      "1½ cups drained napa cabbage kimchi, roughly chopped, plus 3 tablespoons kimchi juice",
+      "10 ounces dried non-instant ramen or lo mein noodles, cooked, drained and rinsed"
+    ],
+    "directions": [
+      "Rub the steak with 2 tablespoons of gochujang and season with 2 teaspoons salt, then cut into 3-inch sections.",
+      "In a 12-inch skillet, heat the neutral oil until shimmering.",
+      "Add the steak and brown well on both sides. Transfer to a plate.",
+      "In a large bowl, whisk together the remaining gochujang, mirin, sesame oil and kimchi juice.",
+      "Thinly slice the steak against the grain and add to the bowl along with any juices, the noodles and kimchi, then toss.",
+      "Season with salt and drizzle with additional sesame oil.",
+      "Optional garnish: Thinly sliced cucumber or thinly sliced scallions OR both."
+    ],
+    "notes": "",
+    "prepTime": "PT25M",
+    "cookTime": "PT0S",
+    "image": "cf7d6aa2-28bd-4d6d-ae32-9e4c28fa7157_0.jpg"
   },
   {
     "name": "Ground Beef Stroganoff",
@@ -117,7 +377,37 @@
     ],
     "source": "https://ifoodreal.com/instant-pot-ground-beef-stroganoff/",
     "source_url": "https://ifoodreal.com/instant-pot-ground-beef-stroganoff/",
-    "rating": 0
+    "rating": 0,
+    "ingredients": [
+      "1 lb ground beef, turkey or chicken",
+      "1 tbsp oil",
+      "1 medium onion (chopped)",
+      "4 garlic cloves (minced)",
+      "3 cups beef broth",
+      "1 tsp dried thyme",
+      "1 tsp salt",
+      "Ground black pepper (to taste)",
+      "1 lb brown mushrooms (sliced)",
+      "1 lb 4 cups dry short pasta",
+      "1 cup plain yogurt (2%+ fat content)",
+      "1 cup 2% or 3.25% milk",
+      "3 tbsp parsley (finely chopped (for garnish))"
+    ],
+    "directions": [
+      "1. On Instant Pot, press Saute and wait until display says Hot. Takes 3-5 mins. Swirl oil to coat if cooking ground chicken or turkey. No need for oil if cooking with ground beef.",
+      "2. Add ground meat of choice and cook for about 5 minutes, constantly breaking into small pieces and stirring. Add onion and garlic half way through.",
+      "3. Add broth, thyme, salt, pepper and stir to deglaze the pot if you see burnt bits on the bottom.",
+      "4. Press Cancel and add mushrooms and pasta. Stir.",
+      "5. Close the lid and move pressure valve to Sealing, and press Pressure Cook on High for 5 minutes.",
+      "6. Release pressure using Quick Release method - turn pressure valve to Venting. Pasta might appear a bit undercooked only on top, don't worry.",
+      "7. Add 1 cup yogurt and 1 cup milk, stir, cover and let stroganoff sit for 10 minutes to create the sauce.",
+      "8. Open the lid and adjust thickness to taste with more milk and/or yogurt, if desired.",
+      "9. Sprinkle with parsley, stir and serve warm."
+    ],
+    "notes": "",
+    "prepTime": "PT5M",
+    "cookTime": "PT35M",
+    "image": "d8ceddb2-e43a-4cfc-ab65-9c30c5643b9c_0.jpg"
   },
   {
     "name": "Lasagna",
@@ -128,7 +418,13 @@
       "Pasta"
     ],
     "source": "",
-    "rating": 5
+    "rating": 5,
+    "ingredients": [],
+    "directions": [],
+    "notes": "",
+    "prepTime": "PT45M",
+    "cookTime": "PT1H",
+    "image": null
   },
   {
     "name": "Little Cheddar Meat Loaves",
@@ -137,7 +433,31 @@
       "Beef"
     ],
     "source": "taste of home",
-    "rating": 4
+    "rating": 4,
+    "ingredients": [
+      "1 egg",
+      "3/4 C. milk",
+      "1 C. shredded cheddar cheese",
+      "1/2 C. oats",
+      "1/2 C. Chopped onion",
+      "1 tsp. salt",
+      "1 lb ground beef",
+      "2/3 C. ketchup",
+      "1/2 C. brown sugar",
+      "1/2 tsp. mustard"
+    ],
+    "directions": [
+      "Beat 1 egg and 3/4 C. milk.",
+      "Add 1 C. shredded chedar cheese, 1/2 C. oats, 1/2 C. Chopped onion, and 1 tsp. salt.",
+      "Mix in 1 lb ground beef and shape into 8 small loaves.",
+      "Place in a 9\"x13\" pan.",
+      "Mix together 2/3 C. ketchup, 1/2 C. brown sugar, and 1/2 tsp. mustard and spoon over loaves.",
+      "Bake uncovered at 350° for 45 min."
+    ],
+    "notes": "",
+    "prepTime": "PT0S",
+    "cookTime": "PT45M",
+    "image": "29592a87-06c3-461a-9047-2a38ca504a1b_0.jpg"
   },
   {
     "name": "MAKE-IT-MINE POTPIE",
@@ -149,7 +469,60 @@
       "Sausage"
     ],
     "source": "better homes",
-    "rating": 0
+    "rating": 0,
+    "ingredients": [
+      "BASIC INGREDIENTS",
+      "1 pound Ground Meat or 2 cups Cooked Meat",
+      "1 9- to 10-ounce package Frozen Vegetables (about 2 cups)",
+      "1 10- to 104-ounce can condensed soup Base or 1½ cups gravy or pasta sauce Base",
+      "1 teaspoon Seasoning",
+      "½ cup water (optional)",
+      "½ cup Cheese (optional)",
+      "Topper",
+      "Milk",
+      "Grated Parmesan cheese (optional)",
+      "GROUND MEAT OR COOKED MEAT (PICK ONE)",
+      "Ground beef",
+      "Ground pork, bulk pork sausage, or Italian sausage",
+      "Cooked chicken",
+      "Cooked turkey",
+      "FROZEN VEGETABLES (PICK ONE)",
+      "Baby mixed beans and carrots",
+      "Mixed vegetables",
+      "Peas and carrots",
+      "Peas and pearl onions",
+      "Stew vegetables",
+      "BASE (PICK ONE)",
+      "Condensed soup (cream of celery, chicken, mushroom, onion, or potato)",
+      "Canned or jarred gravy (beef, brown with mushrooms, chicken, country-style, golden pork, mushroom, or turkey)",
+      "Bottled Alfredo pasta sauce",
+      "SEASONING (PICK ONE)",
+      "Chili powder",
+      "Curry powder",
+      "Dried dillweed",
+      "Dried tarragon, crushed",
+      "Dried thyme, crushed",
+      "Ground chipotle chile pepper",
+      "Italian seasoning",
+      "CHEESE (PICK ONE)",
+      "Cheddar, Monterey Jack, or Mozzarella cheese",
+      "TOPPER (PICK ONE)",
+      "½ of a 17.3-ounce package frozen puff pastry sheets (1 sheet)",
+      "1/2 of a 15-ounce package rolled refrigerated unbaked piecrust (1)",
+      "1 7.5-ounce package refrigerated biscuits (10)",
+      "1 8-ounce package refrigerated crescent rolls (8)"
+    ],
+    "directions": [
+      "Preheat oven to 400°F. If using Ground Meat, in a large skillet cook meat until no longer pink. Drain fat; discard. In large skillet combine Ground or Cooked Meat, Frozen Vegetables, Base, and Seasoning. Bring meat mixture to boiling. Add water, if needed, for desired consistency. If desired, stir in Cheese. Transfer meat mixture to a 2-quart round casserole or baking dish.",
+      "For Topper, if using pastry sheet or piecrust, unfold pastry sheet or unroll piecrust. On a lightly floured surface roll pastry sheet or piecrust to 1 inch beyond edge of casserole. Place pastry on top of casserole. Trim pastry evenly with casserole edge, leaving 1 inch excess pastry. Fold excess pastry under, even with casserole edge. Press pastry along edges to seal.",
+      "If using biscuits or crescent rolls, quarter individual pieces and arrange over filling.",
+      "Brush Topper lightly with milk and, if desired, sprinkle with additional Seasoning or grated Parmesan cheese.",
+      "Bake, uncovered, for 22 to 25 minutes or until golden brown and bubbly. Let stand for 20 minutes before serving."
+    ],
+    "notes": "",
+    "prepTime": "PT25M",
+    "cookTime": "PT22M",
+    "image": "70da35d7-13dc-4a80-b5ec-ae3ea69c3804_0.jpg"
   },
   {
     "name": "Pizza Rice Casserole",
@@ -161,7 +534,38 @@
       "Rice"
     ],
     "source": "More with Less",
-    "rating": 4
+    "rating": 4,
+    "ingredients": [
+      "Cook:",
+      "2/3 c. rice or use 2 cups cooked rice",
+      "Brown in skillet:",
+      "3/4 lb. ground beef",
+      "1 onion, chopped",
+      "Add:",
+      "2 c. tomato sauce",
+      "1/4 t. garlic salt",
+      "1 t. sugar",
+      "1 t. salt",
+      "dash pepper",
+      "1/4 t. oregano",
+      "1 t. parsley flakes",
+      "Combine",
+      "1½ c. cottage cheese",
+      "cooked rice",
+      "Sprinkle with 1/2 c. shredded cheese"
+    ],
+    "directions": [
+      "Brown in large skillet the ground beef and chopped onion.",
+      "Add the tomato sauce, garlic salt, sugar, salt, pepper, oregano, and parsley flakes. Cover and simmer for 15 minutes.",
+      "Combine the cottage cheese with the cooked rice.",
+      "Put ⅓ of the rice mixture in a buttered 2 qt. casserole. Top with ⅓ of the meat-tomato sauce. Continue to alternate layers, ending with tomato sauce.",
+      "Sprinkle with shredded cheese.",
+      "Bake at 325° for 30 minutes, or until hot and bubbly."
+    ],
+    "notes": "Double for a 9x13” pan.",
+    "prepTime": "PT30M",
+    "cookTime": "PT30M",
+    "image": "99723287-b8b3-4b99-9561-8c044e8fb9c4_0.jpg"
   },
   {
     "name": "Ravioli Lasagna Soup",
@@ -175,7 +579,39 @@
     ],
     "source": "https://www.sixsistersstuff.com/recipe/instant-pot-ravioli-lasagna-soup-recipe/",
     "source_url": "https://www.sixsistersstuff.com/recipe/instant-pot-ravioli-lasagna-soup-recipe/",
-    "rating": 0
+    "rating": 0,
+    "ingredients": [
+      "1 pound ground sausage (turkey sausage works great too)",
+      "1 yellow onion (diced)",
+      "2 cloves garlic (minced)",
+      "1 zucchini (finely diced)",
+      "1 green pepper (finely diced)",
+      "1 can (28 ounces) crushed tomatoes",
+      "1 can (14.5 ounces) petite diced tomatoes",
+      "1 can (6 ounces) tomato paste",
+      "1 can (10.75 ounces) tomato condensed soup",
+      "1 teaspoon white sugar",
+      "1 1/2 teaspoon dried basil",
+      "1 teaspoon Italian seasoning",
+      "1/2 Tablespoon salt",
+      "ground black pepper (to taste)",
+      "4 cups beef broth",
+      "1 package (20 ounces) frozen mini cheese-filled ravioli",
+      "shredded parmesan cheese (optional garnish)",
+      "fresh basil (optional garnish)"
+    ],
+    "directions": [
+      "1. Turn your pot on to SAUTE. When it's hot, add the ground sausage and saute for about 5 minutes, crumbling as you. Add the onion and garlic to the sausage and saute for another 5 minutes.",
+      "2. Add in  zucchini, green pepper, tomatoes, tomato paste, tomato soup, sugar, dried basil, Italian seasoning, salt, and pepper. Mix well with the meat and onions.",
+      "3. Pour the beef broth on top of everything. The pour in the frozen ravioli - but don't stir it in (pasta tends to stick to the bottom of the pot and will give you a burn notice, which is why you add it last and let it float at the top).",
+      "4. Place the lid on top and lock into place. Turn the valve to SEALING. Select MANUAL (or Pressure Cook). Set the time for 2 minutes.",
+      "5. When cooking ends, carefully turn the valve to VENTING to do a quick release of the pressure. Remove the lid.",
+      "6. Mix the ravioli in with the other soup ingredients. Serve each bowl of soup topped with freshly grated parmesan cheese and fresh basil."
+    ],
+    "notes": "",
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "image": "0359a544-6685-424e-9b14-653f327790c9_0.jpg"
   },
   {
     "name": "Spaghetti",
@@ -186,7 +622,32 @@
     ],
     "source": "https://kristineskitchenblog.com/instant-pot-spaghetti/",
     "source_url": "https://kristineskitchenblog.com/instant-pot-spaghetti/",
-    "rating": 5
+    "rating": 5,
+    "ingredients": [
+      "1 pound lean ground beef (or ground turkey)",
+      "4 cups water",
+      "2 teaspoons Italian seasoning",
+      "1 teaspoon garlic powder",
+      "¾ teaspoon salt",
+      "¼ teaspoon black pepper",
+      "16 ounces uncooked spaghetti (white or whole wheat)",
+      "15 ounce can tomato sauce",
+      "25 ounce jar marinara sauce (see note below)"
+    ],
+    "directions": [
+      "1. Turn on the Instant Pot sauté function and add the ground beef. Cook, crumbling with a spoon or spatula, until browned. Turn the Instant Pot off. Drain off any excess grease.",
+      "2. Add the water, Italian seasoning, garlic powder, salt and pepper. Stir until well combined, scraping up any browned bits from the bottom of the pot.",
+      "3. Take small handfuls of the spaghetti noodles, break them in half, and lay them in the pot arranged in different directions (to prevent the spaghetti from sticking together). Do not stir.",
+      "4. Pour the tomato sauce and marinara sauce over the spaghetti. Do not stir.",
+      "5. Close Instant Pot lid and move the steam valve to the sealing position.",
+      "6. Pressure cook at high pressure for 7 minutes if using regular white spaghetti with a package cook time of 9-11 minutes. Pressure cook at high pressure for 5 minutes if using whole wheat spaghetti with a package cook time of 7-9 minutes. The Instant Pot will take about 15-20 minutes to come to pressure and then the cook time will start counting down.",
+      "7. As soon as the cook time ends, do a quick release (carefully move the steam release valve to the venting position. Then wait for all of the steam to escape and the pin to drop down).",
+      "8. Remove the lid, stir. You will see some liquid in the pot. This will absorb after just a few minutes. Let the pasta rest for 3-5 minutes and then serve."
+    ],
+    "notes": "Meatballs work great.",
+    "prepTime": "PT10M",
+    "cookTime": "PT30M",
+    "image": "8b479bae-d741-424f-98eb-d553bbf4d6d4_0.jpg"
   },
   {
     "name": "Stuffed Pepper Soup",
@@ -197,7 +658,28 @@
       "Vegetable"
     ],
     "source": "taste of home 1997",
-    "rating": 0
+    "rating": 0,
+    "ingredients": [
+      "2 pounds ground beef",
+      "2 quarts water",
+      "1 can (28 ounces) diced tomatoes, undrained",
+      "1 can (28 ounces) tomato sauce",
+      "2 cups cooked long grain white rice",
+      "2 cups chopped green pepper",
+      "2 beef bouillon cubes",
+      "1/4 cup packed brown sugar",
+      "2 teaspoons salt",
+      "1 teaspoon pepper"
+    ],
+    "directions": [
+      "In a large saucepan or Dutch oven, brown beef; drain.",
+      "Add remaining ingredients; bring to a boil.",
+      "Reduce heat; cover and simmer for 30-40 minutes or until peppers are tender."
+    ],
+    "notes": "",
+    "prepTime": "PT0S",
+    "cookTime": "PT40M",
+    "image": "1fde5304-2359-4d7f-8c47-d6bbe8289db0_0.jpg"
   },
   {
     "name": "Unstuffed Cabbage Bowls",
@@ -209,7 +691,32 @@
       "Vegetable"
     ],
     "source": "skinny taste one and done",
-    "rating": 3
+    "rating": 3,
+    "ingredients": [
+      "Olive oil spray",
+      "1 pound 93% lean ground beef",
+      "1/2 teaspoons kosher salt",
+      "1 cup chopped onion",
+      "1 garlic clove, minced",
+      "1 tablespoon dried marjoram",
+      "Freshly ground black pepper",
+      "1 (8-ounce) can tomato sauce",
+      "1 cup reduced-sodium beef broth",
+      "2 tablespoons raisins",
+      "1/2 teaspoon Hungarian paprika",
+      "1 cup uncooked short-grain brown rice",
+      "9 cups chopped cabbage"
+    ],
+    "directions": [
+      "Press the sauté button on an electric pressure cooker. Spray the pot with oil, then add the beef and 1 teaspoon of the salt. Brown the meat, using a wooden spoon to break it into small pieces as it cooks, about 5 minutes. Add the onion, garlic, marjoram, and pepper to taste. Stir in the tomato sauce, beef broth, raisins, and paprika. Turn the pressure cooker off.",
+      "Place the rice, 1¼ cups water, and the remaining 1/2 teaspoon salt in a heatproof bowl and stir. Set the steaming rack/trivet over the meat, then place the bowl on top of the rack.",
+      "Seal and cook on high pressure for 27 minutes, until the rice is cooked and the liquid is absorbed. Natural release for 10 minutes, then open when the pressure subsides.",
+      "Carefully remove the bowl of rice and fluff with a fork. Remove the rack and add the cabbage to the pot. Seal and cook on high pressure for 3 minutes, until the cabbage is tender. Quick release, then open when the pressure subsides. Stir 1/2 cup of the cooked rice into the pot. Serve over the remaining rice."
+    ],
+    "notes": "",
+    "prepTime": "PT0S",
+    "cookTime": "PT1H10M",
+    "image": "a42c35d8-6264-46e0-8893-2db58226c6c0_0.jpg"
   },
   {
     "name": "Unstuffed Peppers",
@@ -224,6 +731,45 @@
     ],
     "source": "https://www.adventuresofanurse.com/instant-pot-unstuffed-peppers/",
     "source_url": "https://www.adventuresofanurse.com/instant-pot-unstuffed-peppers/",
-    "rating": 3
+    "rating": 3,
+    "ingredients": [
+      "1 pound ground beef",
+      "28 oz chopped tomato",
+      "2 oz tomato puree",
+      "2 cups uncooked rice",
+      "3 peppers chopped",
+      "1 onion chopped",
+      "3 cups beef broth",
+      "16 oz cheddar cheese (optional)"
+    ],
+    "directions": [
+      "1. Place your pressure cooker or instant pot on saute",
+      "2. Cook the ground beef until crumbles and brown",
+      "3. Pour in chopped tomatoes, rice, peppers, onion, beef broth, and tomato puree.",
+      "4. Place your pot on Manual Low pressure for 12 minutes. ( or use rice button)",
+      "5. Do a Quick Release",
+      "6. Stir in cheese and serve.",
+      "7. Use a gallon size freezer bag",
+      "8. Add one Pound of prepared ground beef",
+      "28 oz chopped tomato",
+      "2 oz tomato puree",
+      "2 cups uncooked rice",
+      "3 peppers chopped",
+      "1 onion chopped",
+      "3 cups beef broth",
+      "15. Freeze for up to 6months",
+      "16. Place contents of freezer bag in the instant pot",
+      "17. Cook on Manual High Pressure for 4 minutes.",
+      "18. Do a quick release",
+      "19. You can either use already prepared Rice and stir in Or",
+      "20. Add 2 cups uncooked rice",
+      "21. Manual low pressure for 12 minutes",
+      "22. quick release",
+      "23. Optional stir in cheese."
+    ],
+    "notes": "",
+    "prepTime": "PT3M",
+    "cookTime": "PT35M",
+    "image": "804c5ca5-674d-4b6f-b46a-e37d43c566be_0.jpg"
   }
 ]

@@ -9,7 +9,31 @@
       "Vegetarian"
     ],
     "source": "meal prep magic",
-    "rating": 5
+    "rating": 5,
+    "ingredients": [
+      "⅓ cup (75 ml) olive oil",
+      "1 shallot, thinly sliced",
+      "4 cloves garlic, thinly sliced",
+      "2 pounds (910 g) cherry tomatoes",
+      "⅓ cup (75 ml) white wine",
+      "Kosher salt and freshly ground black pepper",
+      "Pinch crushed red pepper",
+      "1 pound (455 g) spaghetti",
+      "2 tablespoons Cheesy Compound Butter or plain unsalted butter",
+      "½ cup (50 g) grated Parmesan cheese",
+      "8 ounces (225 g) fresh mozzarella, torn or cut into bite-size pieces",
+      "8 to 10 fresh basil leaves, cut into thin ribbons"
+    ],
+    "directions": [
+      "To blister the tomatoes, heat the olive oil in a large nonstick or coated cast-iron skillet over medium-low heat. Add the shallots and garlic and cook over low heat until they begin to soften and smell very fragrant, about 5 minutes. Add the tomatoes, wine, a pinch of salt, black pepper to taste, and a pinch of crushed red pepper. Cover and cook for 10 minutes.",
+      "Bring a large pot of salted water to a boil. Add the pasta and cook to al dente, according to package directions. Drain and set aside.",
+      "Once the tomatoes have cooked for 10 minutes, uncover the pan and mash the tomatoes with a potato masher or the back of a fork until broken down.",
+      "Simmer the sauce, uncovered, for 5 minutes, then remove from heat and add the cooked pasta and compound butter and toss until the butter is melted. Stir in the Parmesan, mozzarella, and basil, tossing to combine and slightly melt the mozzarella cheese."
+    ],
+    "notes": "Garden tomatoes!",
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "image": "88395b17-74fe-4504-83b4-a04307513a87_0.jpg"
   },
   {
     "name": "Creamy Vegan Lemon Asparagus Pasta",
@@ -20,7 +44,31 @@
       "Vegetarian"
     ],
     "source": "personal collection & minimalist baker",
-    "rating": 0
+    "rating": 0,
+    "ingredients": [
+      "2 bunches of asparagus (~24oz) or broccoli",
+      "1 pinch each salt and black pepper",
+      "2 medium lemons",
+      "7 tbsp olive oil (divided)",
+      "1/4 cup minced garlic",
+      "1 lb pasta",
+      "4 cups unsweetened plant milk",
+      "6-8 tbsp all-purpose flour",
+      "3 tbsp nutritional yeast"
+    ],
+    "directions": [
+      "Preheat oven to 400F. Add asparagus to a baking sheet and toss with 1 tbsp olive oil and a pinch of salt and pepper. Top with a thinly sliced lemon and bake for 20-25 minutes, then remove from the oven and chop into pieces.",
+      "Meanwhile, boil a pot of water and cook the pasta.",
+      "Bring a large skillet to medium heat. Once hot, add the remaining olive oil and garlic, cooking until the garlic is just starting to brown.",
+      "Add 6 tbsp flour and cook for 30 seconds. Whisk in plant milk 1/2 cup at a time. Add a pinch of salt and pepper then whisk. Slightly lower the heat and cook until thickened, stirring occasionally.",
+      "Add nutritional yeast and salt and pepper to taste. If it is not thickened, add more flour.",
+      "When the sauce has thickened, add the juice of a lemon and stir.",
+      "Add the asparagus and pasta to the sauce and mix."
+    ],
+    "notes": "",
+    "prepTime": "PT0S",
+    "cookTime": "PT25M",
+    "image": "b60c7109-0e27-49d6-abba-47721df6550d_0.jpg"
   },
   {
     "name": "Creamy Vegan White Pasta with Summer Vegetables",
@@ -31,7 +79,47 @@
       "Vegetarian"
     ],
     "source": "personal collection & minimalist baker",
-    "rating": 0
+    "rating": 0,
+    "ingredients": [
+      "Roasted Tomatoes",
+      "2 cups cherry/grape tomatoes, halved",
+      "2 teaspoons olive oil",
+      "2 pinches sea salt",
+      "Sauce",
+      "1/2 cup raw cashews",
+      "3 cloves garlic",
+      "3 tablespoons nutritional yeast",
+      "3/4 teaspoon sea salt",
+      "3/4 cup water",
+      "3/4 cup unsweetened almond milk",
+      "(optional) red pepper flakes",
+      "Pasta",
+      "1 pound of pasta",
+      "sea salt",
+      "Veggies",
+      "oil or water for sauteing",
+      "2/3 cup sliced red onion",
+      "2 cups sliced zucchini",
+      "2 pinches sea salt",
+      "2 pinches black pepper",
+      "1 teaspoon dried oregano",
+      "1 teaspoon dried basil",
+      "3 cups spinach"
+    ],
+    "directions": [
+      "Preheat oven to 300F.",
+      "Slice tomatoes in half lengthwise and toss with oil and salt, arranging them cut-side up on a baking sheet with silicone mat.",
+      "Bake for 30-40 minutes, or until the edges have shriveled.",
+      "While the tomatoes are roasting, cook the pasta.",
+      "Blend the sauce ingredients very well and adjust flavors as needed. Nutritional yeast, salt, and garlic may be required.",
+      "Heat a skillet over medium heat and coat with oil or water. Add the onion and squash, then season with the spices.",
+      "Once the veggies are tender and slightly brown, add spinach and stir until wilted.",
+      "Combine the pasta, tomatoes, sauce, and veggies."
+    ],
+    "notes": "",
+    "prepTime": "PT0S",
+    "cookTime": "PT40M",
+    "image": "d366f3db-7e8a-49aa-aca2-2493573fe515_0.jpg"
   },
   {
     "name": "Deli-Style Pasta Salad",
@@ -43,7 +131,41 @@
       "Vegetable"
     ],
     "source": "taste of home 1998",
-    "rating": 4
+    "rating": 4,
+    "ingredients": [
+      "1 package (7 ounces) tricolor spiral pasta",
+      "6 ounces thinly sliced hard salami, julienned",
+      "6 ounces provolone cheese, cubed",
+      "1 can (2-1/4 ounces) sliced ripe olives, drained",
+      "1 small red onion, thinly sliced",
+      "1 small zucchini, halved and thinly sliced",
+      "1/2 cup chopped green pepper",
+      "1/2 cup chopped sweet red pepper",
+      "1/4 cup minced fresh parsley",
+      "1/4 cup grated Parmesan cheese",
+      "1/2 cup olive or vegetable oil",
+      "1/4 cup cider or red wine vinegar",
+      "1 garlic clove, minced",
+      "1-1/2 teaspoons ground mustard",
+      "1 teaspoon dried basil",
+      "1 teaspoon dried oregano",
+      "1/4 teaspoon salt",
+      "Dash pepper",
+      "2 medium tomatoes, cut into wedges"
+    ],
+    "directions": [
+      "Cook the pasta according to package directions; rinse in cold water and drain.",
+      "Place in a large bowl; add the next nine ingredients.",
+      "In a jar with tight-fitting lid, combine oil, vinegar, garlic, mustard, basil, oregano, salt and pepper; shake well.",
+      "Pour over salad and toss to coat.",
+      "Cover and chill for 8 hours or overnight.",
+      "Toss before serving.",
+      "Garnish with tomatoes."
+    ],
+    "notes": "",
+    "prepTime": "PT0S",
+    "cookTime": "PT0S",
+    "image": "e3568d96-4111-4733-8024-ba78d8ed4123_0.jpg"
   },
   {
     "name": "GARLIC PASTA",
@@ -53,7 +175,26 @@
       "Vegetarian"
     ],
     "source": "taste of home 1997",
-    "rating": 3
+    "rating": 3,
+    "ingredients": [
+      "1 whole garlic bulb",
+      "1/2 cup olive or vegetable oil",
+      "1/2 cup chopped fresh parsley",
+      "1/4 cup chopped fresh oregano or 4 teaspoons dried oregano",
+      "1 teaspoon salt",
+      "1/4 teaspoon pepper",
+      "1 pound pasta, cooked and drained"
+    ],
+    "directions": [
+      "Separate garlic into cloves; remove papery skins.",
+      "In a large skillet over low heat, saute garlic in oil for 20 minutes or until golden brown.",
+      "Remove from the heat; add parsley, oregano, salt and pepper.",
+      "Toss with pasta; serve immediately."
+    ],
+    "notes": "",
+    "prepTime": "PT0S",
+    "cookTime": "PT20M",
+    "image": "46dede96-9ccd-4565-bbfc-fff0d9cdb80b_0.jpg"
   },
   {
     "name": "Lazy Veggie Lasagna",
@@ -64,7 +205,36 @@
       "Vegetarian"
     ],
     "source": "one and done",
-    "rating": 4
+    "rating": 4,
+    "ingredients": [
+      "1 cup (8 ounces) part-skim ricotta cheese, at room temperature",
+      "1/4 cup freshly grated Parmesan cheese",
+      "2 tablespoons chopped fresh parsley, plus more for garnish",
+      "1/2 tablespoon olive oil",
+      "1/2 medium onion, chopped",
+      "6 ounces mushrooms, stemmed and thinly sliced",
+      "1 1/2 cups broccoli florets (1-inch pieces)",
+      "1/2 cup chopped red bell pepper",
+      "3 garlic cloves, chopped",
+      "2 cups chopped baby spinach",
+      "2 cups jarred marinara sauce",
+      "1/4 cup low-sodium vegetable broth",
+      "1/4 cup chopped fresh basil",
+      "6 1/2 ounces no-boil lasagna noodles (about 11), wheat or gluten-free, broken into 1 1/2-inch pieces",
+      "3/4 cup (3 ounces) shredded part-skim mozzarella cheese"
+    ],
+    "directions": [
+      "In a small bowl, combine the ricotta, Parmesan, and parsley.",
+      "In a 12-inch ovenproof nonstick skillet with a fitted lid, heat the oil over medium-high heat until shimmering. Add the onion, mushrooms, broccoli, bell pepper, and garlic, and cook, stirring, until the vegetables are tender, about 5 minutes. Add the spinach and cook, stirring, until wilted, about 1 minute. Transfer to a medium bowl.",
+      "To the skillet, add the marinara sauce, broth, and basil. Stir to combine and bring to a simmer. Add the noodles, stir to coat, and spread into an even layer, making sure the noodles are submerged in liquid. Return the vegetables to the skillet and reduce the heat to medium. Simmer, covered and stirring occasionally, until the pasta is just tender and the sauce has thickened, about 20 minutes.",
+      "Remove the pan from the heat and dollop the ricotta cheese mixture over the lasagna noodles. Sprinkle the mozzarella over the top.",
+      "Adjust an oven rack to 6 inches from the heating element and preheat the broiler to high.",
+      "Broil until the cheese is melted and slightly browned, 3 to 4 minutes. Divide among 4 plates and garnish with the parsley."
+    ],
+    "notes": "Use 11 normal lasagna noodles, broken up. Add more broth or marinara as needed.",
+    "prepTime": "PT0S",
+    "cookTime": "PT0S",
+    "image": "3016f300-5ee4-4ea4-9cb5-ca9b253e032c_0.jpg"
   },
   {
     "name": "Parmesan Noodles",
@@ -74,7 +244,21 @@
       "Vegetarian"
     ],
     "source": "Gooseberry Patch Quick & Easy",
-    "rating": 4
+    "rating": 4,
+    "ingredients": [
+      "8-oz. pkg. medium egg noodles, cooked",
+      "3 T. green onions, chopped",
+      "2 T. butter",
+      "1/2 c. grated Parmesan cheese",
+      "garlic salt and pepper to taste"
+    ],
+    "directions": [
+      "Toss together all ingredients in a serving bowl; serve warm or cold."
+    ],
+    "notes": "",
+    "prepTime": "PT5M",
+    "cookTime": "PT12M",
+    "image": "a50adbb2-aa67-464d-992e-4394c5ce5cb2_0.jpg"
   },
   {
     "name": "Pasta Puttanesca",
@@ -83,7 +267,29 @@
       "Pasta"
     ],
     "source": "Recipe Keeper",
-    "rating": 0
+    "rating": 0,
+    "ingredients": [
+      "4 tablespoons olive oil",
+      "1/8 cup butter",
+      "2 cloves garlic",
+      "4 anchovy fillets",
+      "1lb plum tomatoes",
+      "1 tablespoon tomato puree",
+      "1/2 cup black olives",
+      "1/2 tablespoon capers",
+      "1lb Spaghetti or any other pasta",
+      "Parmesan cheese"
+    ],
+    "directions": [
+      "1. Cook the pasta as directed on the instructions.",
+      "2. At the same time, heat the oil and butter in a separate pan and gently fry the garlic and anchovies for 3-4 minutes.",
+      "3. Add the tomatoes, tomato puree, olives, capers and fry for 7-8 minutes, stirring from time to time.",
+      "4. Drain the pasta, pour over the sauce and serve with freshly grated Parmesan cheese."
+    ],
+    "notes": "",
+    "prepTime": "PT5M",
+    "cookTime": "PT10M",
+    "image": "7f2decec-2e7f-594b-90ac-5fed6ed1b4c7_0.jpg"
   },
   {
     "name": "Summer Veggie Zucchini Noodles with Burrata",
@@ -94,7 +300,29 @@
       "Vegetarian"
     ],
     "source": "one and done",
-    "rating": 3
+    "rating": 3,
+    "ingredients": [
+      "1 tablespoon extra-virgin olive oil",
+      "1 garlic clove, sliced",
+      "1 cup halved cherry tomatoes",
+      "1 cup sliced asparagus",
+      "3/4 teaspoon kosher salt",
+      "Freshly ground black pepper",
+      "1 cup packed baby spinach",
+      "1 large or 2 small zucchini (about 14 ounces total), spiralized and cut into 6-inch lengths",
+      "1/4 cup (1 ounce) freshly grated Parmesan cheese",
+      "1 (4-ounce) ball burrata, sliced into 4 pieces",
+      "2 tablespoons chopped fresh basil"
+    ],
+    "directions": [
+      "Heat a large skillet over high heat. Add 1/2 tablespoon of the olive oil and the garlic and cook, stirring, until golden, about 30 seconds. Add the tomatoes, asparagus, 1/4 teaspoon of the salt, and pepper to taste. Cook, stirring, until the asparagus is crisp-tender, about 3 minutes. Stir in the spinach and cook until wilted, about 1 minute. Transfer to a medium bowl.",
+      "To the pan, add the remaining 1/2 tablespoon oil, the zucchini noodles, remaining 1/2 teaspoon salt, and pepper to taste. Cook, stirring, until slightly undercooked, about 1 minute.",
+      "Divide the zucchini noodles between 2 plates. Top each with half of the reserved vegetables, the Parmesan, burrata slices, and fresh basil. Serve immediately."
+    ],
+    "notes": "Double for multiple meals.",
+    "prepTime": "PT0S",
+    "cookTime": "PT0S",
+    "image": "63f6bc06-06d1-4a95-8ca0-e2bc561eb436_0.jpg"
   },
   {
     "name": "Waffles/pancakes",
@@ -103,7 +331,13 @@
       "Vegetarian"
     ],
     "source": "",
-    "rating": 0
+    "rating": 0,
+    "ingredients": [],
+    "directions": [],
+    "notes": "",
+    "prepTime": "PT0S",
+    "cookTime": "PT0S",
+    "image": null
   },
   {
     "name": "Walnut Ham Linguine",
@@ -113,7 +347,28 @@
       "Pork"
     ],
     "source": "taste of home 2001",
-    "rating": 4
+    "rating": 4,
+    "ingredients": [
+      "1 package (16 ounces) linguine or thin spaghetti",
+      "2 to 4 garlic cloves, minced",
+      "1/4 cup olive or vegetable oil",
+      "1/2 cup coarsely chopped walnuts",
+      "1/2 pound fully cooked ham slices, cut into 1/2-inch strips",
+      "1/3 cup grated Parmesan cheese",
+      "1/4 cup minced fresh parsley"
+    ],
+    "directions": [
+      "Cook pasta according to package directions.",
+      "Meanwhile, in a large skillet, saute garlic in oil for 1 minute.",
+      "Add walnuts; saute for 2 minutes.",
+      "Stir in ham; cook until heated through, about 2 minutes.",
+      "Drain pasta; toss with ham mixture.",
+      "Sprinkle with Parmesan and parsley."
+    ],
+    "notes": "",
+    "prepTime": "PT0S",
+    "cookTime": "PT0S",
+    "image": "5d3777df-0520-4e83-bfbe-251a5bbe8759_0.jpg"
   },
   {
     "name": "Zucchini Lemon Pasta",
@@ -124,6 +379,36 @@
       "Vegetarian"
     ],
     "source": "feel good food",
-    "rating": 3
+    "rating": 3,
+    "ingredients": [
+      "FOR THE SAUCE",
+      "Reserved 1 cup zucchini flesh from Recipe 1",
+      "3/4 cup raw cashews",
+      "1/4 cup extra-virgin olive oil",
+      "2 tablespoons fresh lemon juice",
+      "2 garlic cloves",
+      "1 teaspoon sea salt",
+      "1/2 teaspoon Dijon mustard",
+      "FOR THE PASTA",
+      "10 ounces orecchiette pasta",
+      "1 tablespoon extra-virgin olive oil, plus more for drizzling",
+      "3 medium zucchini, sliced into coins",
+      "¼ cup fresh mint leaves",
+      "2 tablespoons chopped fresh dill",
+      "2 tablespoons pine nuts",
+      "Zest of 1 lemon",
+      "Pinch of red pepper flakes",
+      "Sea salt and freshly ground black pepper"
+    ],
+    "directions": [
+      "Make the sauce: Place the reserved zucchini flesh in a high-speed blender with the cashews, olive oil, lemon juice, garlic, salt, and mustard and blend until creamy.",
+      "Cook the pasta: Bring a large pot of salted water to a boil. Prepare the pasta according to the package instructions, cooking until al dente. During the last few minutes of cooking, scoop out 1 ¼ cups of the hot pasta water and set aside. Drain the pasta and toss it with a drizzle of oil to prevent sticking.",
+      "Return the pot to the stove. Add the oil, zucchini, and pinches of salt and pepper. Sauté over medium heat for 6 to 8 minutes, or until soft. Stir in the pasta, add the sauce and 1/2 cup of the reserved pasta water, and toss to combine. Add more pasta water, as needed, if the sauce is too thick. Season to taste.",
+      "Portion the pasta into bowls and top with the mint, dill, pine nuts, lemon zest, and red pepper flakes."
+    ],
+    "notes": "A whole pound of pasta works fine.",
+    "prepTime": "PT20M",
+    "cookTime": "PT0S",
+    "image": "57d54c32-c60f-4338-bd7f-d783756771f9_0.jpg"
   }
 ]

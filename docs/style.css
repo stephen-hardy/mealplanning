@@ -285,6 +285,57 @@ details[open] summary {
     display: inline-block;
 }
 
+.recipe-image {
+    width: 100%;
+    height: auto;
+    max-height: 300px;
+    object-fit: cover;
+    border-radius: calc(var(--radius) / 2);
+    margin-bottom: 1rem;
+}
+
+.recipe-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+    font-size: 0.9rem;
+    color: #666;
+}
+
+@media (prefers-color-scheme: dark) {
+    .recipe-meta {
+        color: #aaa;
+    }
+}
+
+.recipe-sections {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.ingredients-section ul, .directions-section ol {
+    padding-left: 1.25rem;
+    margin-top: 0.5rem;
+}
+
+.ingredients-section li, .directions-section li {
+    margin-bottom: 0.5rem;
+}
+
+.recipe-notes-internal {
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border-color);
+}
+
+.recipe-notes-internal p {
+    font-size: 0.95rem;
+    font-style: italic;
+    opacity: 0.8;
+}
+
 .hidden {
     display: none !important;
 }

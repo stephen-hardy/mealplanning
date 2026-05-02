@@ -6,7 +6,23 @@
       "Fish"
     ],
     "source": "mad hungry men and boys",
-    "rating": 4
+    "rating": 4,
+    "ingredients": [
+      "1 cup soy sauce",
+      "1/4 cup honey",
+      "2 tablespoons fresh lemon juice or mild vinegar",
+      "1 inch of peeled fresh ginger, sliced",
+      "3 garlic cloves, smashed",
+      "2 pounds boneless salmon fillet, pin bones removed"
+    ],
+    "directions": [
+      "Whisk the soy, honey, and lemon juice together in a large enough dish to fit the salmon. Stir in the ginger and garlic. Place the salmon, skin side up, in the sauce and marinate for at least 10 minutes or up to 30 minutes.",
+      "Preheat a broiler or prepare coals to very hot in a grill. Remove the salmon from the marinade, pat it dry with paper towels, and place it skin side down on an oiled pan or grill grate. Cook until it is slightly firm to the touch, 10 to 15 minutes, depending on thickness. While the salmon is cooking, brush it a couple of times with the marinade to use it all up. Immediately remove the skin while the fish is hot. Serve."
+    ],
+    "notes": "Can obscure the fish flavor.",
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "image": "7b282267-a4d2-45b1-a9cf-0fdfc5a2aa57_0.jpg"
   },
   {
     "name": "Coconut-Curry Rice with Salmon and Cilantro",
@@ -16,7 +32,30 @@
       "Rice"
     ],
     "source": "cookish",
-    "rating": 4
+    "rating": 4,
+    "ingredients": [
+      "3 tablespoons neutral oil or coconut oil",
+      "1 bunch cilantro, chopped, stems and leaves reserved separately",
+      "2½ teaspoons curry powder",
+      "2 teaspoons finely grated fresh ginger",
+      "1½ cups long-grain white rice, rinsed and drained",
+      "1 cup coconut milk",
+      "Kosher salt and ground black pepper",
+      "8 ounces skinless salmon fillet or tuna steak, cut into ½-inch pieces"
+    ],
+    "directions": [
+      "In a large saucepan, cook the oil, cilantro stems, curry powder and ginger, stirring, until sizzling and fragrant.",
+      "Stir in the rice, coconut milk and 1½ cups water. Bring to a simmer.",
+      "Cover, reduce to low and cook until the rice is tender and the liquid has been absorbed, 15 to 20 minutes.",
+      "Uncover and scatter the fish over the rice.",
+      "Re-cover, remove from the heat and let stand for 8 minutes.",
+      "Fluff the rice with a fork, mixing in the fish.",
+      "Stir in the cilantro leaves and season with salt and pepper."
+    ],
+    "notes": "",
+    "prepTime": "PT15M",
+    "cookTime": "PT25M",
+    "image": "c161c966-f376-4fbe-8afa-c931ebc98ac2_0.jpg"
   },
   {
     "name": "Garlic Butter Oven Baked Tilapia",
@@ -26,7 +65,32 @@
     ],
     "source": "https://diethood.com/garlic-butter-oven-baked-tilapia/",
     "source_url": "https://diethood.com/garlic-butter-oven-baked-tilapia/",
-    "rating": 4
+    "rating": 4,
+    "ingredients": [
+      "4 tilapia fillets",
+      "Salt and freshly ground black pepper, (to taste)",
+      "½ teaspoon paprika",
+      "½ teaspoon dried thyme",
+      "½ teaspoon dried oregano",
+      "4 tablespoons butter, (melted)",
+      "4 cloves garlic, (minced)",
+      "2 tablespoons lemon juice",
+      "¼ teaspoon lemon zest",
+      "1 lemon, (sliced into rounds, for garnish)",
+      "Red pepper flakes, (for garnish)",
+      "Chopped fresh parsley, (for garnish)",
+      "Lemon slices, (for garnish)"
+    ],
+    "directions": [
+      "1. Preheat oven to 400°F. Season tilapia with salt, pepper, paprika, thyme, and oregano; arrange fish in a 9x13 baking dish.",
+      "2. In a mixing bowl, whisk together melted butter, garlic, lemon juice, and lemon zest; pour over tilapia.",
+      "3. Bake tilapia for 10 to 12 minutes, or until fish flakes and is fork-tender.",
+      "4. Garnish with pepper flakes, parsley, and lemon slices. Serve."
+    ],
+    "notes": "",
+    "prepTime": "PT5M",
+    "cookTime": "PT12M",
+    "image": "3a2433bf-81dc-4be1-8752-dd05b86e936c_0.jpg"
   },
   {
     "name": "Make-it-mine Baked Fish",
@@ -35,7 +99,50 @@
       "Fish"
     ],
     "source": "better homes",
-    "rating": 0
+    "rating": 0,
+    "ingredients": [
+      "BASIC INGREDIENTS",
+      "1½ pounds fresh or frozen skinless Fish Fillets",
+      "2 eggs or egg whites, lightly beaten",
+      "1 tablespoon milk or water",
+      "1 cup Crumb Topping",
+      "Seasoning Combo",
+      "Nonstick cooking spray",
+      "Topping",
+      "FISH FILLETS (PICK ONE)",
+      "Catfish",
+      "Grouper",
+      "Red snapper",
+      "Salmon",
+      "Tilapia",
+      "CRUMB TOPPING (PICK ONE)",
+      "1 cup crushed Italian-seasoned or garlic croutons",
+      "1 cup panko (Japanese-style bread crumbs)",
+      "1 cup crushed saltine crackers",
+      "1 cup crushed rich round crackers",
+      "1/2 cup shredded coconut and 1/2 cup panko (Japanese-style bread crumbs)",
+      "SEASONING COMBO (PICK ONE)",
+      "1 teaspoon curry powder, 1/4 teaspoon salt, and 1/4 teaspoon garlic salt",
+      "1 teaspoon dried Italian seasoning, 1/2 teaspoon salt, and 1/4 teaspoon black pepper",
+      "1 tablespoon dried ranch salad dressing mix and 1 teaspoon finely shredded lemon peel",
+      "1 tablespoon chopped fresh cilantro and 2 teaspoons taco seasoning mix",
+      "TOPPING (PICK ONE)",
+      "Honey",
+      "Tartar sauce",
+      "Honey-barbecue sauce",
+      "Purchased basil pesto",
+      "Lemon wedges and 1/4 cup dairy sour cream, 1/4 cup mayonnaise, and 1/2 teaspoon grated fresh ginger",
+      "1/2 cup ranch dressing and 1 tablespoon finely chopped pepper chipotle chile in adobo sauce"
+    ],
+    "directions": [
+      "Thaw desired Fish Fillets, if frozen. Preheat oven to 425°F. Line a large baking sheet with foil. Lightly grease foil; set aside.",
+      "Rinse fish; pat dry with paper towels. Cut fish into four to six serving-size pieces, if necessary. In a shallow dish combine eggs and milk. In a second shallow dish combine Crumb Topping and Seasoning Combo. Dip fish into egg mixture; coat fish with crumb mixture. Place fish on prepared baking sheet. Coat fish with nonstick cooking spray.",
+      "Bake in for 12 to 15 minutes or until fish begins to flake when tested with a fork. Serve fish with Topping."
+    ],
+    "notes": "",
+    "prepTime": "PT20M",
+    "cookTime": "PT12M",
+    "image": "f49a4195-3d60-487f-bdc8-a053780523f8_0.jpg"
   },
   {
     "name": "Steamed Fish with Miso and Scallions",
@@ -44,7 +151,28 @@
       "Fish"
     ],
     "source": "cookish",
-    "rating": 4
+    "rating": 4,
+    "ingredients": [
+      "1/4 cup white miso",
+      "1 bunch scallions, thinly sliced, white and green parts reserved separately",
+      "2 tablespoons neutral oil",
+      "2 tablespoons honey",
+      "2 tablespoons low-sodium soy sauce",
+      "Four 6-ounce cod OR haddock OR halibut fillets (about 1 inch thick)",
+      "2 lemons, thinly sliced"
+    ],
+    "directions": [
+      "In a large, shallow bowl, mix the miso, scallion whites, oil, honey and soy sauce. Add the fillets and turn to coat.",
+      "Fill a Dutch oven with about 1 inch of water, cover and bring to a simmer.",
+      "Line a steamer basket with half the lemon slices, place the fillets on top and lay the remaining lemon slices over the fish.",
+      "Place the basket in the pot, cover, reduce to medium and steam until the fish flakes easily, about 10 minutes.",
+      "Using a wide spatula, transfer the fish to a platter. Sprinkle with scallion greens.",
+      "Optional garnish: Toasted sesame seeds"
+    ],
+    "notes": "Cook in instant pot instead of steam.",
+    "prepTime": "PT20M",
+    "cookTime": "PT10M",
+    "image": "e72997f5-03da-4763-8155-9f28400288f3_0.jpg"
   },
   {
     "name": "Trout with almonds",
@@ -53,7 +181,26 @@
       "Fish"
     ],
     "source": "mad hungry family",
-    "rating": 4
+    "rating": 4,
+    "ingredients": [
+      "1/2 cup sliced almonds",
+      "1/2 cup all-purpose flour",
+      "1/2 teaspoon coarse salt",
+      "1/4 teaspoon cayenne pepper",
+      "1 cup milk",
+      "4 trout fillets",
+      "1 tablespoon extra-virgin olive oil",
+      "1 tablespoon unsalted butter",
+      "2 garlic cloves, smashed and peeled"
+    ],
+    "directions": [
+      "Toast the almonds and set aside. Combine the flour, salt, and cayenne pepper in a flat dish. Pour the milk into another dish. Place the trout fillets in the milk and let sit for a couple of minutes.",
+      "Heat a large sauté pan over medium heat. Swirl in the oil and add the butter. Dredge both sides of the fillets in the flour mixture and add to the pan. Raise the heat, add the garlic cloves to the pan, and swirl them around. Flip the trout after 2 minutes and remove the garlic (you don't want it to brown). Cook until the fish is cooked through and lightly golden brown, 1 to 2 minutes more. Scatter the toasted almonds over the fish. Serve immediately."
+    ],
+    "notes": "Great with steelhead.",
+    "prepTime": "PT0S",
+    "cookTime": "PT0S",
+    "image": "fef503be-55c0-4b03-8719-d634c2520c2d_0.jpg"
   },
   {
     "name": "Tuna Salad Sandwich",
@@ -63,7 +210,32 @@
       "Sandwich"
     ],
     "source": "mad hungry men & boys",
-    "rating": 3
+    "rating": 3,
+    "ingredients": [
+      "2 x 6-ounce cans water-packed white tuna",
+      "1 large scallion (both white and green parts), finely chopped, or 1/4 cup or less finely chopped or grated onion",
+      "1 celery stalk, chopped",
+      "1 tablespoon fresh lemon juice (from 1/2 lemon)",
+      "1/4 teaspoon freshly ground black pepper",
+      "1/4 teaspoon coarse salt, plus more to taste",
+      "1/4 cup mayonnaise, or to taste",
+      "8 to 12 slices whole-grain or rye bread",
+      "8 to 12 lettuce leaves, washed and patted dry",
+      "OPTIONAL ADD-INS",
+      "1 to 3 dashes of Tabasco sauce",
+      "2 pickles of choice, finely chopped",
+      "1 teaspoon capers, rinsed",
+      "1/4 teaspoon chopped fresh dill"
+    ],
+    "directions": [
+      "Drain the tuna, and place it in a bowl. Break up the chunks with a fork. Add the scallion and toss together. Mix in the celery, lemon juice, pepper, and salt and any optional add-ins.",
+      "Little by little, mix in the mayonnaise until the desired consistency is reached. Spread the tuna salad on plain or toasted bread, topped with lettuce.",
+      "For tuna melts, omit the lettuce. Toast slices of bread. Top the toast with tuna salad and top with 1 slice of cheddar, Swiss, or white American cheese. Broil in a toaster oven or broiler for 3 minutes, or until the cheese is melted."
+    ],
+    "notes": "",
+    "prepTime": "PT0S",
+    "cookTime": "PT0S",
+    "image": "2c6e501b-308a-41d2-a405-fd223f9f83a0_0.jpg"
   },
   {
     "name": "Tuna Tomato Pasta",
@@ -73,6 +245,27 @@
       "Pasta"
     ],
     "source": "Mad Hungry Men & boys",
-    "rating": 3
+    "rating": 3,
+    "ingredients": [
+      "1 tablespoon extra-virgin olive oil, plus more for drizzling",
+      "1 small onion, finely chopped",
+      "2 garlic cloves, minced",
+      "Pinch of crushed red pepper flakes, plus more for garnish",
+      "3 cans tuna, well drained",
+      "2 cans crushed tomatoes, with juice",
+      "Coarse salt and freshly ground black pepper",
+      "1 tablespoon chopped fresh oregano, thyme, or rosemary",
+      "1 pound penne or fusilli pasta"
+    ],
+    "directions": [
+      "Bring a large pot of water to a boil over high heat.",
+      "Heat a medium saucepan and add the olive oil, swirling to coat the pan. Sauté the onion and garlic until the onion is translucent, about 5 minutes. Stir in the red pepper flakes. Add the tuna and stir, being careful not to break up the chunks too much.",
+      "Stir in the tomatoes, season with salt and black pepper, bring to a boil, and reduce the heat to a simmer. Cook for 20 to 30 minutes. Add the chopped herb a few minutes before serving.",
+      "While the sauce is simmering, cook the pasta, drain, and toss with the sauce. Top with a drizzle of olive oil and an extra sprinkle of red pepper flakes."
+    ],
+    "notes": "",
+    "prepTime": "PT0S",
+    "cookTime": "PT30M",
+    "image": "7d186348-5a0f-4432-8946-c9bbb91c96f0_0.jpg"
   }
 ]

@@ -126,38 +126,59 @@ function renderDay(dayNum) {
     const dateStr = `May ${dayData.day.toString().padStart(2, '0')}`;
     viewTitle.textContent = `Day ${dayData.day} - ${dateStr}`;
 
-    const getLink = (info) => {
-        if (!info) return 'Not specified';
-        if (info.source_url) return `<a href="${info.source_url}" target="_blank" class="recipe-link">${info.name}</a>`;
-        if (info.source) return `<span class="recipe-source">${info.name} (${info.source})</span>`;
-        return info.name;
+    const renderRecipe = (info, label) => {
+        if (!info) return '';
+        
+        const hasDetails = (info.ingredients && info.ingredients.length > 0) || 
+                          (info.directions && info.directions.length > 0);
+
+        return `
+            <details ${label === 'Primary' ? 'open' : ''}>
+                <summary>${label}: ${info.name}</summary>
+                <div class="details-content">
+                    ${info.image ? `<img src="images/${info.image}" class="recipe-image" alt="${info.name}">` : ''}
+                    
+                    <div class="recipe-meta">
+                        ${info.prepTime ? `<span><strong>Prep:</strong> ${info.prepTime.replace('PT', '').replace('M', ' mins')}</span>` : ''}
+                        ${info.cookTime ? `<span><strong>Cook:</strong> ${info.cookTime.replace('PT', '').replace('M', ' mins')}</span>` : ''}
+                        ${info.source ? `<span><strong>Source:</strong> ${info.source_url ? `<a href="${info.source_url}" target="_blank">${info.source}</a>` : info.source}</span>` : ''}
+                    </div>
+
+                    ${hasDetails ? `
+                        <div class="recipe-sections">
+                            <div class="ingredients-section">
+                                <h3>Ingredients</h3>
+                                <ul>
+                                    ${info.ingredients.map(ing => `<li>${ing}</li>`).join('')}
+                                </ul>
+                            </div>
+                            <div class="directions-section">
+                                <h3>Directions</h3>
+                                <ol>
+                                    ${info.directions.map(step => `<li>${step}</li>`).join('')}
+                                </ol>
+                            </div>
+                        </div>
+                    ` : `
+                        <p>${info.source_url ? `<a href="${info.source_url}" target="_blank" class="recipe-link">View Full Recipe</a>` : 'Recipe details not available.'}</p>
+                    `}
+
+                    ${info.notes ? `
+                        <div class="recipe-notes-internal">
+                            <h3>Recipe Notes</h3>
+                            <p>${info.notes}</p>
+                        </div>
+                    ` : ''}
+                </div>
+            </details>
+        `;
     };
 
     content.innerHTML = `
         <main class="day-view">
-            <details open>
-                <summary>Primary Meal: ${dayData.primary}</summary>
-                <div class="details-content">
-                    <h3>Recipe</h3>
-                    <p>${getLink(dayData.primary_info)}</p>
-                    <h3>Category</h3>
-                    <p>${dayData.category}</p>
-                </div>
-            </details>
-
-            <details>
-                <summary>Fallback: ${dayData.fallback}</summary>
-                <div class="details-content">
-                    <p>${getLink(dayData.fallback_info)}</p>
-                </div>
-            </details>
-
-            <details>
-                <summary>Dessert: ${dayData.dessert}</summary>
-                <div class="details-content">
-                    <p>${getLink(dayData.dessert_info)}</p>
-                </div>
-            </details>
+            ${renderRecipe(dayData.primary_info, 'Primary')}
+            ${renderRecipe(dayData.fallback_info, 'Fallback')}
+            ${renderRecipe(dayData.dessert_info, 'Dessert')}
 
             <details open>
                 <summary>Kitchen Notes</summary>

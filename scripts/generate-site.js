@@ -23,14 +23,17 @@ function loadRecipeData() {
         });
     }
 
-    // Load desserts
-    const dessertFile = path.join(DATA_DIR, 'desserts.json');
-    if (fs.existsSync(dessertFile)) {
-        const data = JSON.parse(fs.readFileSync(dessertFile, 'utf8'));
-        data.forEach(r => {
-            recipes[r.name.toLowerCase()] = r;
-        });
-    }
+    // Load desserts and other potential loose files
+    const additionalFiles = ['desserts.json', 'other.json'];
+    additionalFiles.forEach(file => {
+        const filePath = path.join(DATA_DIR, file);
+        if (fs.existsSync(filePath)) {
+            const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+            data.forEach(r => {
+                recipes[r.name.toLowerCase()] = r;
+            });
+        }
+    });
 
     return recipes;
 }
@@ -61,21 +64,47 @@ function getRecipeInfo(name) {
     const recipe = recipeData[name.toLowerCase()];
     if (recipe) {
         return {
-            name: name,
-            source_url: recipe.source_url || null,
-            source: recipe.source || null
+            ...recipe,
+            name: name // Use name from meal plan if provided
         };
     }
     return { name: name, source_url: null, source: null };
 }
 
+const IMAGES_DOCS_DIR = path.join(DOCS_DIR, 'images');
+if (!fs.existsSync(IMAGES_DOCS_DIR)) fs.mkdirSync(IMAGES_DOCS_DIR, { recursive: true });
+
+// Find the latest RecipeKeeper images directory
+const recipeKeeperDir = fs.readdirSync(DATA_DIR).find(d => d.startsWith('RecipeKeeper_'));
+const SOURCE_IMAGES_DIR = recipeKeeperDir ? path.join(DATA_DIR, recipeKeeperDir, 'images') : null;
+
+function copyRecipeImage(imageName) {
+    if (!imageName || !SOURCE_IMAGES_DIR) return;
+    const sourcePath = path.join(SOURCE_IMAGES_DIR, imageName);
+    const destPath = path.join(IMAGES_DOCS_DIR, imageName);
+    if (fs.existsSync(sourcePath) && !fs.existsSync(destPath)) {
+        fs.copyFileSync(sourcePath, destPath);
+    }
+}
+
 // Write JSON data
-const processedMealPlan = mealPlan.map(day => ({
-    ...day,
-    primary_info: getRecipeInfo(day.primary),
-    fallback_info: getRecipeInfo(day.fallback),
-    dessert_info: getRecipeInfo(day.dessert)
-}));
+const processedMealPlan = mealPlan.map(day => {
+    const primary_info = getRecipeInfo(day.primary);
+    const fallback_info = getRecipeInfo(day.fallback);
+    const dessert_info = getRecipeInfo(day.dessert);
+
+    // Copy images if they exist
+    if (primary_info.image) copyRecipeImage(primary_info.image);
+    if (fallback_info.image) copyRecipeImage(fallback_info.image);
+    if (dessert_info.image) copyRecipeImage(dessert_info.image);
+
+    return {
+        ...day,
+        primary_info,
+        fallback_info,
+        dessert_info
+    };
+});
 
 fs.writeFileSync(path.join(DOCS_DIR, 'mealplan.json'), JSON.stringify(processedMealPlan, null, 2));
 

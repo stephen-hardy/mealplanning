@@ -3,7 +3,7 @@ const path = require('path');
 
 const PLAN_FILE = path.join(__dirname, '../plans/meal_plan_final.md');
 const DATA_DIR = path.join(__dirname, '../data');
-const DOCS_DIR = path.join(__dirname, '../site');
+const DOCS_DIR = path.join(__dirname, '../docs');
 
 if (!fs.existsSync(DOCS_DIR)) fs.mkdirSync(DOCS_DIR, { recursive: true });
 

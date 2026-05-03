@@ -100,7 +100,7 @@ async function shareDay(dayNum) {
 function renderOverview() {
     const content = document.getElementById('app-content');
     const listItems = mealPlan.map(d => `
-        <a href="#day-${d.day}" class="day-card">
+        <a href="#day-${d.day}" class="day-card" style="view-transition-name: day-card-${d.day}">
             <span class="day-num">${d.day}</span>
             <span class="day-title">${d.primary}</span>
         </a>
@@ -132,15 +132,34 @@ function renderDay(dayNum) {
         const hasDetails = (info.ingredients && info.ingredients.length > 0) || 
                           (info.directions && info.directions.length > 0);
 
+        const formatTime = (timeStr) => {
+            if (!timeStr) return '';
+            // ISO 8601 duration parser (simplified)
+            const h = timeStr.match(/(\d+)H/);
+            const m = timeStr.match(/(\d+)M/);
+            const s = timeStr.match(/(\d+)S/);
+            
+            let parts = [];
+            if (h) parts.push(`${h[1]} hr`);
+            if (m && m[1] !== '0') parts.push(`${m[1]} mins`);
+            if (s && s[1] !== '0' && parts.length === 0) parts.push(`${s[1]}s`);
+            
+            return parts.join(' ');
+        };
+
+        const prep = formatTime(info.prepTime);
+        const cook = formatTime(info.cookTime);
+
         return `
-            <details ${label === 'Primary' ? 'open' : ''}>
-                <summary>${label}: ${info.name}</summary>
+            <details class="recipe-group" name="meal-sections" ${label === 'Primary' ? 'open' : ''}>
+                <summary>${label}</summary>
                 <div class="details-content">
+                    <h2 class="recipe-title">${info.name}</h2>
                     ${info.image ? `<img src="images/${info.image}" class="recipe-image" alt="${info.name}">` : ''}
                     
                     <div class="recipe-meta">
-                        ${info.prepTime ? `<span><strong>Prep:</strong> ${info.prepTime.replace('PT', '').replace('M', ' mins')}</span>` : ''}
-                        ${info.cookTime ? `<span><strong>Cook:</strong> ${info.cookTime.replace('PT', '').replace('M', ' mins')}</span>` : ''}
+                        ${prep ? `<span><strong>Prep:</strong> ${prep}</span>` : ''}
+                        ${cook ? `<span><strong>Cook:</strong> ${cook}</span>` : ''}
                         ${info.source ? `<span><strong>Source:</strong> ${info.source_url ? `<a href="${info.source_url}" target="_blank">${info.source}</a>` : info.source}</span>` : ''}
                     </div>
 
@@ -180,7 +199,7 @@ function renderDay(dayNum) {
             ${renderRecipe(dayData.fallback_info, 'Fallback')}
             ${renderRecipe(dayData.dessert_info, 'Dessert')}
 
-            <details open>
+            <details class="recipe-group" name="meal-sections">
                 <summary>Kitchen Notes</summary>
                 <div class="details-content notes-section">
                     <p>${dayData.notes || 'No notes for today.'}</p>
